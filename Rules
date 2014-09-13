@@ -54,7 +54,7 @@ end
 
 route "/*/news/*/" do
   if item.identifier =~ /(\d{4})-(\d{2})-(\d{2})-(.*)$/
-    $` + "#$1/#$2/#$3/#{$4.chop}.html"
+    $` + "#$1/#$2/#$3/#$4" + "index.html"
   else
     raise "Invalid news post filename format #{item.identifier}"
   end
@@ -70,7 +70,7 @@ LANGUAGES.each do |lang|
   end
 
   route "/#{lang}/pages/*/" do
-    "/#{lang}/" + item.identifier.split("/")[3] + ".html"
+    "/#{lang}/" + item.identifier.split("/")[3] + "/index.html"
   end
 end
 
