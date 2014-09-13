@@ -3,4 +3,5 @@
 # order. This file must be last (hence "zz" in the
 # filename).
 
+include Nanoc::Helpers::Rendering
 include NewsItemsHelper

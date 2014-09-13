@@ -31,10 +31,7 @@ News
 ----
 
 <% news_for("en").first(2).each do |item| %>
-  <div class="post-snippet">
-    <h3><a href="<%= item.path %>"><%= item[:title] %></a> <span class="snippet-date">(<%= item[:date].strftime("%Y-%m-%d") %>)</span></h3>
-    <p><%= item.compiled_content %></p>
-  </div>
+  <%= render "_listpost", :item => item %>
 <% end %>
 
 <p class="more"><a href="/en/news">More…</a></p>
