@@ -1,0 +1,70 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
+# A few helpful tips about the Rules file:
+#
+# * The string given to #compile and #route are matching patterns for
+#   identifiers--not for paths. Therefore, you can’t match on extension.
+#
+# * The order of rules is important: for each item, only the first matching
+#   rule is applied.
+#
+# * Item identifiers start and end with a slash (e.g. “/about/” for the file
+#   “content/about.html”). To select all children, grandchildren, … of an
+#   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
+#   because “*” matches zero or more characters.
+
+LANGUAGES = Dir["content/*"].map{|str| File.basename(str)}.select{|str| str.chars.count == 2}
+
+compile '/stylesheet/' do
+  # don’t filter or layout
+end
+
+LANGUAGES.each do |lang|
+  compile "/#{lang}/" do
+    filter :kramdown
+    layout "default_#{lang}"
+  end
+
+  compile "/#{lang}/news/*/" do
+    filter :kramdown
+    layout "default_#{lang}"
+  end
+
+  compile "/#{lang}/pages/*/" do
+    filter :kramdown
+    layout "default_#{lang}"
+  end
+end
+
+compile "/assets/*/" do
+  # don’t filter binary assets
+end
+
+route '/stylesheet/' do
+  '/style.css'
+end
+
+route "/*/news/*/" do
+  if item.identifier =~ /(\d{4})-(\d{2})-(\d{2})-(.*)$/
+    $` + "#$1/#$2/#$3/#{$4.chop}.html"
+  else
+    raise "Invalid news post filename format #{item.identifier}"
+  end
+end
+
+LANGUAGES.each do |lang|
+  route "/#{lang}/" do
+    "/#{lang}/index.html"
+  end
+
+  route "/#{lang}/pages/*/" do
+    "/#{lang}/" + item.identifier.split("/")[3] + ".html"
+  end
+end
+
+route "/assets/*/" do
+  item.identifier.chop + "." + item[:extension]
+end
+
+layout '*', :erb

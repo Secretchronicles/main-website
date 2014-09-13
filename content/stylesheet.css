@@ -1,0 +1,100 @@
+/***************************************
+ * Styles for all elements
+ ***************************************/
+
+html {
+    margin: 0px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 12pt;
+    margin: 0px;
+}
+
+a {
+    color: #23629d;
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 1px dotted black;
+    font-size: 18pt;
+}
+
+h2 {
+    font-size: 16pt;
+}
+
+/***************************************
+ * Main area
+ ***************************************/
+
+#main {
+    margin: 0px auto 0px auto;
+    max-width: 600px;
+    text-align: justify;
+    -moz-hyphenation: auto;
+    -webkit-hyphenation: auto;
+    hyphenation: auto;
+}
+
+/***************************************
+ * Header and footer
+ ***************************************/
+
+#header {
+    height: 64px;
+    line-height: 64px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 1em;
+    font-size: 16pt;
+}
+
+#navi {
+    border-bottom: 1px solid black;
+    font-size: 14pt;
+    background-color: white;
+}
+
+#navi ul {
+    list-style-type: none;
+    padding: 0px 0px 0px 4px;
+    margin: 0px;
+}
+
+#navi ul li {
+    display: inline;
+}
+
+#navi ul li:before {
+    content: " · "
+}
+
+#navi ul li:first-child:before {
+    content: "";
+}
+
+#navi ul li a {
+    text-decoration: none;
+}
+
+#footer {
+    border-top: 1px dashed gray;
+    font-size: 10pt;
+    color: gray;
+}
+
+#footer p {
+    margin: 2px 2px 0px 2px;
+}
+
+#copyright {
+    float: right;
+}

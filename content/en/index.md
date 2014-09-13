@@ -1,0 +1,28 @@
+Welcome to the _Secretchronicles_ homepage. We have not yet decided on
+the final name of the game yet, so please take this with a grain of
+salt.
+
+_Secret X. Chronicles_ is a fork of the [SMC](http://secretmaryo.org)
+project, whose development has stalled. Note however that our goals
+are different from those of the original SMC project, most notably we
+are working towards our own type of game rather than being solely
+inspired by one specific existing game.
+
+We are in the process of creating our first release, so please help by
+beta-testing it!
+
+What is it?
+-----------
+
+SXC is a two-dimensional sidecrolling platform game based on
+[OpenGL](http://www.opengl.org) and [SDL](http://www.sdl.org). The
+game features a rich set of levels plus an advanced level editor that
+allows you to create your own levels. It is accompanied by a powerful
+scripting engine that utilises [mruby](http://mruby.org), a minimal
+implementation of the [Ruby programming
+language](https://www.ruby-lang.org).
+
+How to get it?
+--------------
+
+Head over to the [Downloads](/en/download.html) page.

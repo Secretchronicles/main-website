@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title><%= @item[:title] %> | Secret M. Chronicles</title>
+    <link rel="stylesheet" href="/style.css"/>
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
+  </head>
+  <body>
+    <div id="header">
+      Secret X. Chronicles
+    </div>
+    <div id="navi">
+      <ul>
+	<li><a href="/de/news">News/<a></li>
+	<li><a href="/de/downloads">Download</a></li>
+	<li><a href="http://forum.secretchronicles.de">Forum</a></li>
+      </ul>
+    </div>
+    <div id="main">
+      <%= yield %>
+    </div>
+  </body>
+</html>
