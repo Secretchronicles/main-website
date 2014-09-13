@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title><%= @item[:title] %> | Secret M. Chronicles Blog</title>
+    <link rel="stylesheet" href="/style.css"/>
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
+  </head>
+  <body>
+    <%= render "_head" %>
+
+    <div id="main">
+      <h1><%= @item[:title] %></h1>
+
+      <p class="post-info">
+	Written by <%= @item[:author] %> on <%= @item[:date].strftime("%Y-%m-%d") %>.
+
+        <% if @item[:translator] && !@item[:translator].empty? %>
+	  <br/>
+	  Translated by <%= @item[:translator] %>.
+	<% end %>
+      </p>
+
+      <%= yield %>
+    </div>
+
+    <%= render "_foot" %>
+  </body>
+</html>

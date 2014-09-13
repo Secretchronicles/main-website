@@ -37,15 +37,16 @@ LANGUAGES.each do |lang|
     layout "default_#{lang}"
   end
 
-  compile "/#{lang}/news/*/" do
-    filter :kramdown
-    layout "default_#{lang}"
-  end
-
   compile "/#{lang}/pages/*/" do
     filter :kramdown
     layout "default_#{lang}"
   end
+
+  compile "/#{lang}/news/*/" do
+    filter :kramdown
+    layout "blogpost_#{lang}"
+  end
+
 end
 
 compile "/assets/*/" do
