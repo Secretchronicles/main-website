@@ -5,3 +5,4 @@
 
 include Nanoc::Helpers::Rendering
 include NewsItemsHelper
+include SummaryExtractorHelper
