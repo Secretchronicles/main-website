@@ -12,35 +12,15 @@
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
-    <div id="header">
-      Secret X. Chronicles
-    </div>
-    <div id="navi">
-      <ul>
-	<li><a href="/en">Home<a></li>
-	<li><a href="/en/news">News<a></li>
-	<li><a href="/en/download">Download</a></li>
-	<li><a href="http://docs.secretchronicles.de">Documentation</a></li>
-	<li><a href="http://forum.secretchronicles.de">Forum</a></li>
-	<li><a href="http://wiki.secretchronicles.de">Wiki</a></li>
-	<li><a href="https://github.com/Secretchronicles/SMC/issues">Bugtracker</a></li>
-	<li><a href="https://github.com/Secretchronicles/SMC">Sourcecode</a></li>
-      </ul>
-    </div>
+    <%= render "_head" %>
+
     <div id="main">
       <% if @item[:title] %>
 	<h1><%= @item[:title] %></h1>
       <% end %>
       <%= yield %>
     </div>
-    <div id="footer">
-      <p id="copyright">
-	Copyright © <%= Time.now.year %> Secretchronicles Team
-      </p>
-      <p id="sponsor">
-	Hosting sponsored by:<br/>
-	<a href="http://www.first-root.com"><img src="/assets/first-root.png" alt="First Root"/></a>
-      </p>
-    </div>
+
+    <%= render "_foot" %>
   </body>
 </html>
