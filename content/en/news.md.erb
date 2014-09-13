@@ -1,0 +1,7 @@
+---
+title: News
+---
+
+<% news_for("en").first(10).each do |item| %>
+  <%= render "_listpost", :item => item %>
+<% end %>
