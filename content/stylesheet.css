@@ -27,7 +27,13 @@ h1 {
 }
 
 h2 {
-    font-size: 16pt;
+    font-size: 15pt;
+    border-bottom: 1px dotted black;
+}
+
+h3 {
+    font-size: 13pt;
+    font-weight: bold;
 }
 
 /***************************************
@@ -97,4 +103,20 @@ h2 {
 
 #copyright {
     float: right;
+}
+
+/***************************************
+ * Specific classes
+ ***************************************/
+
+.snippet-date {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 12pt;
+    color: gray;
+}
+
+.more {
+    text-align: right;
+    font-style: italic;
 }

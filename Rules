@@ -22,6 +22,7 @@ end
 
 LANGUAGES.each do |lang|
   compile "/#{lang}/" do
+    filter :erb
     filter :kramdown
     layout "default_#{lang}"
   end
