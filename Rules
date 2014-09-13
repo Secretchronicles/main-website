@@ -29,7 +29,11 @@ LANGUAGES.each do |lang|
 
   compile "/#{lang}/news" do
     filter :erb
-    filter :kramdown
+    layout "default_#{lang}"
+  end
+
+  compile "/#{lang}/archive" do
+    filter :erb
     layout "default_#{lang}"
   end
 
@@ -67,6 +71,10 @@ LANGUAGES.each do |lang|
 
   route "/#{lang}/news/" do
     "/#{lang}/news/index.html"
+  end
+
+  route "/#{lang}/archive/" do
+    "/#{lang}/news/archive/index.html"
   end
 
   route "/#{lang}/pages/*/" do

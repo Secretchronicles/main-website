@@ -1,0 +1,17 @@
+---
+title: News archive
+---
+
+<% hsh = news_for("en").group_by{|item| item[:date].year} %>
+<% hsh.keys.sort.each do |year| %>
+  <h2><%= year %></h2>
+  <% if hsh[year].empty? %>
+    <p>No posts in this year.</p>
+  <% else %>
+    <ul>
+      <% hsh[year].each do |item| %>
+	<li><a href="<%= item.path %>"><%= item[:title] %></a> <span class="snippet-date">(<%= item[:date].strftime("%Y-%m-%d") %>)</span></li>
+      <% end %>
+    </ul>
+  <% end %>
+<% end %>

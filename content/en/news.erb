@@ -5,3 +5,5 @@ title: News
 <% news_for("en").first(10).each do |item| %>
   <%= render "_listpost", :item => item %>
 <% end %>
+
+<p class="more"><a href="/en/news/archive">Older…</a></p>
