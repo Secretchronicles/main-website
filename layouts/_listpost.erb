@@ -1,4 +1,4 @@
 <div class="post-snippet">
   <h3><a href="<%= item.path %>"><%= item[:title] %></a> <span class="snippet-date">(<%= item[:date].strftime("%Y-%m-%d") %>)</span></h3>
-  <p><%= item.compiled_content %></p>
+  <%= item.compiled_content %>
 </div>
