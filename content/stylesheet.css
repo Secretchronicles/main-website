@@ -91,6 +91,15 @@ h3 {
     text-decoration: none;
 }
 
+#language-selector {
+    float: right;
+    margin-right: 4px;
+}
+
+#navi ul#language-selector li:before {
+    content: "";
+}
+
 #footer {
     border-top: 1px dashed gray;
     font-size: 10pt;
