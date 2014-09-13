@@ -30,7 +30,7 @@ Head over to the [Downloads](/en/download.html) page.
 News
 ----
 
-<% items.select{|item| item.identifier =~ %r{^/en/news}}.sort_by{|item| item[:date]}.first(2).each do |item| %>
+<% news_for("en").first(2).each do |item| %>
   <div class="post-snippet">
     <h3><a href="<%= item.path %>"><%= item[:title] %></a> <span class="snippet-date">(<%= item[:date].strftime("%Y-%m-%d") %>)</span></h3>
     <p><%= item.compiled_content %></p>
