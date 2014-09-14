@@ -41,6 +41,9 @@ pre {
     border: 1px solid silver;
     background-color: hsl(0, 0%, 95%);
     padding: 2px;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    hyphens: none;
 }
 
 div.CodeRay div.code pre {
@@ -52,6 +55,10 @@ code {
     font-size: 11pt;
     border: 1px solid silver;
     background-color: hsl(0, 0%, 95%);
+    /* Never hyphenate inside <code> tags */
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    hyphens: none;
 }
 
 pre code {
@@ -73,9 +80,9 @@ blockquote {
     margin: 0px auto 0px auto;
     max-width: 600px;
     text-align: justify;
-    -moz-hyphenation: auto;
-    -webkit-hyphenation: auto;
-    hyphenation: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
 }
 
 /***************************************
@@ -164,4 +171,20 @@ blockquote {
     font-style: italic;
     text-align: center;
     font-size: 10pt;
+}
+
+/***************************************
+ * Additional styles for us in posts
+ ***************************************/
+
+.img-right {
+    float: right;
+    margin: auto 0px auto 6px;
+    border: 1px dashed black;
+    text-align: center;
+}
+
+.img-right p {
+    font-size: 10pt;
+    font-style: italic;
 }
