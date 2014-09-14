@@ -14,7 +14,7 @@ Stable version
 There is no stable version yet.
 
 Development version
----------------------------
+-------------------
 
 The current *development* version is 2.0.0-beta3, released on
 2014-09-12.
@@ -28,3 +28,20 @@ The current *development* version is 2.0.0-beta3, released on
 
 : MD5 sum: xxxxxxxxxxxxxxxx<br/>
   SHA256 hash: xxxxxxxxxxxxxxxxx
+
+Git access
+----------
+
+The project is [hosted on
+GitHub](https://github.com/Secretchronicles/SMC) currently. You can
+retrieve and set up the repository like this:
+
+~~~~~~~~~~~~~~~~~~~
+$ git clone git://github.com/Secretchronicles/SMC.git
+$ cd SMC
+$ git submodule init
+$ git submodule update
+~~~~~~~~~~~~~~~~~~~
+
+Please read the instructions in the `INSTALL.md` file for further
+information.
