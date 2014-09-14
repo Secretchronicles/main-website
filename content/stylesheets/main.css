@@ -36,6 +36,35 @@ h3 {
     font-weight: bold;
 }
 
+pre {
+    font-size: 11pt;
+    border: 1px solid silver;
+    background-color: hsl(0, 0%, 95%);
+    padding: 2px;
+}
+
+div.CodeRay div.code pre {
+    border: none;
+    background: none;
+}
+
+code {
+    font-size: 11pt;
+    border: 1px solid silver;
+    background-color: hsl(0, 0%, 95%);
+}
+
+pre code {
+    border: none;
+    background: none;
+}
+
+blockquote {
+    border-left: 2px solid blue;
+    padding: 0px 4px 0px 4px;
+    font-style: italic;
+}
+
 /***************************************
  * Main area
  ***************************************/
