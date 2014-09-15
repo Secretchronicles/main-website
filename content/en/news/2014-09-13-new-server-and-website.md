@@ -9,7 +9,7 @@ We finally have a server and a website specifically for our fork.
 
 After long discussions on IRC and the old SMC forums, we have finally
 decided to declare this project an official _fork_ of the [Secretmaryo
-Chronicles project][1]. From this day on, we are no longer a
+Chronicles project][1]. From this day on, we are no longer a simple
 continuation of that project, but rather a project of our own, with
 our own goals, and, hopefully, our own new name. This website
 currently does mention _Secret M. Chronicles_ as the name of the

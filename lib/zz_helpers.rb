@@ -3,6 +3,8 @@
 # order. This file must be last (hence "zz" in the
 # filename).
 
+require "cgi"
+
 include Nanoc::Helpers::Rendering
 include NewsItemsHelper
 include SummaryExtractorHelper

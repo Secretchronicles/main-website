@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
+require "time"
 
 # A few helpful tips about the Rules file:
 #
@@ -16,6 +17,48 @@
 
 LANGUAGES = Dir["content/*"].map{|str| File.basename(str)}.select{|str| str.chars.count == 2}
 
+# Generate the RSS feeds
+preprocess do
+  LANGUAGES.each do |lang|
+    feed = <<-ATOM
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link rel="self" type="application/atom+xml" href="http://www.secretchronicles.de/#{lang}/feed/"/>
+  <link rel="alternate" type="text/html" href="http://www.secretchronicles.de/#{lang}/"/>
+  <title>Secretchronicles #{lang} Feed</title>
+  <updated>#{Time.now.utc.iso8601}</updated>
+  <id>secretchronicles.de;#{lang}feed</id>
+    ATOM
+
+    news = news_for(lang)
+    news.each_with_index do |news_item, i|
+      # Generate atom scaffold for this item. Note that we do not have
+      # the compiled :default rep yet, so we must defer injection of the
+      # actual content until the #compile step. By utilizing the #identifier,
+      # we can safely retrieve the same item from nanoc we are handling here,
+      # and use ERB (via #compile below) to inject the compiled content.
+      item_atom = <<-ATOM
+  <% item = items.find{|item| item.identifier == "#{news_item.identifier}"} %>
+  <entry>
+    <link href="<%= item.path %>"/>
+    <title>#{news_item[:title]}</title>
+    <id>secretchronicles.de/#{lang};#{news.count - i}</id>
+    <updated>#{news_item[:date].iso8601}</updated>
+    <author><name>#{news_item[:author]}</name></author>
+    <summary type="html"><%= CGI.escape_html(extract_summary(item.compiled_content)) %></summary>
+    <content type="html"><%= CGI.escape_html(item.compiled_content) %></content>
+  </entry>
+      ATOM
+
+      feed << "\n" << item_atom
+    end
+
+    feed << "\n</feed>\n"
+
+    @items << Nanoc::Item.new(feed, {}, "/#{lang}/feed/")
+  end
+end
+
 LANGUAGES.each do |lang|
   compile "/#{lang}/" do
     filter :erb
@@ -23,14 +66,18 @@ LANGUAGES.each do |lang|
     layout "default_#{lang}"
   end
 
-  compile "/#{lang}/news" do
+  compile "/#{lang}/news/" do
     filter :erb
     layout "default_#{lang}"
   end
 
-  compile "/#{lang}/archive" do
+  compile "/#{lang}/archive/" do
     filter :erb
     layout "default_#{lang}"
+  end
+
+  compile "/#{lang}/feed/" do
+    filter :erb
   end
 
   compile "/#{lang}/pages/*/" do
@@ -64,6 +111,10 @@ LANGUAGES.each do |lang|
 
   route "/#{lang}/archive/" do
     "/#{lang}/news/archive/index.html"
+  end
+
+  route "/#{lang}/feed/" do
+    "/#{lang}/feed.atom"
   end
 
   route "/#{lang}/pages/*/" do
