@@ -12,7 +12,7 @@ decided to declare this project an official _fork_ of the [Secretmaryo
 Chronicles project][1]. From this day on, we are no longer a simple
 continuation of that project, but rather a project of our own, with
 our own goals, and, hopefully, our own new name. This website
-currently does mention _Secret M. Chronicles_ as the name of the
+currently does mention _Secretchronicles_ as the name of the
 project, but as outlined on the start page, this is not final yet and
 subject to change, because we do not want to keep the “SMC”
 acronym. Please feel free to give your input to the discussion, either
