@@ -2,12 +2,7 @@
 <html lang="de">
   <head>
     <meta charset="utf-8">
-    <title>
-      <% if @item[:title] %>
-	<%= @item[:title] %> |
-      <% end %>
-      Secretchronicles
-    </title>
+    <title><%= @item[:title] %> | Secretchronicles Blog</title>
     <link rel="stylesheet" href="/stylesheets/coderay.css"/>
     <link rel="stylesheet" href="/stylesheets/main.css"/>
     <link rel="alternate" type="application/atom+xml" title="Feed" href="/en/feed.atom"/>
@@ -17,9 +12,17 @@
     <%= render "_head_de" %>
 
     <div id="main">
-      <% if @item[:title] %>
-	<h1><%= @item[:title] %></h1>
-      <% end %>
+      <h1><%= @item[:title] %></h1>
+
+      <p class="post-info">
+	Verfasst von <%= @item[:author] %> am <%= @item[:date].strftime("%d.%m.%Y") %>.
+
+        <% if @item[:translator] && !@item[:translator].empty? %>
+	  <br/>
+	  Übersetzt von <%= @item[:translator] %>.
+	<% end %>
+      </p>
+
       <%= yield %>
     </div>
 
