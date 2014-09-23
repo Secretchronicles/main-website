@@ -5,7 +5,9 @@ This repository contains the main website of the Secretchronicles
 project, which is available under http://www.secretchronicles.de.
 
 The site is completey static HTML, utilising the
-[nanoc](http://nanoc.ws) site generator.
+[nanoc](http://nanoc.ws) site generator. It is based on Ruby, so make
+sure you have Ruby (including RubyGems, if you are on a Debian-based
+Linux) installed.
 
 Viewing locally
 ---------------
@@ -13,6 +15,7 @@ Viewing locally
 First, install all necessary dependencies via RubyGems and Bundler:
 
 ~~~~~~~~~~~~~~~~
+$ gem install bundler
 $ bundle install
 ~~~~~~~~~~~~~~~~
 
