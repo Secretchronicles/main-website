@@ -18,12 +18,12 @@ Development version
 The current *development* version is 2.0.0-beta4, released on
 2014-10-02.
 
-[SMC-2.0.0-beta4.tar.xz](ftp://ftp.secretchronicles.de/releases/SMC-2.0.0-beta4.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/SMC-2.0.0-beta4.tar.xz.sig) ]
+[TSC-2.0.0-beta4.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta4.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta4.tar.xz.sig) ]
 
 : MD5 sum:<br/>57c20ceae0ab800850a94dc5d3b3204c<br/>
   SHA256 hash:<br/>c79cfcf6dd601873ae22a5ea612f8945372f7ef2ebdeb210dad4f0faf2a4b990
 
-[SMC-2.0.0-beta4-win32.exe](ftp://ftp.secretchronicles.de/releases/SMC-2.0.0-beta4-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/SMC-2.0.0-beta4-win32.exe.sig) ]
+[TSC-2.0.0-beta4-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta4-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta4-win32.exe.sig) ]
 
 : MD5 sum:<br/>f2503fbe2d7c1cf51ec2fc982ae51a8a<br/>
   SHA256 hash:<br/>e636339f2b741ac099dad9d246909fae619f81528c47995ae02107aa01c1eaad
@@ -48,7 +48,7 @@ length). Verifying the integrity works like this after you have
 imported the public key:
 
 ~~~~~~~~~~~~~~~~~~~~~
-$ gpg --verify SMC-2.0.0-beta4.tar.xz.sig SMC-2.0.0-beta4.tar.xz
+$ gpg --verify TSC-2.0.0-beta4.tar.xz.sig TSC-2.0.0-beta4.tar.xz
 gpg: Signature made Thu 02 Oct 2014 01:36:25 PM CEST using RSA key ID BCC8BC4F
 gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [unknown]
 gpg: WARNING: This key is not certified with a trusted signature!
@@ -63,12 +63,12 @@ Git access
 ----------
 
 The project is [hosted on
-GitHub](https://github.com/Secretchronicles/SMC) currently. You can
+GitHub](https://github.com/Secretchronicles/TSC) currently. You can
 retrieve and set up the repository like this:
 
 ~~~~~~~~~~~~~~~~~~~
-$ git clone git://github.com/Secretchronicles/SMC.git
-$ cd SMC
+$ git clone git://github.com/Secretchronicles/TSC.git
+$ cd TSC
 $ git submodule init
 $ git submodule update
 ~~~~~~~~~~~~~~~~~~~
