@@ -46,7 +46,7 @@ License
 Note: This license applies only to the sourcecode of the website. The
 content on the website itself is subject to different licensing.
 
-Copyright (c) 2014, SMC Team
+Copyright (c) 2014, TSC Team
 
 All rights reserved.
 
