@@ -63,6 +63,11 @@ Help us moving the game forward.
 Valete,
 Quintus.
 
+Update 2014-10-02
+-----------------
+
+The 4<sup>th</sup> beta has been released. Please [download][8] and test it.
+
 [1]: https://github.com/Secretchronicles/SMC/issues/92
 [2]: http://secretmaryo.org
 [3]: http://wiki.secretchronicles.de/Story%20Development%20Document%20-%20Version%201
@@ -70,4 +75,4 @@ Quintus.
 [5]: https://github.com/Secretchronicles/SMC/issues/203
 [6]: https://github.com/Secretchronicles/SMC/issues?q=is%3Aopen+is%3Aissue+label%3A%22Art+%26+Music%22
 [7]: https://github.com/Secretchronicles/SMC/issues/103
-[8]: http://www.secretchronicles.de/en/download/
+[8]: /en/download/
