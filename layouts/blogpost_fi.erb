@@ -1,25 +1,25 @@
 <!DOCTYPE HTML>
-<html lang="de">
+<html lang="fi">
   <head>
     <meta charset="utf-8">
     <title><%= @item[:title] %> | Secretchronicles Blog</title>
     <link rel="stylesheet" href="/stylesheets/coderay.css"/>
     <link rel="stylesheet" href="/stylesheets/main.css"/>
-    <link rel="alternate" type="application/atom+xml" title="Feed" href="/de/feed.atom"/>
+    <link rel="alternate" type="application/atom+xml" title="Feed" href="/fi/feed.atom"/>
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
-    <%= render "_head_de" %>
+    <%= render "_head_fi" %>
 
     <div id="main">
       <h1><%= @item[:title] %></h1>
 
       <p class="post-info">
-	Verfasst von <%= @item[:author] %> am <%= @item[:date].strftime("%d.%m.%Y") %>.
+	Written by <%= @item[:author] %> on <%= @item[:date].strftime("%Y-%m-%d") %>.
 
         <% if @item[:translator] && !@item[:translator].empty? %>
 	  <br/>
-	  Übersetzt von <%= @item[:translator] %>.
+	  Translated by <%= @item[:translator] %>.
 	<% end %>
       </p>
 

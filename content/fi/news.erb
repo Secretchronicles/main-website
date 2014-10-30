@@ -1,0 +1,9 @@
+---
+title: Uutiset
+---
+
+<% news_for("fi").first(10).each do |item| %>
+  <%= render "_listpost", :item => item %>
+<% end %>
+
+<p class="more"><a href="/fi/news/archive">Vanhemmat…</a></p>
