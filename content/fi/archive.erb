@@ -2,7 +2,7 @@
 title: Uutisarkisto
 ---
 
-<% hsh = news_for("en").group_by{|item| item[:date].year} %>
+<% hsh = news_for("fi").group_by{|item| item[:date].year} %>
 <% hsh.keys.sort.each do |year| %>
   <h2><%= year %></h2>
   <% if hsh[year].empty? %>

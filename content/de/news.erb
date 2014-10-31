@@ -1,9 +1,0 @@
----
-title: Neuigkeiten
----
-
-<% news_for("de").first(10).each do |item| %>
-  <%= render "_listpost", :item => item %>
-<% end %>
-
-<p class="more"><a href="/de/news/archive">Älteres…</a></p>

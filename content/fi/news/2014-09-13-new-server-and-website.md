@@ -59,5 +59,5 @@ Terveisin,
 Quintus.
 
 [1]: http://www.secretmaryo.org
-[2]: https://github.com/Secretchronicles/SMC/issues/92
+[2]: https://github.com/Secretchronicles/TSC/issues/92
 [3]: http://www.first-root.com
