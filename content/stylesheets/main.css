@@ -133,8 +133,12 @@ blockquote {
     margin-right: 4px;
 }
 
-#navi ul#language-selector li:before {
+#navi ul#language-selector li:first-child:before {
     content: "";
+}
+
+#navi ul#language-selector li:before {
+    content: " · ";
 }
 
 #footer {
