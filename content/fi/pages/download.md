@@ -15,18 +15,18 @@ Ei ole vielä vakaata versiota.
 Kehitys versio
 --------------
 
-Tämänhetkinen *kehitys* versio on 2.0.0-beta5, julkaistu
-2014-10-26.
+Tämänhetkinen *kehitys* versio on 2.0.0-beta6, julkaistu
+2014-11-19.
 
-[TSC-2.0.0-beta5.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta5.tar.xz) (Lähdekoodi) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta5.tar.xz.sig) ]
+[TSC-2.0.0-beta6.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6.tar.xz) (Lähdekoodi) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6.tar.xz.sig) ]
 
-: MD5 sum:<br/>acd79e9dc534d080944856a6a7517ece<br/>
-  SHA256 hash:<br/>105c50d5f7a49e1258d648c3fc2f9463f827e609dca4a7a17220ee6150d592ba
+: MD5 sum:<br/>7e263a734954111c9283e60c99fe98e1<br/>
+  SHA256 hash:<br/>f2eca2e6508246f04442f691d7b60cd7122ec702c4cfa5301f755803bcff17f4
 
-[TSC-2.0.0-beta5-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta5-win32.exe) (Windows asennusohjelma) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta5-win32.exe.sig) ]
+[TSC-2.0.0-beta6-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6-win32.exe) (Windows asennusohjelma) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6-win32.exe.sig) ]
 
-: MD5 sum:<br/>1f96d7894305b9d7005528795b1523e6<br/>
-  SHA256 hash:<br/>b38711c681d77b52d1766e113fbac43f6d13f795483c0bdaba01cdd8a7f67869
+: MD5 sum:<br/>0586618552d7e0de371c60b1615223fd<br/>
+  SHA256 hash:<br/>181cb7574a7c66457a71223ad9d76e24394ac50bca69e08b654fa51591a3f8e3
 
 Allekirjoitukset
 ----------------
