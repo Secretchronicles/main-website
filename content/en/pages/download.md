@@ -16,7 +16,7 @@ Development version
 -------------------
 
 The current *development* version is 2.0.0-beta7, released on
-2014-11-19.
+2015-01-11.
 
 [TSC-2.0.0-beta7.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta7.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta7.tar.xz.sig) ]
 
