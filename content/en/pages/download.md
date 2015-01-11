@@ -15,18 +15,18 @@ There is no stable version yet.
 Development version
 -------------------
 
-The current *development* version is 2.0.0-beta6, released on
+The current *development* version is 2.0.0-beta7, released on
 2014-11-19.
 
-[TSC-2.0.0-beta6.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6.tar.xz.sig) ]
+[TSC-2.0.0-beta7.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta7.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta7.tar.xz.sig) ]
 
-: MD5 sum:<br/>7e263a734954111c9283e60c99fe98e1<br/>
-  SHA256 hash:<br/>f2eca2e6508246f04442f691d7b60cd7122ec702c4cfa5301f755803bcff17f4
+: MD5 sum:<br/>9b514b26076b9a65207d262c859dee1e<br/>
+  SHA256 hash:<br/>37d87c8141ff264cb50d87492a20c5ddae0329e9d62ed46d53894612ca0274b4
 
-[TSC-2.0.0-beta6-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta6-win32.exe.sig) ]
+[TSC-2.0.0-beta7-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta7-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-beta7-win32.exe.sig) ]
 
-: MD5 sum:<br/>0586618552d7e0de371c60b1615223fd<br/>
-  SHA256 hash:<br/>181cb7574a7c66457a71223ad9d76e24394ac50bca69e08b654fa51591a3f8e3
+: MD5 sum:<br/>d5cd068a31580bf2b184d4d9262b9b44<br/>
+  SHA256 hash:<br/>e405e399f68755101c23bf7e8f665ff0d799c14e2e2338e07c5dbe4f258a9409
 
 Signatures
 ----------
