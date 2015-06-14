@@ -1,0 +1,88 @@
+body {
+	background-color: green;
+	margin: 0;
+	color:black;
+	height: 100%;
+}
+#page {
+	background-color: #C4A8A8;
+	max-width: 1200px;
+	min-height: 1000px;
+	margin: 0 auto;
+	box-shadow: 0 0 64px rgba(0, 0, 0, 1);
+	text-align: left;
+	min-width: 300px;
+}
+#main {
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	padding: 15px;
+}
+#navbar li ul {
+	display: none;
+}
+#navbar {
+	list-style: none;
+	font-size: 16px;
+}
+#navbar li {
+    float:left;
+	background: black;
+	padding: 15px ;
+    position: relative;
+	color:white;
+}
+#navbar li:hover {
+	background-color: purple;
+
+}
+#navbar li a {
+	text-decoration: none;
+	color:white;
+}
+#navbar li:hover ul {
+    padding: 0;
+	list-style: none;
+	display:block;
+	position: absolute;
+	margin: 15px 0 0 0;
+	width: 100px;
+	left: 0;
+}
+#navbar ul li {
+	width: 100px;
+}
+#header {
+	text-align: center;
+}
+#header img {
+	margin: 0;
+	padding: 0;
+	width: 60%;
+}
+#footer {
+	color: white;
+	max-width: 1200px;
+	min-width: 300px;
+	background-color: black;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 76%;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+aside {
+	float: right;
+	text-align: center;
+	padding: 1em;
+	width: 260px;
+}
+aside img {
+	border: 4px solid black;
+}
+.screenshots img {
+	border: 5px solid black;
+	margin: 7px;
+}

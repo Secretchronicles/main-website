@@ -2,29 +2,32 @@
 <html lang="fi">
   <head>
     <meta charset="utf-8">
-    <title><%= @item[:title] %> | Secretchronicles Blog</title>
-    <link rel="stylesheet" href="/stylesheets/coderay.css"/>
-    <link rel="stylesheet" href="/stylesheets/main.css"/>
+    <title><%= @item[:title] %> | Secretchronicles Blogi</title>
+    <link rel="stylesheet" href="/stylesheets/default.css"/>
     <link rel="alternate" type="application/atom+xml" title="Feed" href="/fi/feed.atom"/>
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
+  <div id="page">
+
     <%= render "_head_fi" %>
 
     <div id="main">
       <h1><%= @item[:title] %></h1>
 
       <p class="post-info">
-	Written by <%= @item[:author] %> on <%= @item[:date].strftime("%Y-%m-%d") %>.
+	Kirjoittanut <%= @item[:author] %> <%= @item[:date].strftime("%Y-%m-%d") %>.
 
         <% if @item[:translator] && !@item[:translator].empty? %>
 	  <br/>
-	  Translated by <%= @item[:translator] %>.
+	  Suomentanut <%= @item[:translator] %>.
 	<% end %>
       </p>
 
       <%= yield %>
     </div>
+
+  </div>
 
     <%= render "_foot" %>
   </body>
