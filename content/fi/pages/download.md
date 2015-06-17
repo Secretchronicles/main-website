@@ -1,5 +1,5 @@
 ---
-title: Lataukset
+title: Lataa
 ---
 
 Tältä sivulta voit löytää latauslinkit nykyiseen versioon 
