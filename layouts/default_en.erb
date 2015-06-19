@@ -3,12 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-      The Secret Chronicles
-      <% if @item[:title] %>
-	  | <%= @item[:title] %>
-      <% end %>
-    </title>
+	<% if @item[:description] %><meta name="description" content="<%= @item[:description] %>"><% end %>
+    <title>The Secret Chronicles of Dr. M.<% if @item[:title] %> | <%= @item[:title] %><% end %></title>
     <link rel="stylesheet" href="/stylesheets/default.css"/>
     <link rel="alternate" type="application/atom+xml" title="Feed" href="/en/feed.atom"/>
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
