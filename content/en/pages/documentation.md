@@ -1,5 +1,6 @@
-TSC Scripting Documentation
-===========================
+---
+title: TSC Scripting Documentation
+---
 
 These pages link to the various pieces of documentation regarding
 TSC’s scripting facilities. The *Core* documentation contains the
@@ -24,7 +25,7 @@ Core Documentation
 
 * [2.0.0-beta8](/docs/2.0.0-beta8/core/)
 
-SSL documentation
+SSL Documentation
 -----------------
 
 * [2.0.0-beta8](/docs/2.0.0-beta8/ssl/)
