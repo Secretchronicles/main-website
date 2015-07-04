@@ -1,5 +1,20 @@
 <div id="footer">
+
+  <p id="utc-time"></p>
+
+  <script>
+  (function() {
+    'use strict';
+    function updateUTCTime() {
+      document.getElementById("utc-time").innerHTML = 'UTC Time Now: ' + (new Date()).toUTCString();
+    }
+    window.setInterval(updateUTCTime, 1000);
+    updateUTCTime();
+  })();
+  </script>
+
   <p>Copyright © <%= Time.now.year %> The Secret Chronicles Team<br>
 	Hosting thanks to <a href="http://www.first-root.com"><img src="/assets/first-root.png" alt="First Root"/></a>
   </p>
 </div>
+
