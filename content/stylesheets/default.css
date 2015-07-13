@@ -33,6 +33,7 @@ body {
 	padding: 15px ;
     position: relative;
 	color:white;
+    cursor: pointer;
 }
 #navbar li:hover {
 	background-color: purple;
