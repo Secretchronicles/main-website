@@ -28,12 +28,12 @@ body {
 	font-size: 16px;
 }
 #navbar li {
-    float:left;
+	float:left;
 	background: black;
 	padding: 15px ;
-    position: relative;
+	position: relative;
 	color:white;
-    cursor: pointer;
+	cursor: pointer;
 }
 #navbar li:hover {
 	background-color: purple;
@@ -44,16 +44,28 @@ body {
 	color:white;
 }
 #navbar li:hover ul {
-    padding: 0;
+	padding: 0;
 	list-style: none;
 	display:block;
 	position: absolute;
 	margin: 15px 0 0 0;
 	width: 140px;
-	left: 0;
+	right: 30px;
 }
 #navbar ul li {
 	width: 140px;
+}
+blockquote {
+	border: 1px solid #999;
+	background-color: #d8d8f4;
+	margin: 1em 40px;
+	padding: 15px;
+	-moz-border-radius-topleft: 15px;
+	-webkit-border-top-left-radius: 15px;	
+	-moz-border-radius-topright: 15px;
+	-webkit-border-top-right-radius: 15px; 	
+	-moz-border-radius-bottomleft: 15px;
+	-webkit-border-bottom-left-radius: 15px;
 }
 #header {
 	text-align: center;
@@ -87,8 +99,3 @@ aside img {
 	border: 5px solid black;
 	margin: 7px;
 }
-/*
-language img {
-	margin: 7px;
-}
-*/
