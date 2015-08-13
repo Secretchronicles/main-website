@@ -5,18 +5,17 @@ author: Quintus
 translator:
 ---
 
-Our new name has been decided on, and a mailinglist has been created.
-
-Today is a great day. After weeks of discussion, we have finally come
-to a decision on the issue ticket numbered [#92][1], which was the
-main place where the discussion around our project name was
-happening. We have departed from the [SMC project][2] in our goals
-already, but the game still announced itself under this name. From
-today, we are now to be known under the following name:
-
-<p style="text-align: center; font-weight: bold">
-The Secret Chronicles of Dr. M.
-</p>
+> ### Our new name has been decided on, and a mailinglist has been created.
+>
+> Today is a great day. After weeks of discussion, we have finally come
+> to a decision on the issue ticket numbered [#92][1], which was the
+> main place where the discussion around our project name was
+> happening. We have departed from the [SMC project][2] in our goals
+> already, but the game still announced itself under this name. From
+> today, we are now to be known under the following name:
+>
+> ### The Secret Chronicles of Dr. M.
+{: .summary}
 
 Dr. M., whose full name has not yet been decided on, will be the
 villain of a new and darker story which will probably be centered

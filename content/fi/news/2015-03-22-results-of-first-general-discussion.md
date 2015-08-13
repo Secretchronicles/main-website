@@ -5,15 +5,16 @@ author: Quintus
 translator: xet7
 ---
 
-Yhteenveto siitä mitä tapahtui IRCissä eilen.
-
-Eilen, [Ensimmäinen yleinen keskustelu][1] pidettiin IRCissä. Niille
-jotka teistä ette pystyneet osallistumaan, voitte lukea koko
-IRC logit kuten jotka tallensi ystävällinen _furbot_:
-
-[Keskustelulogit][6]
-
-Seuraavana yhteenveto päätöksistä jotka tehtiin keskustelun aikana.
+> ### Yhteenveto siitä mitä tapahtui IRCissä eilen.
+>
+> Eilen, [Ensimmäinen yleinen keskustelu][1] pidettiin IRCissä. Niille
+> jotka teistä ette pystyneet osallistumaan, voitte lukea koko
+> IRC logit kuten jotka tallensi ystävällinen _furbot_:
+>
+> [Keskustelulogit][6]
+>
+> Seuraavana yhteenveto päätöksistä jotka tehtiin keskustelun aikana.
+{: .summary}
 
 Äänestys prosessi
 -----------------

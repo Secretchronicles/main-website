@@ -5,8 +5,11 @@ author: Quintus
 translator:
 ---
 
-Official announcement of the first General Discussion of the TSC
-development team. Everybody is invited!
+> ### Official announcement of the first General Discussion of the TSC development team.
+>
+> Everybody is invited!
+{: .summary}
+
 
 The 1<sup>st</sup> General Discussion of the entire TSC team has been
 announced officially today. It will be taken out on 2015-03-21

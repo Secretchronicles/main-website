@@ -5,8 +5,10 @@ author: Quintus
 translator: xet7
 ---
 
-Virallinen ilmoitus ensimmäisestä TSC kehitystiimin yleisestä
-keskustelusta. Kaikki ovat tervetulleita!
+> ### Virallinen ilmoitus ensimmäisestä TSC kehitystiimin yleisestä keskustelusta.
+>
+> Kaikki ovat tervetulleita!
+{: .summary}
 
 Ilmoitus ensimmäisestä koko TSC tiimin yleisestö keskustelusta on
 julkaistu virallisesti tänään. Se pidetään 21.3.2015 
@@ -18,7 +20,6 @@ ajatuksiaan tiimille.
 
 Saadaksesi tietää lisätiedot ja säännöt, lue [ilmoitus kokonaisuudessaan englanniksi][1].
 Tätä tiedostoa päivitetään sitä mukaa kun lisää aiheita ja puhujia ehdotetaan.
-suggested.
 
 Quintus<br/>
 TSC projektin vetäjä.

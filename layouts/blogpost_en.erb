@@ -16,14 +16,14 @@
       <h1><%= @item[:title] %></h1>
 
       <p class="post-info">
-	Written by <%= @item[:author] %> on <%= @item[:date].strftime("%Y-%m-%d") %>.
+	Written by <b><%= @item[:author] %></b> on <b><%= @item[:date].strftime("%Y-%m-%d") %></b>.
 
         <% if @item[:translator] && !@item[:translator].empty? %>
 	  <br/>
-	  Translated by <%= @item[:translator] %>.
+	  Translated by <b><%= @item[:translator] %></b>.
 	<% end %>
       </p>
-
+      
       <%= yield %>
     </div>
 

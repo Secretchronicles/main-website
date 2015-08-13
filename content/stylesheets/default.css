@@ -99,3 +99,54 @@ aside img {
 	border: 5px solid black;
 	margin: 7px;
 }
+
+/***************************************
+ * Specific classes
+ ***************************************/
+
+.snippet-date {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12pt;
+	color: black;
+}
+
+.more {
+	text-align: right;
+	font-style: italic;
+}
+
+.post-info {
+	color: green;
+	font-family: Sans-Serif;
+	font-style: italic;
+	text-align: center;
+}
+
+.summary {
+	/* background-color: orange; */
+	font-family: Sans-Serif;
+	font-size: 12pt;
+	font-style: italic;
+	border-radius: 25px;
+	background: #8AC007;
+	padding: 20px;
+}
+
+/***************************************
+ * Additional styles for us in posts
+ ***************************************/
+
+.img-right {
+	float: right;
+	margin: auto 0px auto 6px;
+	border: 1px dashed black;
+	text-align: center;
+}
+
+.img-right p {
+	font-size: 10pt;
+	font-style: italic;
+}
+
+

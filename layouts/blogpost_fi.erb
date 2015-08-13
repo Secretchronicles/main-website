@@ -16,11 +16,11 @@
       <h1><%= @item[:title] %></h1>
 
       <p class="post-info">
-	Kirjoittanut <%= @item[:author] %> <%= @item[:date].strftime("%Y-%m-%d") %>.
+	Kirjoittanut <b><%= @item[:author] %> <%= @item[:date].strftime("%Y-%m-%d") %></b>.
 
         <% if @item[:translator] && !@item[:translator].empty? %>
 	  <br/>
-	  Suomentanut <%= @item[:translator] %>.
+	  Suomentanut <b><%= @item[:translator] %></b>.
 	<% end %>
       </p>
 

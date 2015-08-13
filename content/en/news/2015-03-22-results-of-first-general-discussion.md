@@ -5,16 +5,18 @@ author: Quintus
 translator:
 ---
 
-Summary of what happened in IRC yesterday.
 
-Yesterday, the [First General Discussion][1] has been held on IRC. For
-those of you who weren’t able to participate, you can read the entire
-thing in the IRC logs as protocolled by our friendly _furbot_:
-
-[Chatlogs][6]
-
-What follows is a summary of the decisions that have been made during
-the discussion.
+> ### Summary of what happened in IRC yesterday.
+>
+> Yesterday, the [First General Discussion][1] has been held on IRC. For
+> those of you who weren’t able to participate, you can read the entire
+> thing in the IRC logs as protocolled by our friendly _furbot_:
+>
+> [Chatlogs][6]
+>
+> What follows is a summary of the decisions that have been made during
+> the discussion.
+{: .summary}
 
 Voting process
 --------------
