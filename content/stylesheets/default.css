@@ -3,6 +3,7 @@ body {
 	margin: 0;
 	color:black;
 	height: 100%;
+	font-family: Sans-Serif;
 }
 #fullpage {
         max-width: 1200px;
@@ -128,14 +129,12 @@ aside img {
 
 .post-info {
 	color: white;
-	font-family: Sans-Serif;
 	font-style: italic;
 }
 
 .summary {
 	border: 1px solid #999;
 	color: black;
-	font-family: Sans-Serif;
 	font-size: 12pt;
 	border-radius: 25px;
 	background: #8AC007;
