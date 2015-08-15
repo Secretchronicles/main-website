@@ -24,20 +24,23 @@ body {
 	display: none;
 }
 #navbar {
+	margin-top: -4px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 	list-style: none;
 	font-size: 16px;
 }
 #navbar li {
 	float:left;
-	background: black;
-	padding: 15px ;
+	background-color: black;
+	padding: 15px;
 	position: relative;
 	color:white;
 	cursor: pointer;
 }
 #navbar li:hover {
 	background-color: purple;
-
 }
 #navbar li a {
 	text-decoration: none;
@@ -120,16 +123,13 @@ aside img {
 	color: white;
 	font-family: Sans-Serif;
 	font-style: italic;
-	/* text-align: center; */
 }
 
 .summary {
-	/* background-color: orange; */
 	border: 1px solid #999;
 	color: black;
 	font-family: Sans-Serif;
 	font-size: 12pt;
-	/* font-style: italic; */
 	border-radius: 25px;
 	background: #8AC007;
 	padding: 15px;
