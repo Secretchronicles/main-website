@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 <html lang="fi">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title><%= @item[:title] %> | Secretchronicles Blogi</title>
-    <link rel="stylesheet" href="/stylesheets/default.css"/>
-    <link rel="alternate" type="application/atom+xml" title="Feed" href="/fi/feed.atom"/>
-    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
+    <link rel="stylesheet" href="/stylesheets/default.css" />
+    <link rel="alternate" type="application/atom+xml" title="Feed" href="/fi/feed.atom" />
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>" />
   </head>
   <body>
   <div id="page">
@@ -16,20 +16,19 @@
       <h1><%= @item[:title] %></h1>
 
       <p class="summary">
-	<i>Kirjoittanut <b><%= @item[:author] %> <%= @item[:date].strftime("%Y-%m-%d") %></b>.
+	<i>Kirjoittanut <b><%= @item[:author] %></b> <b><%= @item[:date].strftime("%Y-%m-%d") %></b></i>.
 
         <% if @item[:translator] && !@item[:translator].empty? %>
-	  <br/>
-	  Suomentanut <i><%= @item[:translator] %></i>.
+	  <br />
+	  <i>Suomentanut <b><%= @item[:translator] %></b></i>.
 	<% end %>
 
-	<br/>
+	<br />
 
 	<% if @item[:summary] && !@item[:summary].empty? %>
-	  <br/>
-	  <b><‰= @item[:summary] %></b>
+	  <br />
+	  <i><b><%= @item[:summary] %></b></i>
 	<% end %>
-	</i>
       </p>
 
       <%= yield %>

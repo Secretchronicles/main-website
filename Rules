@@ -45,7 +45,7 @@ preprocess do
     <id>secretchronicles.de/#{lang};#{news.count - i}</id>
     <updated>#{news_item[:date].iso8601}</updated>
     <author><name>#{news_item[:author]}</name></author>
-    <summary type="html"><%= CGI.escape_html(extract_summary(item.compiled_content)) %></summary>
+    <summary type="html"><%= CGI.escape_html(item[:summary]) %></summary>
     <content type="html"><%= CGI.escape_html(item.compiled_content) %></content>
   </entry>
       ATOM
