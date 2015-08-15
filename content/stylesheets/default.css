@@ -48,7 +48,6 @@ body {
 	background-image: url("/assets/1_black.png");
         background-size: 100% 100%;
         background-repeat: no-repeat;
-	/* background-color: black; */
 	text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
         -moz-border-radius-topleft: 10px;
         -webkit-border-top-left-radius: 10px;   
@@ -62,7 +61,6 @@ body {
         background-image: url("/assets/1_white.png");
 	background-size: 100% 100%;
         background-repeat: no-repeat;
-        /* background-color: white; */
 	text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
         -moz-border-radius-topleft: 10px;
         -webkit-border-top-left-radius: 10px;   
@@ -83,7 +81,6 @@ body {
 	margin: 15px 0 0 0;
 	width: 140px;
 	right: 30px;
-	/* background-image: url("/assets/1_white.png");
 	background-color: white; */
 }
 #navbar ul li {
