@@ -117,20 +117,23 @@ aside img {
 }
 
 .post-info {
-	color: green;
+	color: white;
 	font-family: Sans-Serif;
 	font-style: italic;
-	text-align: center;
+	/* text-align: center; */
 }
 
 .summary {
 	/* background-color: orange; */
+	border: 1px solid #999;
+	color: black;
 	font-family: Sans-Serif;
 	font-size: 12pt;
-	font-style: italic;
+	/* font-style: italic; */
 	border-radius: 25px;
 	background: #8AC007;
-	padding: 20px;
+	padding: 15px;
+	margin: 0;
 }
 
 /***************************************

@@ -3,12 +3,10 @@ title: Ensimmäinen yleinen keskustelu
 date: 2015-03-12
 author: Quintus
 translator: xet7
+summary: Virallinen ilmoitus ensimmäisestä TSC kehitystiimin yleisestä keskustelusta.
 ---
 
-> ### Virallinen ilmoitus ensimmäisestä TSC kehitystiimin yleisestä keskustelusta.
->
-> Kaikki ovat tervetulleita!
-{: .summary}
+Kaikki ovat tervetulleita!
 
 Ilmoitus ensimmäisestä koko TSC tiimin yleisestö keskustelusta on
 julkaistu virallisesti tänään. Se pidetään 21.3.2015 

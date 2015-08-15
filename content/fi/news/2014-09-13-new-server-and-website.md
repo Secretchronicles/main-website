@@ -3,22 +3,20 @@ title: Uusi palvelin ja nettisivut
 date: 2014-09-13
 author: Quintus
 translator: xet7
+summary: Olemme lopulta saaneet palvelimen ja nettisivuston erityisesti omaa kehityshaaraamme varten.
 ---
 
-> ### Olemme lopulta saaneet palvelimen ja nettisivuston erityisesti omaa kehityshaaraamme varten.
->
-> Pitkien IRC ja vanhoissa SMC foorumeissa käymiemme keskustelujen jälkeen, olemme lopulta 
-> päättäneen nimetä tämän projektin viralliseksi _kehityshaaraksi_ [Secretmaryo 
-> Chronicles projektista][1]. Tästä päivästä eteenpäin, emme ole enää pelkästään yksinkertaisesti 
-> jatko sille projektille, vaan pikemminkin oma projektimme, jolla on 
-> meidän omat tavoitteet, ja, toivottavasti, meidän oma uusi nimemme. Tämä nettisivusto 
-> tällä hetkellä mainitsee _Secretchronicles_ projektin nimeksi, 
-> mutta kuten kuvattu etusivulla, tämä ei ole lopullista vielä ja voi 
-> muuttua jatkossa, koska emme halua pitää “SMC” 
-> kirjainlyhennettä. Ole hyvä ja osallistu vapaasti keskusteluun, joko 
-> [tiketti #92][2]:ssa tai IRCissä; huomioi että meillä on jo ennestään ollut kanava 
-> `#secretchronicles` `freenode.net`:issä jo jonkin aikaa.
-{: .summary}
+Pitkien IRC ja vanhoissa SMC foorumeissa käymiemme keskustelujen jälkeen, olemme lopulta 
+päättäneen nimetä tämän projektin viralliseksi _kehityshaaraksi_ [Secretmaryo 
+Chronicles projektista][1]. Tästä päivästä eteenpäin, emme ole enää pelkästään yksinkertaisesti 
+jatko sille projektille, vaan pikemminkin oma projektimme, jolla on 
+meidän omat tavoitteet, ja, toivottavasti, meidän oma uusi nimemme. Tämä nettisivusto 
+tällä hetkellä mainitsee _Secretchronicles_ projektin nimeksi, 
+mutta kuten kuvattu etusivulla, tämä ei ole lopullista vielä ja voi 
+muuttua jatkossa, koska emme halua pitää “SMC” 
+kirjainlyhennettä. Ole hyvä ja osallistu vapaasti keskusteluun, joko 
+[tiketti #92][2]:ssa tai IRCissä; huomioi että meillä on jo ennestään ollut kanava 
+`#secretchronicles` `freenode.net`:issä jo jonkin aikaa.
 
 <div class="img-right">
 <img

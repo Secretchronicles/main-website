@@ -3,18 +3,16 @@ title: Tulokset ensimmäisestä yleisestä keskustelusta
 date: 2015-03-22
 author: Quintus
 translator: xet7
+summary: Yhteenveto siitä mitä tapahtui IRCissä eilen.
 ---
 
-> ### Yhteenveto siitä mitä tapahtui IRCissä eilen.
->
-> Eilen, [Ensimmäinen yleinen keskustelu][1] pidettiin IRCissä. Niille
-> jotka teistä ette pystyneet osallistumaan, voitte lukea koko
-> IRC logit kuten jotka tallensi ystävällinen _furbot_:
->
-> [Keskustelulogit][6]
->
-> Seuraavana yhteenveto päätöksistä jotka tehtiin keskustelun aikana.
-{: .summary}
+Eilen, [Ensimmäinen yleinen keskustelu][1] pidettiin IRCissä. Niille
+jotka teistä ette pystyneet osallistumaan, voitte lukea koko
+IRC logit kuten jotka tallensi ystävällinen _furbot_:
+
+[Keskustelulogit][6]
+
+Seuraavana yhteenveto päätöksistä jotka tehtiin keskustelun aikana.
 
 Äänestys prosessi
 -----------------

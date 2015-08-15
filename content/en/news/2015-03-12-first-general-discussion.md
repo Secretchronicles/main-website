@@ -3,12 +3,10 @@ title: First General Discussion
 date: 2015-03-12
 author: Quintus
 translator:
+summary: Official announcement of the first General Discussion of the TSC development team.
 ---
 
-> ### Official announcement of the first General Discussion of the TSC development team.
->
-> Everybody is invited!
-{: .summary}
+Everybody is invited!
 
 
 The 1<sup>st</sup> General Discussion of the entire TSC team has been

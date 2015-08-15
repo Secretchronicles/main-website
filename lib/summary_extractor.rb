@@ -6,7 +6,7 @@ module SummaryExtractorHelper
   # of text from the given HTML.
   def extract_summary(posthtml)
     doc = REXML::Document.new("<root>#{posthtml}</root>")
-    "<p>" + doc.get_elements("//h3|//p").first.text + "</p>"
+    "<p>" + doc.get_elements('//p').first.text + "</p>"
   end
 
 end

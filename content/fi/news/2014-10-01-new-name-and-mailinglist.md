@@ -3,19 +3,17 @@ title: Uusi nimi ja postituslista
 date: 2014-10-01
 author: Quintus
 translator: xet7
+summary: Uusi nimemme on päätetty, ja postituslista tehty.
 ---
 
-> ### Uusi nimemme on päätetty, ja postituslista tehty.
->
-> Tänään on suuri päivä. Viikkojen keskustelun jälkeen, olemme lopulta 
-> päättäneet tiketistä numeroltaan [#92][1], joka oli 
-> pääpaikka jossa keskustelu projektin nimen ympärillä 
-> käytiin. Olemme lähteneet [SMC projektista][2] erilleen tavoitteissamme 
-> jo, mutta pelistä silti käytettiin tätä nimeä. Tästä 
-> päivästä alkaen, meidät tunnetaan seuraavalla nimellä:
->
-> ### The Secret Chronicles of Dr. M.
-{: .summary}
+Tänään on suuri päivä. Viikkojen keskustelun jälkeen, olemme lopulta 
+päättäneet tiketistä numeroltaan [#92][1], joka oli 
+pääpaikka jossa keskustelu projektin nimen ympärillä 
+käytiin. Olemme lähteneet [SMC projektista][2] erilleen tavoitteissamme 
+jo, mutta pelistä silti käytettiin tätä nimeä. Tästä 
+päivästä alkaen, meidät tunnetaan seuraavalla nimellä:
+
+## The Secret Chronicles of Dr. M.
 
 Dr. M., jonka koko nimeä ei ole vielä päätetty, tulee olemaan 
 konna uudessa ja synkemmässsä tarinassa joka mahdollisesti keskittyy

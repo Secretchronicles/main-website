@@ -15,13 +15,21 @@
     <div id="main">
       <h1><%= @item[:title] %></h1>
 
-      <p class="post-info">
-	Kirjoittanut <b><%= @item[:author] %> <%= @item[:date].strftime("%Y-%m-%d") %></b>.
+      <p class="summary">
+	<i>Kirjoittanut <b><%= @item[:author] %> <%= @item[:date].strftime("%Y-%m-%d") %></b>.
 
         <% if @item[:translator] && !@item[:translator].empty? %>
 	  <br/>
-	  Suomentanut <b><%= @item[:translator] %></b>.
+	  Suomentanut <i><%= @item[:translator] %></i>.
 	<% end %>
+
+	<br/>
+
+	<% if @item[:summary] && !@item[:summary].empty? %>
+	  <br/>
+	  <b><‰= @item[:summary] %></b>
+	<% end %>
+	</i>
       </p>
 
       <%= yield %>

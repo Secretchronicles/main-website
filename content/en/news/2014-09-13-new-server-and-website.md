@@ -3,22 +3,20 @@ title: New server and website
 date: 2014-09-13
 author: Quintus
 translator:
+summary: We finally have a server and a website specifically for our fork.
 ---
 
-> ### We finally have a server and a website specifically for our fork.
->
-> After long discussions on IRC and the old SMC forums, we have finally
-> decided to declare this project an official _fork_ of the [Secretmaryo
-> Chronicles project][1]. From this day on, we are no longer a simple
-> continuation of that project, but rather a project of our own, with
-> our own goals, and, hopefully, our own new name. This website
-> currently does mention _Secretchronicles_ as the name of the
-> project, but as outlined on the start page, this is not final yet and
-> subject to change, because we do not want to keep the “SMC”
-> acronym. Please feel free to give your input to the discussion, either
-> on [ticket #92][2] or in IRC; note we already had a channel
-> `#secretchronicles` on `freenode.net` for a while.
-{: .summary}
+After long discussions on IRC and the old SMC forums, we have finally
+decided to declare this project an official _fork_ of the [Secretmaryo
+Chronicles project][1]. From this day on, we are no longer a simple
+continuation of that project, but rather a project of our own, with
+our own goals, and, hopefully, our own new name. This website
+currently does mention _Secretchronicles_ as the name of the
+project, but as outlined on the start page, this is not final yet and
+subject to change, because we do not want to keep the “SMC”
+acronym. Please feel free to give your input to the discussion, either
+on [ticket #92][2] or in IRC; note we already had a channel
+`#secretchronicles` on `freenode.net` for a while.
 
 <div class="img-right">
 <img
