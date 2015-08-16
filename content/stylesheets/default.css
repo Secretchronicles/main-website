@@ -130,6 +130,10 @@ aside img {
 	margin: 7px;
 }
 
+.flag {
+	border: 1px solid black;
+}
+
 /***************************************
  * Specific classes
  ***************************************/
