@@ -14,7 +14,7 @@ body {
 	box-shadow: 0 0 64px rgba(0, 0, 0, 1);
 }
 #page {
-	background-color: #C4A8A8;
+	background-color: #D9BD97;
 	max-width: 1200px;
 	min-height: 1000px;
 	margin: 0 auto;
@@ -79,12 +79,11 @@ body {
 	display:block;
 	position: absolute;
 	margin: 15px 0 0 0;
-	width: 140px;
-	right: 30px;
-	background-color: white; */
+	left: 0;
 }
 #navbar ul li {
-	width: 140px;
+	width: 71px;
+	text-align: center;
 }
 blockquote {
 	border: 1px solid #999;
