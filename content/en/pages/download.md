@@ -30,7 +30,7 @@ There is no development version currently.
 Signatures
 ----------
 
-All releases since 2.0.0-beta4 are signed with GPG, with the signature
+All releases since 2.0.0 are signed with GPG, with the signature
 files being linked above. They have been created by the lead developer
 and signed by his private key with the following fingerprint:
 
@@ -47,12 +47,10 @@ length). Verifying the integrity works like this after you have
 imported the public key:
 
 ~~~~~~~~~~~~~~~~~~~~~
-$ gpg --verify TSC-2.0.0-beta4.tar.xz.sig TSC-2.0.0-beta4.tar.xz
-gpg: Signature made Thu 02 Oct 2014 01:36:25 PM CEST using RSA key ID BCC8BC4F
-gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [unknown]
-gpg: WARNING: This key is not certified with a trusted signature!
-gpg:          There is no indication that the signature belongs to the owner.
-Primary key fingerprint: B1FE 958E D5E8 468E AA20  8F4B F1D8 799F BCC8 BC4F
+% gpg --verify TSC-2.0.0.tar.xz.sig TSC-2.0.0.tar.xz
+gpg: Signature made Mon 17 Aug 2015 08:49:18 PM CEST using RSA key ID BCC8BC4F
+gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [ultimate]
+gpg:                 aka "Marvin Gülker <quintus@quintilianus.eu>" [ultimate]
 ~~~~~~~~~~~~~~~~~~~~~
 
 Notice the “good signature” part that indicates to you the file has
