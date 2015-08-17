@@ -10,28 +10,27 @@ releases, but please note outdated releases are unsupported.
 Stable version
 --------------
 
-There is no stable version yet.
+The stable version is 2.0.0, released on 2015-08-17.
+
+[TSC-2.0.0.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz.sig) ]
+
+: MD5 sum:<br/>54688db473103299d867b0e52c39f51e<br/>
+  SHA256 hash:<br/>c8a9ca3975f9de16aa59fab2a7864c3c541963b46c2c40533632c4fc621b407a
+
+[TSC-2.0.0-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe.sig) ]
+
+: MD5 sum:<br/>e20d66fdf171e0b6d5f065803fcfcd02<br/>
+  SHA256 hash:<br/>06b7fcb9e0483448ba446ed2c4ae1860ef8b5279d3cfe969b5fd5a6cf7aa19b5
 
 Development version
 -------------------
 
-The current *development* version is 2.0.0-rc1, released on
-2015-07-27.
-
-[TSC-2.0.0-rc1.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1.tar.xz.sig) ]
-
-: MD5 sum:<br/>2642ac8013f10cb4bd53a47241435194<br/>
-  SHA256 hash:<br/>ff81f0b65a9799ef7be246f08f3d5543dd72d681a75004941315dc77ef53fa34
-
-[TSC-2.0.0-rc1-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1-win32.exe.sig) ]
-
-: MD5 sum:<br/>89e18675d2b44a4388da0210fb35a92d<br/>
-  SHA256 hash:<br/>2aa3b7b49659ae35506fe18e90fe90692f9e8cf81cad18d311770b967ba844b1
+There is no development version currently.
 
 Signatures
 ----------
 
-All releases since 2.0.0-beta4 are signed with GPG, with the signature
+All releases since 2.0.0 are signed with GPG, with the signature
 files being linked above. They have been created by the lead developer
 and signed by his private key with the following fingerprint:
 
@@ -48,12 +47,10 @@ length). Verifying the integrity works like this after you have
 imported the public key:
 
 ~~~~~~~~~~~~~~~~~~~~~
-$ gpg --verify TSC-2.0.0-beta4.tar.xz.sig TSC-2.0.0-beta4.tar.xz
-gpg: Signature made Thu 02 Oct 2014 01:36:25 PM CEST using RSA key ID BCC8BC4F
-gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [unknown]
-gpg: WARNING: This key is not certified with a trusted signature!
-gpg:          There is no indication that the signature belongs to the owner.
-Primary key fingerprint: B1FE 958E D5E8 468E AA20  8F4B F1D8 799F BCC8 BC4F
+% gpg --verify TSC-2.0.0.tar.xz.sig TSC-2.0.0.tar.xz
+gpg: Signature made Mon 17 Aug 2015 08:49:18 PM CEST using RSA key ID BCC8BC4F
+gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [ultimate]
+gpg:                 aka "Marvin Gülker <quintus@quintilianus.eu>" [ultimate]
 ~~~~~~~~~~~~~~~~~~~~~
 
 Notice the “good signature” part that indicates to you the file has
