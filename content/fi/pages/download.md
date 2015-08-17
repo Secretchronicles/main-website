@@ -10,7 +10,7 @@ versioita, mutta ole hyvä ja huomioi ettemme tue vanhentuneita versioita.
 Vakaa versio
 ------------
 
-Vakaa version on 2.0.0, julkaistu 2015-08-17.
+Vakaa versio on 2.0.0, julkaistu 2015-08-17.
 
 [TSC-2.0.0.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz) (Lähdekoodi) [ [GPG allekirjoitus](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz.sig) ]
 
