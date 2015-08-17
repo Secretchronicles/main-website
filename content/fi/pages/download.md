@@ -10,23 +10,22 @@ versioita, mutta ole hyvä ja huomioi ettemme tue vanhentuneita versioita.
 Vakaa versio
 ------------
 
-Ei ole vielä vakaata versiota.
+Vakaa version on 2.0.0, julkaistu 2015-08-17.
+
+[TSC-2.0.0.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz) (Lähdekoodi) [ [GPG allekirjoitus](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz.sig) ]
+
+: MD5 sum:<br/>54688db473103299d867b0e52c39f51e<br/>
+  SHA256 hash:<br/>c8a9ca3975f9de16aa59fab2a7864c3c541963b46c2c40533632c4fc621b407a
+
+[TSC-2.0.0-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe) (Windows asennusohjelma) [ [GPG allekirjoitus](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe.sig) ]
+
+: MD5 sum:<br/>e20d66fdf171e0b6d5f065803fcfcd02<br/>
+  SHA256 hash:<br/>06b7fcb9e0483448ba446ed2c4ae1860ef8b5279d3cfe969b5fd5a6cf7aa19b5
 
 Kehitys versio
 --------------
 
-Tämänhetkinen *kehitys* versio on 2.0.0-rc1, julkaistu
-2015-07-27.
-
-[TSC-2.0.0-rc1.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1.tar.xz) (Lähdekoodi) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1.tar.xz.sig) ]
-
-: MD5 sum:<br/>2642ac8013f10cb4bd53a47241435194<br/>
-  SHA256 hash:<br/>ff81f0b65a9799ef7be246f08f3d5543dd72d681a75004941315dc77ef53fa34
-
-[TSC-2.0.0-rc1-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1-win32.exe) (Windows asennusohjelma) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-rc1-win32.exe.sig) ]
-
-: MD5 sum:<br/>89e18675d2b44a4388da0210fb35a92d<br/>
-  SHA256 hash:<br/>2aa3b7b49659ae35506fe18e90fe90692f9e8cf81cad18d311770b967ba844b1
+Kehitysversiota ei ole tällä hetkellä.
 
 Allekirjoitukset
 ----------------
