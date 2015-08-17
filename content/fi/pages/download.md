@@ -25,7 +25,7 @@ Vakaa versio on 2.0.0, julkaistu 2015-08-17.
 Kehitys versio
 --------------
 
-Kehitysversiota ei ole tällä hetkellä.
+Kehitys versiota ei ole tällä hetkellä.
 
 Allekirjoitukset
 ----------------
