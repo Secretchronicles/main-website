@@ -30,8 +30,8 @@ Kehitys versiota ei ole tällä hetkellä.
 Allekirjoitukset
 ----------------
 
-Kaikki julkaisut 2.0.0-beta4 jälkeen on allekirjoitettu GPG:llä, allekirjoitus
-tiedostoilla joihin on linkit ylempänä tällä sivulla. Ne on tehnyt pääohjelmoija
+Kaikki julkaisut alkaen 2.0.0 versiosta on allekirjoitettu GPG:llä, allekirjoitus
+tiedostoilla joihin on linkit ylempänä tällä sivulla. Ne on tehnyt johtava kehittäjä
 ja allekirjoitettu hänen yksityksellä avaimellaan jossa on seuraava sormenjälki:
 
 ~~~~~~~~~~~~~~~~~~~~~
@@ -47,12 +47,10 @@ pituudesta). Eheyden tarkistaminen toimii näin importattuasi
 julkisen avaimen:
 
 ~~~~~~~~~~~~~~~~~~~~~
-$ gpg --verify TSC-2.0.0-beta4.tar.xz.sig TSC-2.0.0-beta4.tar.xz
-gpg: Signature made Thu 02 Oct 2014 01:36:25 PM CEST using RSA key ID BCC8BC4F
-gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [unknown]
-gpg: WARNING: This key is not certified with a trusted signature!
-gpg:          There is no indication that the signature belongs to the owner.
-Primary key fingerprint: B1FE 958E D5E8 468E AA20  8F4B F1D8 799F BCC8 BC4F
+% gpg --verify TSC-2.0.0.tar.xz.sig TSC-2.0.0.tar.xz
+gpg: Signature made Mon 17 Aug 2015 08:49:18 PM CEST using RSA key ID BCC8BC4F
+gpg: Good signature from "Marvin Gülker <m-guelker@quintilianus.eu>" [ultimate]
+gpg:                 aka "Marvin Gülker <quintus@quintilianus.eu>" [ultimate]
 ~~~~~~~~~~~~~~~~~~~~~
 
 Huomioi “good signature” osa joka merkitsee että tiedostoa
