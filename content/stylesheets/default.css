@@ -40,49 +40,55 @@ body {
 	font-size: 16px;
 }
 #navbar li {
-	float:left;
-	padding: 15px;
-	position: relative;
-	color: white;
-	cursor: pointer;
-	background-image: url("/assets/1_black.png");
-        background-size: 100% 100%;
-        background-repeat: no-repeat;
-	text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
-        -moz-border-radius-topleft: 10px;
-        -webkit-border-top-left-radius: 10px;   
-        -moz-border-radius-topright: 10px;
-        -webkit-border-top-right-radius: 10px;  
-        -moz-border-radius-bottomleft: 10px;
-        -webkit-border-bottom-left-radius: 10px;
-}
-#navbar li:hover {
-	color: black;
-        background-image: url("/assets/1_white.png");
-	background-size: 100% 100%;
-        background-repeat: no-repeat;
-	text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
-        -moz-border-radius-topleft: 10px;
-        -webkit-border-top-left-radius: 10px;   
-        -moz-border-radius-topright: 10px;
-        -webkit-border-top-right-radius: 10px;  
-        -moz-border-radius-bottomleft: 10px;
-        -webkit-border-bottom-left-radius: 10px;
+        float:left;
+        padding: 0;
+        position: relative;
 }
 #navbar li a {
 	text-decoration: none;
-	color:white;
+	color: white;
+	display: block;
+	padding: 15px;
+        color: white;
+        cursor: pointer;
+        background-image: url("/assets/1_black.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
+        -moz-border-radius-topleft: 10px;
+        -webkit-border-top-left-radius: 10px;   
+        -moz-border-radius-topright: 10px;
+        -webkit-border-top-right-radius: 10px;  
+        -moz-border-radius-bottomleft: 10px;
+        -webkit-border-bottom-left-radius: 10px;
+}
+#navbar li a:hover {
+        text-decoration: none;
+        color: black;
+        display: block;
+        padding: 15px;
+        color: black;
+        background-image: url("/assets/1_white.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
+        -moz-border-radius-topleft: 10px;
+        -webkit-border-top-left-radius: 10px;   
+        -moz-border-radius-topright: 10px;
+        -webkit-border-top-right-radius: 10px;  
+        -moz-border-radius-bottomleft: 10px;
+        -webkit-border-bottom-left-radius: 10px;
 }
 #navbar li:hover ul {
 	padding: 0;
+	display: block;
 	list-style: none;
-	display:block;
 	position: absolute;
-	margin: 15px 0 0 0;
+	margin: 0;
 	left: 0;
 }
 #navbar ul li {
-	width: 72%;
+	width: 100%;
 	text-align: center;
 }
 blockquote {
