@@ -10,7 +10,9 @@ releases, but please note outdated releases are unsupported.
 Stable version
 --------------
 
-The stable version is 2.0.0, released on 2015-08-17.
+The stable version is 2.0.0, released on 2015-08-17. Note there was
+[a corrupt binary on the FTP](/en/news/2015/10/13/corrupt-win32-installer-on-ftp/)
+between 2015-08-17 and 2015-10-13.
 
 [TSC-2.0.0.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz) (Sourcecode) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz.sig) ]
 
@@ -19,8 +21,8 @@ The stable version is 2.0.0, released on 2015-08-17.
 
 [TSC-2.0.0-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe) (Windows installer) [ [GPG signature](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe.sig) ]
 
-: MD5 sum:<br/>e20d66fdf171e0b6d5f065803fcfcd02<br/>
-  SHA256 hash:<br/>06b7fcb9e0483448ba446ed2c4ae1860ef8b5279d3cfe969b5fd5a6cf7aa19b5
+: MD5 sum:<br/>6bc19c1bd835f7b25304f6f431af7de4<br/>
+  SHA256 hash:<br/>184a07479b49aeddc65e97b85a98d087c1a49e48ccc7ca47f2ba498a6fbc5e70
 
 Development version
 -------------------
