@@ -10,7 +10,9 @@ versioita, mutta ole hyvä ja huomioi ettemme tue vanhentuneita versioita.
 Vakaa versio
 ------------
 
-Vakaa versio on 2.0.0, julkaistu 2015-08-17.
+Vakaa versio on 2.0.0, julkaistu 2015-08-17. Huomioi että
+[korruptoitunut Windows asennusohjelma oli FTP:llä](/fi/news/2015/10/13/corrupt-win32-installer-on-ftp/)
+aikavälillä 2015-08-17 - 2015-10-13.
 
 [TSC-2.0.0.tar.xz](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz) (Lähdekoodi) [ [GPG allekirjoitus](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0.tar.xz.sig) ]
 
@@ -19,8 +21,8 @@ Vakaa versio on 2.0.0, julkaistu 2015-08-17.
 
 [TSC-2.0.0-win32.exe](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe) (Windows asennusohjelma) [ [GPG allekirjoitus](ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe.sig) ]
 
-: MD5 sum:<br/>e20d66fdf171e0b6d5f065803fcfcd02<br/>
-  SHA256 hash:<br/>06b7fcb9e0483448ba446ed2c4ae1860ef8b5279d3cfe969b5fd5a6cf7aa19b5
+: MD5 sum:<br/>6bc19c1bd835f7b25304f6f431af7de4<br/>
+  SHA256 hash:<br/>184a07479b49aeddc65e97b85a98d087c1a49e48ccc7ca47f2ba498a6fbc5e70
 
 Kehitys versio
 --------------
