@@ -30,6 +30,49 @@ Browse to http://localhost:3000/en to view the main page in
 English. There is no language redirect functionality on the local
 site, this can only be added on an actual server.
 
+Adding new content
+------------------
+
+On website, English pages are at /content/en and Finnish /content/fi.
+To create new news page, copy old to new name with correct date in filename.
+Ruby code lists files automatically, so newest news is first at website.
+All page design is at layouts dir for most pages. Images are at
+content/assets and CSS at content/stylesheets/default.css .
+nanoc generates static pages to output directory, that can be sent to webserver
+for test viewing at webtest subdomain with rsync. Rsync uses compression,
+deletes from server old files that are not at new version of website,
+and excludes robots.txt so it stays at server.
+
+~~~~~~~~~~~~~~~~
+cd main-website/output
+rsync -avz --delete --exclude=robots.txt -e "ssh -p SSH-PORTNUMBER-HERE" . username@alexandria.DOMAIN-HERE.DOMAIN-SUFFIX-HERE-LIKE-ORG-ETC:/home/username/webtest/
+~~~~~~~~~~~~~~~~
+
+Actual updating as official webpages alexandria server official webpages
+is with git, remember to also add other directories if you changed elsewhere
+than on content directory:
+
+~~~~~~~~~~~~~~~~
+# Change to git repo directory
+cd main-website
+# Get latest changes from geite repo
+git pull
+# View local changed files
+git status
+# If you want to view source code changes
+git diff
+# Add new and modified files
+git add content/*
+# Commit locally
+git commit -a -m "News article about..."
+# Push to official repo
+git push
+~~~~~~~~~~~~~~~~
+
+The changes will be installed to official server every midnight automatically
+by cron script at server. nanoc generates static content at webserver, output
+is visible at the official website.
+
 Translating
 -----------
 
