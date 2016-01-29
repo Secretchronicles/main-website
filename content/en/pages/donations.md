@@ -31,15 +31,29 @@ local tax volume before you donate.
 Payment info
 ------------
 
-Please direct your donations to this bank account:
+### Bank transfer
 
-(details will follow)
+The main TSC bank account is an ordinary SEPA bank account located at
+a German bank that you can transfer money to from any bank that
+supports international bank transfers. Beware that the account is set
+up for Euro, so that your bank might charge conversion fees if your
+own account’s currency is different.
+
+Please direct your donations here:
+
+Bank: Volksbank Dortmund eG
+BIC: GENODEM1DOR
+IBAN: DE13 4416 0014 6437 8328 02
+
+Owner of the account is Mr. Marvin Gülker (the current project lead).
+
+Please indicate in the payment details that this is a donation for the
+TSC project so there is no confusion about the nature of the payment.
+
+### Bitcoin
 
 If you prefer, you can donate with Bitcoin to this address:
 
 ~~~~~~~
 (details follow)
 ~~~~~~~
-
-Please indicate in the payment details that this is a donation for the
-TSC project so there is no confusion about the nature of the payment.
