@@ -41,8 +41,8 @@ own account’s currency is different.
 
 Please direct your donations here:
 
-Bank: Volksbank Dortmund eG
-BIC: GENODEM1DOR
+Bank: Volksbank Dortmund eG<br/>
+BIC: GENODEM1DOR<br/>
 IBAN: DE13 4416 0014 6437 8328 02
 
 Owner of the account is Mr. Marvin Gülker (the current project lead).
