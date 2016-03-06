@@ -52,8 +52,10 @@ TSC project so there is no confusion about the nature of the payment.
 
 ### Bitcoin
 
-If you prefer, you can donate with Bitcoin to this address:
+We can receive donations also via
+[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). This is the Bitcoin
+address to transfer the money to:
 
 ~~~~~~~
-(details follow)
+18ogkvMxye2m3BJtp5rafsSmV15jg4WJTN
 ~~~~~~~
