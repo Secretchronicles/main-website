@@ -9,14 +9,16 @@ covered, and are currently covered by the people involved from their
 own income, which is unfortunate. If you want to show your support to
 TSC, please consider making a donation to the project so we can:
 
-* Pay infrastructure (our server is sponsored, but what about SSL
-  certificates for example?)
 * Do contests for great art and music in the game
 * Pay bounties for people who fix longstanding bugs or implement
   long-requested features
+* Organise physical meetings of the developers (travel expenses)
+* Buy hardware for testing the game, for backups, or anything else
+  that requires physical equipment
 * At least pay the people from the core team a small sum for their
   sustained support of the game
-* And many things more.
+* And many things more. In any case, it is always good to have a
+  little bit of savings in case unexpected costs arise.
 
 The project lead tries to maintain maximum transparency regarding the
 money that is received from donations, and the team decides as a whole
