@@ -41,8 +41,8 @@ valuuttavaihto maksuja jos tilisi käyttää eri valuuttaa.
 
 Ole hyvä ja ohjaa lahjoituksesi tänne:
 
-Pankki: Volksbank Dortmund eG
-BIC: GENODEM1DOR
+Pankki: Volksbank Dortmund eG<br/>
+BIC: GENODEM1DOR<br/>
 IBAN: DE13 4416 0014 6437 8328 02
 
 Tilin omistaja on Mr. Marvin Gülker (nykyinen projektin vetäjä).
@@ -52,8 +52,10 @@ projektille jolloin ei ole epäselvyyttä lahjoituksen luonteesta.
 
 ### Bitcoin
 
-Jos haluat, voit lahjoittaa Bitcoineja tähän osoitteeseen:
+Voimme vastaanottaa lahjoituksia myös 
+[Bitcoin](https://fi.wikipedia.org/wiki/Bitcoin) valuutassa tähän
+osoitteeseen:
 
 ~~~~~~~
-(tarkemmat tiedot lisätään myöhemmin)
+18ogkvMxye2m3BJtp5rafsSmV15jg4WJTN
 ~~~~~~~
