@@ -7,7 +7,7 @@ summary: Summary of the 2nd TSC General Discussion.
 ---
 
 Yesterday, large parts of the TSC Development team met in IRC to
-donduct the Second General Discsussion ([original schedule][1]). In
+conduct the Second General Discsussion ([original schedule][1]). In
 this article, I summarise what was discussed, what was decided, and
 what not was decided.
 
@@ -66,7 +66,7 @@ the old version.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Of 8 team members allowed to vote, 7 participated and voted in favour
-of it. Thus, the required 2/3 majority was reached and the changes are
+of it. Thus, the required 2/3 majority was reached, and the changes are
 in force now.
 
 The newly compiled voting rules document is available [online in the
@@ -86,7 +86,7 @@ Bugtracker Software
 After [a fairly long discussion][7], all team members decided in consent to
 chose [Redmine][6] as our future bugtracking system as it has a lot of
 nice and useful features (like especially dependencies between tasks
-as metadata with useful summaries in parent tickets) and it’s written
+as metadata with useful summaries in parent tickets). In addition, it’s written
 in Ruby, which most of us find a nice language, allowing us to fix
 things in Redmine itself if we are uncontent with it.
 
@@ -100,7 +100,7 @@ received the same number of votes. As per §12 of the Voting Rules,
 this means the vote is failed and has no binding result, and the topic
 can be voted over again.
 
-The failure of vote, which can spectacularyly be seen [in the
+The failure of vote, which can spectacularly be seen [in the
 chatlogs][8], was most likely a result of the low participation of
 only 62.5% of the team members, i.e. 5 team members, and one of them
 abstained. It was determined we need to repeat the voting on the
