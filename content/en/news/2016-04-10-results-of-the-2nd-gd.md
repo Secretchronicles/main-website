@@ -156,11 +156,14 @@ It was further determined that powerups shall not be lost at the first
 hit a player receives, but there have not been further decisions on
 when exactly this shall happen then instead.
 
-Regarding deathly pits, we found that using the Rayman-style progress
-system, we are able to keep death pits, since they will simply have
-the effect of setting the player’s HP to 0, which means resetting him
-to the last check point. The discussion about level designers who need
-to place respawn points for abysses is thus obsolete now.
+The Rayman-style progress system was found to be a good balance
+between not having deathly pits at all, and having too many of them as
+part of tricky jump sections which may cause frustration on the
+player’s side. This way, we are able to keep deathly pits, since they
+will simply have the effect of setting the player’s HP to 0, which
+means resetting him to the last check point. The discussion about
+level designers who need to place respawn points for abysses is thus
+obsolete now.
 
 CEGUI vs. SFGUI
 ---------------
