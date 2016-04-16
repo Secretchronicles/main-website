@@ -3,7 +3,7 @@ title: Tulokset toisesta yleisestä keskustelusta
 date: 2016-04-10
 author: Quintus
 translator: xet7
-summary: Yhteenveto toisesta TSC yleisesta keskustelusta.
+summary: Yhteenveto toisesta TSC yleisestä keskustelusta.
 ---
 
 Eilen, suuri osa TSC kehitystiimiä tapasi IRCissä pitääkseen
