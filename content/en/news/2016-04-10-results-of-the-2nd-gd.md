@@ -68,7 +68,7 @@ of it. Thus, the required 2/3 majority was reached, and the changes are
 in force now.
 
 The newly compiled voting rules document is available [online in the
-documents reopsitory now][3].
+documents repository now][3].
 
 Team Additions
 --------------
