@@ -19,8 +19,6 @@ Voting Rules Changes
 
 The team voted on the following change proposal:
 
-<!-- Note to translators: Please do not translate the proposal
-below. It is a verbatim copy of the proposal sent to the ML. -->
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                  Art. 1
@@ -119,9 +117,6 @@ chatlogs][9]. This was also the topics several documents (including
 story suggestions) were submitted to before. Since there have been no
 decisions, these documents might be of value for further work, and are
 thus referenced here:
-
-<!-- Note to translators: Please do not translate the titles. They are
-copied from the documents themselves -->
 
 * [DNr. 16/1: Unofficial Story Development Document][12]
 * [DNr. 16/2: Story Principles and Decisions for the Secret Chronicles
