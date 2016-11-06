@@ -27,7 +27,7 @@ between 2015-08-17 and 2015-10-13.
 Development version
 -------------------
 
-[Alpha Builds Now Available](/en/news/2016/08/17/alpha-builds-available/)
+[Alpha Builds Now Available for Debian Users](/en/news/2016/08/17/alpha-builds-available/)
 
 Signatures
 ----------
