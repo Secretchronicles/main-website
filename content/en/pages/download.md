@@ -27,7 +27,7 @@ between 2015-08-17 and 2015-10-13.
 Development version
 -------------------
 
-There is no development version currently.
+[Alpha Builds Now Available](/en/news/2016/08/17/alpha-builds-available/)
 
 Signatures
 ----------

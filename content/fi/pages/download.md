@@ -27,7 +27,7 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
-Kehitys versiota ei ole tällä hetkellä.
+[Alpha versio nyt saatavilla](/fi/news/2016/08/17/alpha-builds-available/)
 
 Allekirjoitukset
 ----------------
