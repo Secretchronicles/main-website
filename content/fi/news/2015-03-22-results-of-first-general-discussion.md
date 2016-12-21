@@ -174,6 +174,6 @@ tarvitsee osallistumista _Luiji_’lta, joka ei ollut paikalla.
 [1]: /fi/news/2015/03/12/first-general-discussion/
 [2]: https://github.com/orgs/Secretchronicles/people
 [3]: https://github.com/Secretchronicles/TSC/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Version+2.0.0%22
-[4]: http://wiki.secretchronicles.de/Story%20Development%20Document%20-%20Version%202
+[4]: https://wiki.secretchronicles.org/Story%20Development%20Document%20-%20Version%202
 [5]: http://www.mediafire.com/view/igovgwcf4pizc8b/TSC-DF64.odt
-[6]: http://chatlogs.secretchronicles.de/htmllogs/2015-03-21.log.html#msg-2015-03-21T20:00:52+00:00
+[6]: https://chatlogs.secretchronicles.org/htmllogs/2015-03-21.log.html#msg-2015-03-21T20:00:52+00:00

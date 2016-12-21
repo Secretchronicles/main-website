@@ -38,6 +38,6 @@ raporttejaan.
 Marvin Gülker (_Quintus_)<br/>
 TSC kehitystiimin puolesta.
 
-[1]: http://forum.secretchronicles.de/topics/285
+[1]: https://forum.secretchronicles.org/topics/285
 [2]: https://github.com/Secretchronicles/TSC/issues/452
-[3]: ftp://ftp.secretchronicles.de/releases/TSC-2.0.0-win32.exe
+[3]: ftp://ftp.secretchronicles.org/releases/TSC-2.0.0-win32.exe

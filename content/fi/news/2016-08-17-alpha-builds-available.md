@@ -32,5 +32,5 @@ Kuten aina, jos löydät bugin, **ole hyvä** ja raportoi se, joko [Foorumilla][
 TSC tiimin puolesta
 
 [1]: /fi/download
-[2]: http://forum.secretchronicles.de
+[2]: https://forum.secretchronicles.org
 [3]: https://github.com/Secretchronicles/TSC/issues

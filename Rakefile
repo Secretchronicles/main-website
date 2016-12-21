@@ -10,7 +10,7 @@ task :view do
   sh "bundle exec nanoc view"
 end
 
-desc "Write it out to secretchronicles.de."
+desc "Write it out to secretchronicles.org."
 task :deploy => :compile do
-  sh "rsync -hrE --progress output/ quintus@alexandria.secretchronicles.de:/srv/http/mainsite/"
+  sh "rsync -hrE --progress output/ quintus@alexandria.secretchronicles.org:/srv/http/mainsite/"
 end

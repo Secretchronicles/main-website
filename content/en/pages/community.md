@@ -9,16 +9,16 @@ IRC Channel
 
 [IRC webchat](https://webchat.freenode.net/?channels=secretchronicles)
 
-[IRC Logs](http://chatlogs.secretchronicles.de)
+[IRC Logs](https://chatlogs.secretchronicles.org)
 
 Forum
 -----
 
-[Forum](http://forum.secretchronicles.de/forums)
+[Forum](https://forum.secretchronicles.org/forums)
 
 Mailing list
 ------------
 
 Forum is mirrored to mailing list.
 
-[Mailing list archive](http://lists.secretchronicles.de)
+[Mailing list archive](https://lists.secretchronicles.org)

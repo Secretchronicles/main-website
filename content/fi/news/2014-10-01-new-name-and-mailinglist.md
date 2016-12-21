@@ -49,9 +49,9 @@ sen testaajia, jotka auttavat tehdessämme vakaata 2.0.0 julkaisua.
 Lopulta, olen ylpeä voidessani sanoa, että olemme perustaneet postituslista auttaaksemme 
 kehittämään peliä. Tällä listalla ei ole netissä näkyviä arkistoja vielä, 
 mutta työskentelemme parhaillaan tehdäksemme ne saataville. Sillä aikaa, kutsumme sinut 
-liittymään ja osallistumaan `tsc-devel@lists.secretchronicles.de` listalle 
+liittymään ja osallistumaan `tsc-devel@lists.secretchronicles.org` listalle 
 lähettämällä tyhjän sähköpostin (aiheella ei ole merkistystä) osoitteeseen 
-`tsc-devel+subscribe@lists.secretchronicles.de`. Tulet vastaanottamaan 
+`tsc-devel+subscribe@lists.secretchronicles.org`. Tulet vastaanottamaan 
 varmistusviestin lisäohjeineen, joita noudattamalla pääset 
 lukemaan ja kirjoittamaan muutoin julkiselle postituslistalle.
 
@@ -67,8 +67,8 @@ Neljäs beta on julkaistu. Ole hyvä ja [lataa][9] ja testaa sitä.
 
 [1]: https://github.com/Secretchronicles/TSC/issues/92
 [2]: http://secretmaryo.org
-[3]: http://wiki.secretchronicles.de/Story%20Development%20Document%20-%20Version%202
-[4]: http://forum.secretchronicles.de
+[3]: https://wiki.secretchronicles.org/Story%20Development%20Document%20-%20Version%202
+[4]: https://forum.secretchronicles.org
 [5]: https://github.com/Secretchronicles/TSC/issues/203
 [6]: https://github.com/Secretchronicles/TSC/issues?q=is%3Aopen+is%3Aissue+label%3AGraphics
 [7]: https://github.com/Secretchronicles/TSC/issues?q=is%3Aopen+is%3Aissue+label%3A%22Music+%26+Sounds%22

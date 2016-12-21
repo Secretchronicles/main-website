@@ -2,7 +2,7 @@ Main Secretchronicles website
 =============================
 
 This repository contains the main website of the Secretchronicles
-project, which is available under http://www.secretchronicles.de.
+project, which is available under https://www.secretchronicles.org.
 
 The site is completey static HTML, utilising the
 [nanoc](http://nanoc.ws) site generator. It is based on Ruby, so make

@@ -28,24 +28,24 @@ alt="First Root Logo"/>
 Huomioi että olemme parhaillaan päivittämässä infrastruktuuriamme. Meille on 
 ystävällisesti myönnetty ilmainen virtuaalipalvelin saksalaiselta yritykseltä [First 
 Root UG][3], jolle haluan osoittaa erityistä kiitollisuutta. Lisäksi, olen 
-ostanut domainin `secretchronicles.de` joten voimme nyt 
+ostanut domainin `secretchronicles.org` joten voimme nyt 
 yhdistää kaiken infrastruktuurimme yhdelle domainille ja palvelimelle.
 
 Tämän johdosta, nettisivut Secretchroniclesista jotka olivat 
 aiemmin hajautettuna ympäri yksityistä `quintilianus.eu` domainia voidaan 
-nyt siirtää vaiheittain uudelle `secretchronicles.de` 
+nyt siirtää vaiheittain uudelle `secretchronicles.org` 
 domainille. Sivustot joita pidin yksityisellä palvelimellani ja jopa minun Raspberry 
 Pi:llä siirretään uudelle palvelimelle. Tämä prosessi tulee viemään aikaa, 
 mutta jatkan siitä tiedosttamista tässä blogissa. Tätä kirjoittaessani, 
 seuraavat sivustot on jo siirretty:
 
 * Skriptaus foorumi `smc.quintilianus.eu` on siirretty osoitteeseen 
-  `forum.secretchronicles.de`.
+  `forum.secretchronicles.org`.
 * Chattilogit `secretmaryo.quintilianus.eu` on siirretty osoitteeseen 
-  `chatlogs.secretchronicles.de`.
+  `chatlogs.secretchronicles.org`.
 * _furbot_, meidän auttavainen IRC bottimme, nyt pyörii `alexandria`:lla, joka on 
   palvelimemme nimimerkki.
-* Uusi nettisivusto (tämä) on lisätty osoitteeseen `www.secretchronicles.de`. 
+* Uusi nettisivusto (tämä) on lisätty osoitteeseen `secretchronicles.org`. 
 
 Ole hyvä ja auta meitä antamaan tälle kehityshaarallemme tarvittava vauhti jonka se tarvitsee 
 kehittyäkseen ja kasvaakseen, jotta vanha SMC saa uuden elämän uusine 

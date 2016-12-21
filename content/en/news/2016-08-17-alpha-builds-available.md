@@ -32,5 +32,5 @@ As always, if you find a bug, **please** report it, either on our [Forum][2] or 
 On Behalf of the TSC team
 
 [1]: /en/download
-[2]: http://forum.secretchronicles.de
+[2]: https://forum.secretchronicles.org
 [3]: https://github.com/Secretchronicles/TSC/issues

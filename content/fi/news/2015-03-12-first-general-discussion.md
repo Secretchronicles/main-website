@@ -22,4 +22,4 @@ Tätä tiedostoa päivitetään sitä mukaa kun lisää aiheita ja puhujia ehdot
 Quintus<br/>
 TSC projektin vetäjä.
 
-[1]: http://team.secretchronicles.de/~quintus/general-discussions/1st-general-discussion.txt
+[1]: https://team.secretchronicles.org/~quintus/general-discussions/1st-general-discussion.txt

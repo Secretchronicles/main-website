@@ -48,5 +48,5 @@ Hyvää päivänjatkoa!
 Sydney (_sydney_untangle_)<br/>
 TSC tiimin puolesta.
 
-[1]: http://forum.secretchronicles.de/topics/393
-[2]: http://forum.secretchronicles.de/topics/387
+[1]: https://forum.secretchronicles.org/topics/393
+[2]: https://forum.secretchronicles.org/topics/387

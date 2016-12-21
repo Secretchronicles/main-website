@@ -49,9 +49,9 @@ tests of it, as they aid us in creating a stable 2.0.0 release.
 Finally, I am proud to say we have set up a mailinglist to help us
 developing the game. The list has no online archives at the moment,
 but we are working on setting those up. In the meantime, we invite you
-to subscribe and participate on `tsc-devel@lists.secretchronicles.de`
+to subscribe and participate on `tsc-devel@lists.secretchronicles.org`
 by sending an empty email (subject does not matter) to
-`tsc-devel+subscribe@lists.secretchronicles.de`. You will receive a
+`tsc-devel+subscribe@lists.secretchronicles.org`. You will receive a
 confirmation email with further instructions, which when followed will
 grant you read and post access to the otherwise public mailinglist.
 
@@ -67,8 +67,8 @@ The 4<sup>th</sup> beta has been released. Please [download][9] and test it.
 
 [1]: https://github.com/Secretchronicles/TSC/issues/92
 [2]: http://secretmaryo.org
-[3]: http://wiki.secretchronicles.de/Story%20Development%20Document%20-%20Version%202
-[4]: http://forum.secretchronicles.de
+[3]: https://wiki.secretchronicles.org/Story%20Development%20Document%20-%20Version%202
+[4]: https://forum.secretchronicles.org
 [5]: https://github.com/Secretchronicles/TSC/issues/203
 [6]: https://github.com/Secretchronicles/TSC/issues?q=is%3Aopen+is%3Aissue+label%3AGraphics
 [7]: https://github.com/Secretchronicles/TSC/issues?q=is%3Aopen+is%3Aissue+label%3A%22Music+%26+Sounds%22

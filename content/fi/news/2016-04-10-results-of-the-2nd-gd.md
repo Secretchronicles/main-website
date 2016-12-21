@@ -188,17 +188,17 @@ mutta elämä ja energia järjestelmä oli lopulta määritetty käyttämään
 Rayman-tyyppistä mallia ilman elämiä, pelin loppumisia, ja manuaalista
 tallentamista.
 
-[1]: http://lists.secretchronicles.de/tsc-devel/2016/04/0000004.html
-[2]: http://chatlogs.secretchronicles.de/htmllogs/2016-04-09.log.html#msg-2016-04-09T17:13:07+00:00
+[1]: https://lists.secretchronicles.org/tsc-devel/2016/04/0000004.html
+[2]: https://chatlogs.secretchronicles.org/htmllogs/2016-04-09.log.html#msg-2016-04-09T17:13:07+00:00
 [3]: https://github.com/Secretchronicles/documents/raw/master/votingrules/votingrules-2016-04-09.pdf
 [4]: https://github.com/Secretchronicles/documents/blob/master/votes/004.md
 [5]: https://github.com/Secretchronicles/documents/blob/master/votes/005.md
 [6]: https://www.redmine.org/
-[7]: http://chatlogs.secretchronicles.de/htmllogs/2016-04-09.log.html#msg-2016-04-09T17:40:52+00:00
-[8]: http://chatlogs.secretchronicles.de/htmllogs/2016-04-09.log.html#msg-2016-04-09T18:16:08+00:00
-[9]: http://chatlogs.secretchronicles.de/htmllogs/2016-04-09.log.html#msg-2016-04-09T19:07:40+00:00
-[10]: http://chatlogs.secretchronicles.de/htmllogs/2016-04-09.log.html#msg-2016-04-09T19:47:28+00:00
-[11]: http://chatlogs.secretchronicles.de/htmllogs/2016-04-09.log.html#msg-2016-04-09T21:00:11+00:00
+[7]: https://chatlogs.secretchronicles.org/htmllogs/2016-04-09.log.html#msg-2016-04-09T17:40:52+00:00
+[8]: https://chatlogs.secretchronicles.org/htmllogs/2016-04-09.log.html#msg-2016-04-09T18:16:08+00:00
+[9]: https://chatlogs.secretchronicles.org/htmllogs/2016-04-09.log.html#msg-2016-04-09T19:07:40+00:00
+[10]: https://chatlogs.secretchronicles.org/htmllogs/2016-04-09.log.html#msg-2016-04-09T19:47:28+00:00
+[11]: https://chatlogs.secretchronicles.org/htmllogs/2016-04-09.log.html#msg-2016-04-09T21:00:11+00:00
 [12]: https://github.com/Secretchronicles/documents/raw/master/gd/documents/pdf/16-001.pdf
 [13]: https://github.com/Secretchronicles/documents/raw/master/gd/documents/pdf/16-002.pdf
 [14]: https://github.com/Secretchronicles/documents/raw/master/gd/documents/pdf/16-003.pdf

@@ -9,16 +9,16 @@ IRC Kanava
 
 [IRC webchatti](https://webchat.freenode.net/?channels=secretchronicles)
 
-[IRC Logit](http://chatlogs.secretchronicles.de)
+[IRC Logit](https://chatlogs.secretchronicles.org)
 
 Foorumi
 -------
 
-[Foorumi](http://forum.secretchronicles.de/forums)
+[Foorumi](https://forum.secretchronicles.org/forums)
 
 Postituslista
 ------------
 
 Foorumi peilataan postituslistalle.
 
-[Postituslista arkisto](http://lists.secretchronicles.de)
+[Postituslista arkisto](https://lists.secretchronicles.org)

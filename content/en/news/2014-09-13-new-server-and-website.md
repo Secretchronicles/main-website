@@ -28,24 +28,24 @@ alt="First Root Logo"/>
 Note we are in the process of changing our infrastructure. We have
 been kindly granted a free virtual server by the German company [First
 Root UG][3], to whom I express my explicit gratitude. Additionally, I
-have purchased the domain `secretchronicles.de` so that we can now
+have purchased the domain `secretchronicles.org` so that we can now
 unite all of our infrastructure on a single domain and server.
 
 As a consequence, the websites on Secretchronicles that were
 previously scattered around my private `quintilianus.eu` domain will
-now be moved gradually over to the new `secretchronicles.de`
+now be moved gradually over to the new `secretchronicles.org`
 domain. The sites hosted on my private server and even on my Raspberry
 Pi will be moved over to the new server. This process will take time,
 but I will continue to inform you on this blog. As of this writing,
 the following sites have already been moved:
 
 * The scripting forum from `smc.quintilianus.eu` has been moved to
-  `forum.secretchronicles.de`.
+  `forum.secretchronicles.org`.
 * The chatlogs have been moved from `secretmaryo.quintilianus.eu`
-  to `chatlogs.secretchronicles.de`.
+  to `chatlogs.secretchronicles.org`.
 * _furbot_, our helpful IRC bot, now runs on `alexandria`, which is the
   nickname of our new server.
-* A new website (this one) has been added as `www.secretchronicles.de`.
+* A new website (this one) has been added as `secretchronicles.org`.
 
 Please help us to give this fork the necessary momentum it needs to
 evolve and grow, so that the old SMC gains new life with new
