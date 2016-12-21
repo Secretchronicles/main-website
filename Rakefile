@@ -2,7 +2,7 @@
 
 desc "Compile the site."
 task :compile do
-  sh "bundle exec nanoc compile"
+  sh "bundle exec nanoc compile && cp index.html output/"
 end
 
 desc "View the site at localhost:3000."
