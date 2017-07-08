@@ -47,7 +47,7 @@ Bank: Volksbank Dortmund eG<br/>
 BIC: GENODEM1DOR<br/>
 IBAN: DE13 4416 0014 6437 8328 02
 
-Owner of the account is Mr. Marvin Gülker (the current project lead).
+Owner of the account is Mr. Marvin Gülker (the retired project lead).
 
 Please indicate in the payment details that this is a donation for the
 TSC project so there is no confusion about the nature of the payment.
