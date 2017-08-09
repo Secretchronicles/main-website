@@ -34,6 +34,9 @@ Payment info
 ------------
 
 We can receive donations via
+
+### Bitcoin
+
 [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). This is the Bitcoin
 address to transfer the money to:
 
