@@ -57,7 +57,7 @@ lukemaan ja kirjoittamaan muutoin julkiselle postituslistalle.
 
 Auta meitä kehittämään peliä eteenpäin.
 
-Terveisin,
+Terveisin,<br />
 Quintus.
 
 Päivitys 2014-10-02

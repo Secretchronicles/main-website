@@ -28,7 +28,7 @@ As always, if you find a bug, **please** report it, either on our [Forum][2] or 
 
   Enjoy!
 
--Sydney(sydney_untangle) <br />
+-Sydney(sydney_untangle)<br />
 On Behalf of the TSC team
 
 [1]: /en/download

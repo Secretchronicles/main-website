@@ -53,7 +53,7 @@ tavoitteineen. Tällä hetkellä, olemme lähellä 2.0.0 julkaisua,
 2.0.0-beta3 ollen tämänhetkinen beta versio. Testaa sitä, ja anna 
 palautetta.
 
-Terveisin,
+Terveisin,<br />
 Quintus.
 
 [1]: http://www.secretmaryo.org

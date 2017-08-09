@@ -53,7 +53,7 @@ goals. Currently, we are shortly before the 2.0.0 release, with
 2.0.0-beta3 being the current beta version. Test it, and give
 feedback.
 
-Vale,
+Vale,<br />
 Quintus.
 
 [1]: http://www.secretmaryo.org

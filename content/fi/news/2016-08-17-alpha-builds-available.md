@@ -28,7 +28,7 @@ Kuten aina, jos löydät bugin, **ole hyvä** ja raportoi se, joko [Foorumilla][
 
   Nauti!
 
--Sydney(sydney_untangle) <br />
+-Sydney(sydney_untangle)<br />
 TSC tiimin puolesta
 
 [1]: /fi/download

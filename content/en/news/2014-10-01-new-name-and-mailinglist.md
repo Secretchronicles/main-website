@@ -57,7 +57,7 @@ grant you read and post access to the otherwise public mailinglist.
 
 Help us moving the game forward.
 
-Valete,
+Valete,<br />
 Quintus.
 
 Update 2014-10-02
