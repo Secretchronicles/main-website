@@ -23,7 +23,7 @@ generousity to the community, and are excited to see what this will mean for the
 
 Have a great summer!
 
-- Sydney(sydney_untangle)<br />
+-Sydney(sydney_untangle)<br />
 On behalf of the TSC team
 
 [1]: https://forum.secretchronicles.org/forums/2/threads/2994
