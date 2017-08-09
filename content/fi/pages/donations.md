@@ -33,28 +33,9 @@ tämä tarkoittaa paikallisen verotuksesi mukaan ennen lahjoittamista.
 Maksutiedot
 -----------
 
-### Pankkisiirto
-
-TSC pääpankkitili on tavallinen SEPA pankkitili joka sijaitsee
-saksalaisessa pankissa jonne voit siirtää rahaa mistä tahansa pankista
-joka tukee kansainvälisiä pankkisiirtoja. Ota huomioon että tili on
-asetettu käyttämään Euroa, joten pankkisi voi veloittaa
-valuuttavaihto maksuja jos tilisi käyttää eri valuuttaa.
-
-Ole hyvä ja ohjaa lahjoituksesi tänne:
-
-Pankki: Volksbank Dortmund eG<br/>
-BIC: GENODEM1DOR<br/>
-IBAN: DE13 4416 0014 6437 8328 02
-
-Tilin omistaja on Mr. Marvin Gülker (nykyinen projektin vetäjä).
-
-Ole hyvä ja kirjoita maksutietoihin että tämä on lahjoitus TSC
-projektille jolloin ei ole epäselvyyttä lahjoituksen luonteesta.
-
 ### Bitcoin
 
-Voimme vastaanottaa lahjoituksia myös 
+Voimme vastaanottaa lahjoituksia
 [Bitcoin](https://fi.wikipedia.org/wiki/Bitcoin) valuutassa tähän
 osoitteeseen:
 
