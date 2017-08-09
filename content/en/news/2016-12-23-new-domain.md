@@ -22,7 +22,7 @@ Also, if you run into any issues feel free to contact us using your favorite met
 
 Have a great holiday!
 
--Sydney(sydney_untangle)
+-Sydney(sydney_untangle)<br />
 On behalf of the TSC team
 
 [1]: https://secretchronicles.org/en/community/
