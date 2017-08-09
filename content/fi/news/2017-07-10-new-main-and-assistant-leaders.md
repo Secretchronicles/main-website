@@ -21,11 +21,11 @@ apu-projektinjohtajaksi.
 
 Kiitos teille molemmille kun astuitte vapaaehtoisesti tilalle näihin paikkoihin.
 Me kaikki arvostamme anteliaisuuttanne yhteisölle, ja odotamme jännittyneenä
-mitä tämä merkitsee projektille!
+näkevämme mitä tämä merkitsee projektille!
 
 Erinomaista kesän jatkoa!
 
-- Sydney(sydney_untangle)<br />
+-Sydney(sydney_untangle)<br />
 TSC tiimin puolesta
 
 [1]: https://forum.secretchronicles.org/forums/2/threads/2994
