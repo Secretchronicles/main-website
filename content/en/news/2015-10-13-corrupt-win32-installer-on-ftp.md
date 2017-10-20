@@ -40,4 +40,4 @@ On behalf of the TSC development team.
 
 [1]: https://forum.secretchronicles.org/topics/285
 [2]: https://github.com/Secretchronicles/TSC/issues/452
-[3]: ftp://ftp.secretchronicles.org/releases/TSC-2.0.0-win32.exe
+[3]: https://ftp.secretchronicles.org/releases/TSC-2.0.0-win32.exe
