@@ -27,7 +27,7 @@ concentrate on the actual TSC code.
 This move however does not mean that there is no communication medium
 left for TSC. First off, [forum.secretchronicles.org][2] has been
 archived into a static copy that remains available for reference but
-causes no maintenance problems anymore as its only static HTML now
+causes no maintenance problems anymore as it’s only static HTML now
 (the copy has been created by means of [HTTrack][3]). You cannot log
 into that site thus.
 
