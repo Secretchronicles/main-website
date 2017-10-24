@@ -65,6 +65,15 @@ be that there are errors and problems. Don’t hesitate to contact us,
 ideally by posting to the tsc-users mailinglist, either via email, or
 via HyperKitty.
 
+Another aspect revisited during the upgrade was our IRC bot,
+[furbot][8], that has seen a general software upgrade which especially
+involved a facelift of the IRC logs. If you now visit
+[chatlogs.secretchronicles.org][9], you’ll hopefully be pleasently
+surprised by the improved readability of the newer chatlogs (old logs
+have not been altered). The most annoying bug in the chatlogs, furbot
+repeating itself multiple times after it got disconnected from IRC,
+has been resolved as well.
+
 With regard to the move of the ticket system to alexandria,
 these plans are placed on hold for the moment due to lack of time. The
 mlmmj to Mailman conversion with the removal of Chessboard plus the OS
@@ -86,3 +95,5 @@ On behalf of the TSC team
 [5]: http://list.org/
 [6]: https://lists.secretchronicles.org/
 [7]: http://first-root.com/
+[8]: https://github.com/Secretchronicles/furbot
+[9]: https://chatlogs.secretchronicles.org/
