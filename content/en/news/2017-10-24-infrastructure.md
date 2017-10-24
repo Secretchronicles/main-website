@@ -55,7 +55,7 @@ subscriptions have been moved from mlmmj to Mailman, so there's no
 need to subscribe again. The mailinglist email addresses have remained
 the same as well (tsc-devel@lists.secretchronicles.org and
 tsc-users@lists.secretchronicles.org). Only the administrative email
-addresses (e.g., for unsubscribing) have changed, but the mailinglists
+addresses (e.g., for unsubscribing) have changed, but the mailinglists’
 `List-*` headers have been updated to reflect this. Even more, you can
 of course unsubscribe (or subscribe) via the shiny new web interface
 on [lists.secretchronicles.org][6].
