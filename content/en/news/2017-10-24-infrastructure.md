@@ -20,7 +20,7 @@ former project lead Quintus (Marvin) has announced to devote some time
 again into a rewrite of TSC for version 3.0.0. To support him in this,
 it was decided to shut down the Chessboard instance at
 forum.secretchronicles.org as Chessboard is a [software written by
-Quintus himself][1] that would otherwise need activa maintenance by means
+Quintus himself][1] that would otherwise need active maintenance by means
 of code changes in case security issues arise. This way he can now
 concentrate on the actual TSC code.
 
