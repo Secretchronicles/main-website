@@ -46,7 +46,8 @@ moved from mlmmj to Mailman, and the primary domain for interaction
 with the project is now [lists.secretchronicles.org][6]. On that
 website, you will find a nice web interface that allows you to
 participate in the discussions on the mailinglists without having to
-use email if you don't like to.
+use email if you don't like to. HyperKitty should comfort all of those
+users who have complained that Chessboard's interface looks too old.
 
 If on the other hand you prefer the email communication (and rightly
 so!), then not much changes for you. All existing mailinglist
