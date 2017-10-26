@@ -122,6 +122,11 @@ blockquote {
 	padding-top: 1px;
 	padding-bottom: 1px;
 }
+
+#sponsor img {
+    vertical-align: middle;
+}
+
 aside {
 	float: right;
 	text-align: center;
