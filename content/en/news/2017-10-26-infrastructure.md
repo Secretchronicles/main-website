@@ -58,9 +58,9 @@ to. HyperKitty should comfort all of those users who have complained
 that Chessboard's interface looks too old. If on the other hand you
 prefer the email communication (and rightly so!), then this is of
 course possible as well; the website allows you to choose between
-susbcription (email variant) or registration (web variant), or you can
+subscription (email variant) or registration (web variant), or you can
 use both if you like to, in which case you should first register and
-then susbcribe.
+then subscribe.
 
 *Everyone still interested in the TSC community* has to visit the
 website at [lists.secretchronicles.org][6] *and subscribe there to the
