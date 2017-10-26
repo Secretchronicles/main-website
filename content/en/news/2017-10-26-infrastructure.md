@@ -62,10 +62,10 @@ subscription (email variant) or registration (web variant), or you can
 use both if you like to, in which case you should first register and
 then subscribe.
 
-*Everyone still interested in the TSC community* has to visit the
-website at [lists.secretchronicles.org][6] *and subscribe there to the
-email versions of the desired lists* and/or *create an account in
-order to be able to use the web interface* for posting.
+**Therefore: Everyone still interested in the TSC community** has to visit the
+website at [lists.secretchronicles.org][6] **and subscribe there to the
+email versions of the desired lists** and/or **create an account in
+order to be able to use the web interface** for posting.
 
 Since all of this infrastructure is now completely new, it might well
 be that there are errors and problems. Don’t hesitate to contact us,
