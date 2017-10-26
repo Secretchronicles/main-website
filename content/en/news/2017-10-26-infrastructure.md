@@ -3,11 +3,11 @@ title: Server Infrastructure Update
 date: 2017-10-26
 author: Quintus
 translator:
-summary: The project infrastructure got a major upgrade
+summary: The project infrastructure got a major upgrade — all user accounts and subscriptions cancelled!
 
-Hello everyone,
+**NOTICE: This article contains important information for mailinglist and forum users! Please read it carefully!**
 
-on Sunday, 2017-10-15 our main server `alexandria` suffered from a
+On Sunday, 2017-10-15 our main server `alexandria` suffered from a
 power outage at our sponsor's datacenter that corrupted the SQL
 database. Luckily, thanks to a working backup procedure it was
 possible to restore all important data except for the very newest
@@ -29,7 +29,8 @@ left for TSC. First off, [forum.secretchronicles.org][2] has been
 archived into a static copy that remains available for reference but
 causes no maintenance problems anymore as it’s only static HTML now
 (the copy has been created by means of [HTTrack][3]). You cannot log
-into that site thus.
+into that site thus anymore, and *all user accounts on that site have
+been cancelled*.
 
 The Chessboard instance has always been a frontend to two
 mailinglists, tsc-users@lists.secretchronicles.org and
@@ -42,23 +43,26 @@ drastic update in its web user interface. The old “Pipermail” UI was
 dropped entirely in favour of a rewrite called “HyperKitty”, which
 uses modern technology and makes for a nice and clean
 experience. Consequently, the TSC project’s mailinglists have been
-moved from mlmmj to Mailman, and the primary domain for interaction
-with the project is now [lists.secretchronicles.org][6]. On that
-website, you will find a nice web interface that allows you to
-participate in the discussions on the mailinglists without having to
-use email if you don't like to. HyperKitty should comfort all of those
-users who have complained that Chessboard's interface looks too old.
+moved from mlmmj to Mailman. In order to ease the transition from
+mlmmj+Chessboard to GNU mailman however, *all subscriptions to both
+tsc-devel and tsc-users have been cancelled*, just like the forum
+accounts.
 
-If on the other hand you prefer the email communication (and rightly
-so!), then not much changes for you. All existing mailinglist
-subscriptions have been moved from mlmmj to Mailman, so there's no
-need to subscribe again. The mailinglist email addresses have remained
-the same as well (tsc-devel@lists.secretchronicles.org and
-tsc-users@lists.secretchronicles.org). Only the administrative email
-addresses (e.g., for unsubscribing) have changed, but the mailinglists’
-`List-*` headers have been updated to reflect this. Even more, you can
-of course unsubscribe (or subscribe) via the shiny new web interface
-on [lists.secretchronicles.org][6].
+The primary domain for interaction with the project is now
+[lists.secretchronicles.org][6]. On that website, you will find a nice
+web interface that allows you to participate in the discussions on the
+mailinglists without having to use email if you don't like
+to. HyperKitty should comfort all of those users who have complained
+that Chessboard's interface looks too old. If on the other hand you
+prefer the email communication (and rightly so!), then this is of
+course possible as well.
+
+*Everyone still interested in the TSC community* has to visit the
+website at [lists.secretchronicles.org][6] *and subscribe there
+to the email versions of the desired lists* and/or *create an account in
+order to be able to use the web interface* for posting. In particular,
+you cannot write to the list until you have subscribed (your message
+will be rejected).
 
 Since all of this infrastructure is now completely new, it might well
 be that there are errors and problems. Don’t hesitate to contact us,
