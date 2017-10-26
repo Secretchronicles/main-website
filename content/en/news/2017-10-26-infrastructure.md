@@ -15,14 +15,16 @@ posts on the Chessboard forum.
 
 However, we have taken the server outage as an opportunity to finally
 upgrade our long outdated server operating system (Debian 7) to the
-current Debian 9. This upgrade has now been completed. Furthermore,
-former project lead Quintus (Marvin) has announced to devote some time
-again into a rewrite of TSC for version 3.0.0. To support him in this,
-it was decided to shut down the Chessboard instance at
-forum.secretchronicles.org as Chessboard is a [software written by
-Quintus himself][1] that would otherwise need active maintenance by means
-of code changes in case security issues arise. This way he can now
-concentrate on the actual TSC code.
+current Debian 9. This upgrade has now been completed, and we
+apologise for all the inconvenience that resulted from the procedure
+which especially included the forum and mailinglists being
+unavailable. Furthermore, former project lead Quintus (Marvin) has
+announced to devote some time again into a rewrite of TSC for version
+3.0.0. To support him in this, it was decided to shut down the
+Chessboard instance at forum.secretchronicles.org as Chessboard is a
+[software written by Quintus himself][1] that would otherwise need
+active maintenance by means of code changes in case security issues
+arise. This way he can now concentrate on the actual TSC code.
 
 This move however does not mean that there is no communication medium
 left for TSC. First off, [forum.secretchronicles.org][2] has been
