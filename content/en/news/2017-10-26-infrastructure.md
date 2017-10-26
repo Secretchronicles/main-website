@@ -81,11 +81,10 @@ have not been altered). The most annoying bug in the chatlogs, furbot
 repeating itself multiple times after it got disconnected from IRC,
 has been resolved as well.
 
-With regard to the move of the ticket system to alexandria,
-these plans are placed on hold for the moment due to lack of time. The
-mlmmj to Mailman conversion with the removal of Chessboard plus the OS
-upgrade have consumed quite a bit of time. These plans are not given
-up, though.
+The plans to move the ticket system to `alexandria` are placed on
+hold for the moment due to lack of time. The mlmmj to Mailman
+conversion with the removal of Chessboard plus the OS upgrade have
+consumed quite a bit of time. Those plans are not given up, though.
 
 Many thanks go to Lauri (xet7) who conducted the OS upgrade, to
 Quintus for moving Chessboard+mlmmj to Mailman, and to [First-Root
