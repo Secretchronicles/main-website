@@ -4,6 +4,7 @@ date: 2017-10-26
 author: Quintus
 translator:
 summary: The project infrastructure got a major upgrade — all user accounts and subscriptions cancelled!
+---
 
 **NOTICE: This article contains important information for mailinglist and forum users! Please read it carefully!**
 
