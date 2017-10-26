@@ -46,7 +46,7 @@ dropped entirely in favour of a rewrite called “HyperKitty”, which
 uses modern technology and makes for a nice and clean
 experience. Consequently, the TSC project’s mailinglists have been
 moved from mlmmj to Mailman. In order to ease the transition from
-mlmmj+Chessboard to GNU mailman however, *all subscriptions to both
+mlmmj+Chessboard to GNU Mailman however, *all subscriptions to both
 tsc-devel and tsc-users have been cancelled*, just like the forum
 accounts.
 
