@@ -11,14 +11,12 @@ IRC Channel
 
 [IRC Logs](https://chatlogs.secretchronicles.org)
 
-Forum
------
+Mailinglist / Forum
+-------------------
 
-[Forum](https://forum.secretchronicles.org/forums)
-
-Mailing list
-------------
-
-Forum is mirrored to mailing list.
-
-[Mailing list archive](https://lists.secretchronicles.org)
+There are two mailinglists, “tsc-devel” (focusing on the development
+of TSC) and “tsc-users” (where users talk about TSC). Both can be
+accessed and subscribed to at
+[https://lists.secretchronicles.org](https://lists.secretchronicles.org). That
+website also includes a forum-like web interface that allows you to
+read the mailinglists and post to them without having to use email.
