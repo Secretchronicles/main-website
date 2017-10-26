@@ -57,14 +57,15 @@ mailinglists without having to use email if you don't like
 to. HyperKitty should comfort all of those users who have complained
 that Chessboard's interface looks too old. If on the other hand you
 prefer the email communication (and rightly so!), then this is of
-course possible as well.
+course possible as well; the website allows you to choose between
+susbcription (email variant) or registration (web variant), or you can
+use both if you like to, in which case you should first register and
+then susbcribe.
 
 *Everyone still interested in the TSC community* has to visit the
-website at [lists.secretchronicles.org][6] *and subscribe there
-to the email versions of the desired lists* and/or *create an account in
-order to be able to use the web interface* for posting. In particular,
-you cannot write to the list until you have subscribed (your message
-will be rejected).
+website at [lists.secretchronicles.org][6] *and subscribe there to the
+email versions of the desired lists* and/or *create an account in
+order to be able to use the web interface* for posting.
 
 Since all of this infrastructure is now completely new, it might well
 be that there are errors and problems. Don’t hesitate to contact us,
