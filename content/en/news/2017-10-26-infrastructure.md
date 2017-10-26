@@ -1,6 +1,6 @@
 ---
 title: Server Infrastructure Update
-date: 2017-10-24
+date: 2017-10-26
 author: Quintus
 translator:
 summary: The project infrastructure got a major upgrade
