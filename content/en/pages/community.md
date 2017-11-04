@@ -11,12 +11,20 @@ IRC Channel
 
 [IRC Logs](https://chatlogs.secretchronicles.org)
 
-Mailinglist / Forum
--------------------
+Mailinglists
+------------
 
-There are two mailinglists, “tsc-devel” (focusing on the development
-of TSC) and “tsc-users” (where users talk about TSC). Both can be
-accessed and subscribed to at
-[https://lists.secretchronicles.org](https://lists.secretchronicles.org). That
-website also includes a forum-like web interface that allows you to
-read the mailinglists and post to them without having to use email.
+There are two [mailinglists](https://lists.secretchronicles.org/postorius/lists/):
+
+* [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
+  focuses on the development of TSC.
+* [tsc-users](https://lists.secretchronicles.org/postorius/lists/tsc-users.lists.secretchronicles.org/)
+  is where users talk abuot TSC, e.g. to share their levels.
+
+Forums
+------
+
+The mailinglists mentioned above can also be accessed via a [web
+forum](https://lists.secretchronicles.org/hyperkitty/) if you prefer
+not to use email. Anything you post to that website is mirrored to the
+respective mailinglist and vice-versa.
