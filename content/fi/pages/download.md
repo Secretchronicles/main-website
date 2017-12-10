@@ -27,6 +27,17 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
+[Julkaisu: VirtualBox versio saatavilla](/en/news/2017/12/10/virtualbox-versio-saatavilla)
+
+Lataa ja asenna [VirtualBox](https://virtualbox.org) ja sitten VirtualBox valikosta
+File / Import Appliance avaa tämä .ova tiedosto jonka koko on 4,2 GB, ja tuodun kovalevytiedoston
+koko on 9,9 GB joten tarvitset minimissään 15 GB vapaata levytilaa.
+
+[tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
+
+: MD5 sum:<br>da5a559bdf18ff0f179ebddeafdecf92<br>
+  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8 tsc_2.1.0_git20171210.ova
+
 [Julkaisu: Alpha versio nyt saatavilla Debian Unstable käyttäjille](/fi/news/2016/08/17/alpha-builds-available/)
 
 Ensimmäiset kaksi pakettia tarvitaan molemmat jotta peli toimii oikein,

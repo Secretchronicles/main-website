@@ -27,6 +27,17 @@ between 2015-08-17 and 2015-10-13.
 Development version
 -------------------
 
+[Announcement: VirtualBox appliance available](/en/news/2017/12/10/virtualbox-appliance-available)
+
+Download and install [VirtualBox](https://virtualbox.org) and then from VirtualBox menu
+File / Import Appliance open this .ova file that has size of 4.2 GB, and imported image
+size is 9.9 GB so you need minimum 15 GB free disk space.
+
+[tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
+
+: MD5 sum:<br>da5a559bdf18ff0f179ebddeafdecf92<br>
+  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8 tsc_2.1.0_git20171210.ova
+
 [Announcement: Alpha Builds Now Available for Debian Unstable Users](/en/news/2016/08/17/alpha-builds-available/)
 
 The first two packages are both required for the game to work properly,
