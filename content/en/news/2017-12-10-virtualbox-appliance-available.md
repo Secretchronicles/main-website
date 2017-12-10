@@ -15,4 +15,4 @@ Lauri (xet7)<br />
 On behalf of TSC team
 
 [1]: https://system76.com/pop
-[2]: https://secretchronicles.org/fi/download/
+[2]: https://secretchronicles.org/en/download/
