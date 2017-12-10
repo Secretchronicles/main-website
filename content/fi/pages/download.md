@@ -27,7 +27,7 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
-[Julkaisu: VirtualBox versio saatavilla](/fi/news/2017/12/10/2017-12-10-virtualbox-appliance-available)
+[Julkaisu: VirtualBox versio saatavilla](/fi/news/2017/12/10/virtualbox-appliance-available)
 
 Lataa ja asenna [VirtualBox](https://virtualbox.org) ja sitten VirtualBox valikosta
 File / Import Appliance avaa tämä .ova tiedosto jonka koko on 4,2 GB, ja tuodun kovalevytiedoston
