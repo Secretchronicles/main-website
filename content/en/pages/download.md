@@ -32,6 +32,7 @@ Development version
 Download and install [VirtualBox](https://virtualbox.org) and then from VirtualBox menu
 File / Import Appliance open this .ova file that has size of 4.2 GB, and imported image
 size is 9.9 GB so you need minimum 15 GB free disk space.
+Download manager for big files, pause/resume support: [http://ugetdm.com](http://ugetdm.com).
 
 [tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
 

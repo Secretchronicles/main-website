@@ -32,6 +32,7 @@ Kehitys versio
 Lataa ja asenna [VirtualBox](https://virtualbox.org) ja sitten VirtualBox valikosta
 File / Import Appliance avaa tämä .ova tiedosto jonka koko on 4,2 GB, ja tuodun kovalevytiedoston
 koko on 9,9 GB joten tarvitset minimissään 15 GB vapaata levytilaa.
+Lataus apuohjelma isoille tiedostoille, keskeytä/jatka tuki: [http://ugetdm.com](http://ugetdm.com).
 
 [tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
 
