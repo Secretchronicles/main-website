@@ -25,19 +25,22 @@ available on our website.
 Mailinglists
 ------------
 
-There are two
-[mailinglists](https://lists.secretchronicles.org/postorius/lists/) on
-which the in-depth discussion of the project happens:
+There are two mailinglists on which the public discussion of the
+project happens:
 
+* [tsc-users](https://lists.secretchronicles.org/postorius/lists/tsc-users.lists.secretchronicles.org/)
+  is where users talk about TSC, e.g. to share their levels.
 * [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
   focuses on the development of TSC.
-* [tsc-users](https://lists.secretchronicles.org/postorius/lists/tsc-users.lists.secretchronicles.org/)
-  is where users talk abuot TSC, e.g. to share their levels.
 
 Forums
 ------
 
-The mailinglists mentioned above can also be accessed via a [web
-forum](https://lists.secretchronicles.org/hyperkitty/) if you prefer
-not to use email. Anything you post to that website is mirrored to the
-respective mailinglist and vice-versa.
+The mailinglists mentioned above can also be accessed via web forums
+if you prefer to not use email:
+
+* [User Forum](https://lists.secretchronicles.org/hyperkitty/list/tsc-users@lists.secretchronicles.org/)
+* [Developer Forum](https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/)
+
+Anything you post to that forums is mirrored to the respective
+mailinglist and vice-versa.
