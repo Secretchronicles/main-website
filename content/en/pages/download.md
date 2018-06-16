@@ -27,6 +27,8 @@ between 2015-08-17 and 2015-10-13.
 Development version
 -------------------
 
+[Announcement and Download: Bootable USB image available](/en/news/2018/06/16/bootable-usb-image-available)
+
 [Announcement: VirtualBox appliance available](/en/news/2017/12/10/virtualbox-appliance-available)
 
 Download and install [VirtualBox](https://virtualbox.org) and then from VirtualBox menu

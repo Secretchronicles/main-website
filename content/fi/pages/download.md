@@ -27,6 +27,8 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
+[Julkaisu ja lataa: USB tikulta käynnistyvä versio saatavilla](/fi/news/2018/06/16/bootable-usb-image-available)
+
 [Julkaisu: VirtualBox versio saatavilla](/fi/news/2017/12/10/virtualbox-appliance-available)
 
 Lataa ja asenna [VirtualBox](https://virtualbox.org) ja sitten VirtualBox valikosta
