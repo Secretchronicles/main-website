@@ -299,7 +299,7 @@ If you want to use Linux image in VirtualBox for development
 (it's too slow for playing in VirtualBox), you can extract it unar,
 that unarhives any archive:
 
-`sudo apt install unar zip unzip p7zip-full xmount`
+> `sudo apt install unar zip unzip p7zip-full xmount`
 
 Then you can mount .img as VirtualBox vdi file with xmount
 that writes changes to separate cache file, start VirtualBox as root
