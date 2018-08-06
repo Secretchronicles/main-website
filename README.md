@@ -83,6 +83,40 @@ news posts, you have to keep the file name exactly as it is in
 English, only translate the file content. If you add your name to the
 `translator:` header, it will be shown on the translated page.
 
+Adding new avatars
+------------------
+
+The [mailinglist web interface](https://lists.secretchronicles.org)
+pulls avatar images from the main website below the `/avatar`
+path. These reside in the directory `content/avatar/`. This directory
+is meant to be compatible with Gravatar's GET request API as that is
+what Mailman uses to request the avatar images.
+
+Avatar images need to be of size 120 x 120 px. That's the maximum size
+Mailman displays them at. An SVG is also possible as it is scaled
+automatically properly by the user's browser, but it has to be a
+"bare" SVG without Inkscape (or any other vendor-specific)
+extensions. In Inkscape this can be requested by setting the save
+format to "SVG" and not to "Inkscape SVG".
+
+In order to add a new avatar, calculate the MD5 hash of the lowercased
+e-mail address of the e-mail address the user uses to participate on
+the mailing list. This can easily be done by means of the md5sum(1)
+tool:
+
+    $ echo -n someone@example.org | md5sum -
+
+Note the `-n` option to echo(1); without it, an unwanted newline is
+added and the MD5 hash is calculated incorrectly. Then place the
+avatar under `content/avatar/<md5hash>.jpg`, where you replace
+`<md5hash>` with the MD5 hash just calculated. Note that the file
+extension has to be `.jpg`; anything else is not permissible, because
+Mailman requests it exactly like that. However, it is *not* required
+that the image is actually of JPG format. It is permissible to place a
+PNG, GIF, or any other image format in that file, even though it ends
+with `.jpg`. That's how transparency in avatars is possible (JPG
+doesn't support transparency).
+
 License
 -------
 
