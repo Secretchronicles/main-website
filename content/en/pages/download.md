@@ -49,7 +49,7 @@ Download manager for big files, pause/resume support: [http://ugetdm.com](http:/
 [tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
 
 : MD5 sum:<br>da5a559bdf18ff0f179ebddeafdecf92<br>
-  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8 tsc_2.1.0_git20171210.ova  
+  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8<br>
 
 [Announcement: Alpha Builds Now Available for Debian Unstable Users](/en/news/2016/08/17/alpha-builds-available/)
 
