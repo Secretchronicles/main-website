@@ -26,8 +26,18 @@ between 2015-08-17 and 2015-10-13.
 
 Development version
 -------------------
+[Announcement: 64Bit Ubuntu 18.04 Alpha package available](/en/news/2019/03/10/Ubuntu-18/)
+
+For info on how to install the Ubuntu 18.04 package, please see the above news post.
+
+[tsc_2.1.0+git20190304-alpha2_amd64.deb](https://ftp.secretchronicles.org/alpha/tsc_2.1.0+git20190304-alpha2_amd64.deb)
+
+: MD5 sum:<br>3fde69fc0180cc18033fc398cc3df21d<br>
+  SHA256 hash:<br>12994066c81a938860094c942bee682592f74518a30886caf0ac862c2a6add97<br>
+<br>
 
 [Announcement and Download: Bootable USB image available](/en/news/2018/06/16/bootable-usb-image-available)
+
 
 [Announcement: VirtualBox appliance available](/en/news/2017/12/10/virtualbox-appliance-available)
 
@@ -39,9 +49,11 @@ Download manager for big files, pause/resume support: [http://ugetdm.com](http:/
 [tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
 
 : MD5 sum:<br>da5a559bdf18ff0f179ebddeafdecf92<br>
-  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8 tsc_2.1.0_git20171210.ova
+  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8<br>
 
 [Announcement: Alpha Builds Now Available for Debian Unstable Users](/en/news/2016/08/17/alpha-builds-available/)
+
+NOTE: These packages are no longer maintained and may not install or run properly.
 
 The first two packages are both required for the game to work properly,
 and the third packages our awesome music, so it is recommended to install that one as well.
