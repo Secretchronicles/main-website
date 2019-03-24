@@ -12,12 +12,18 @@ Linux) installed.
 Viewing locally
 ---------------
 
-First, install all necessary dependencies via RubyGems and Bundler:
+First, install all necessary dependencies via RubyGems and Bundler. On
+a Debian system, install bundler via the repositories, then use it to
+install the gems for this project.
 
 ~~~~~~~~~~~~~~~~
-$ gem install bundler
-$ bundle install
+# apt install ruby-bundler
+$ cd /to/the/website/dir
+$ bundle install --path .gems
 ~~~~~~~~~~~~~~~~
+
+The `--path` option to `bundler` ensures that the gems are kept
+logically separate from any system gems.
 
 Then use `nanoc` to compile and serve the site:
 
@@ -123,7 +129,7 @@ License
 Note: This license applies only to the sourcecode of the website. The
 content on the website itself is subject to different licensing.
 
-Copyright (c) 2014, TSC Team
+Copyright (c) 2014-2019, TSC Team
 
 All rights reserved.
 
