@@ -1,15 +1,15 @@
 ---
-title: Server outage aftermath
+title: Server Outage Aftermath
 date: 2019-03-25
 author: quintus
 translator:
 summary: Our server is back online.
 ---
 
-As it has been communicated via [our bugtracker][1] our server,
+As it has been communicated via [our bugtracker][1], our server,
 alexandria, went down on March 12<sup>th</sup>, 2019. The most
-important thing first: the server is back online, and we have brought
-back online all services already. Users of the forum interface on
+important thing first: the server is back online, and we have brought 
+all services back online already. Users of the forum interface on
 lists.secretchronicles.org or the tsc-devel mailing list should pay
 close attention to the section [Current State](#current-state) below
 as action is required.
@@ -19,9 +19,9 @@ as action is required.
 On March 12<sup>th</sup>, 2019, our server
 `alexandria.secretchronicles.org` became completely unresponsive. It
 neither served web pages, nor could we log in via SSH as the TCP
-connections just timed out. alexandria was a VPS server running on an
-OpenVZ host and was sponsored by [First-Root UG][2], Germany. quintus
-quickly get into contact with them by raising a support ticket on that
+connections just timed out. Alexandria was a VPS server running on an
+OpenVZ host and was sponsored by [First-Root UG][2], Germany. Quintus
+quickly got into contact with them by raising a support ticket on that
 day and they diagnosed that the server had “hung up” and could not be
 rescued. As an alternative, First-Root offered to provide us with a
 KVM server on March 13<sup>th</sup>, 2019. We considered all data on
@@ -34,8 +34,8 @@ set them up yet on Debian 9, although we intended to do so. Murphy's
 law has no mercy, so the last backup we had available was from October
 2018. Given the low activity of the project in the time since October
 2018, this isn't too much of a loss, though. The source code of TSC
-was entirely unaffected anyway, because it is stored in Git, every
-developer had a recent copy, and it is available completely [via
+was entirely unaffected, and because it is stored in Git, every
+developer had a recent copy, and all code is available [via
 GitHub][9] anyway. **We have not lost any source code**.
 
 It was decided that the old VPS would not be set up again, because
@@ -49,17 +49,17 @@ tsc-devel mailing list was unavailable due to the outage.
 
 At this point, all communication between the TSC team members
 basically happened in our IRC channel `#secretchronicles` on
-freenode. Our IRC bot, furbot, was also hosted on that server, which
+freenode. Our IRC bot, furbot, was also hosted on our server, which
 means that for this time no public chat logs are available on
 [chatlogs.secretchronicles.org][4].
 
 Despite some status queries, First-Root did not reply to the support
-ticket raised with them after March 13<sup>th</sup> anymore, nor did
+ticket raised with them after March 13<sup>th</sup>, nor did
 they provide the promised KVM server. By March 24<sup>th</sup>, 2019,
-we had been nearly two weeks offline and we decided that we need to
+we had been offline for nearly two weeks and we decided that we need to
 venture for an alternative. TSC team member xet7 is involved in the
 [Wekan project][5], an open-source kanban board implementation. The
-Wekan project had a spare server they currently have not in use and
+Wekan project has a server that is used to [port Wekan to arm64][10] and
 xet7 generously allowed TSC to move over to that server. Albeit this
 server has a rather unusual CPU architecture (aarch64), it is really
 powerful and is going to serve all of our hosting needs nicely. As
@@ -105,13 +105,13 @@ not possible to just copy the database over from the backup of
   account, please join our IRC channel `#secretchronicles` on
   chat.freenode.net and request this there.
 
-The other mailing list, tsc-users, has not been restored. It never saw
-any serious traffic anyway. All discussion, even if it is user
+The other mailing list, tsc-users, has not been restored, as it never saw
+any serious traffic. All discussion, even if it is user
 discussion like submission of levels, should just happen on tsc-devel
 from now on. All subscriptions to the tsc-users mailing list have been
 cancelled.
 
-We apolgise for the inconvenience caused by the Mailman version switch.
+We apologize for the inconvenience caused by the Mailman version switch.
 
 ## Future
 
@@ -119,8 +119,8 @@ We are going to evaluate our backup strategy and quickly get automatic
 backups up and running for the new server.
 
 Additionally, beyond restoring the services that we had on the old
-VPS, we consider setup of more infrastructure. For instance, the Wiki,
-which we set to sleep after it got spammed might see a
+VPS, we are considering the setup of more infrastructure. For instance,
+the Wiki, which we set to sleep after it got spammed, might see a
 rennaissance. The setup of a CI service is in discussion, as are
 automated nightly builds. TSC team member kirbyfan suggested
 installation of Discourse, a rails-based web forum software.
@@ -137,3 +137,4 @@ on behalf of the TSC team.
 [7]: https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/
 [8]: https://lists.secretchronicles.org/postorius/lists/
 [9]: https://github.com/Secretchronicles/TSC
+[10]: https://blog.wekan.team/2018/01/wekan-progress-on-x64-and-arm/index.html
