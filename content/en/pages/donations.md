@@ -33,12 +33,6 @@ local tax volume before you donate.
 Payment info
 ------------
 
-### Bitcoin
-
-We can receive donations via
-[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). This is the Bitcoin
-address to transfer the money to:
-
-~~~~~~~
-18ogkvMxye2m3BJtp5rafsSmV15jg4WJTN
-~~~~~~~
+As of now, we don't have a donations infrastructure set up. If you
+want to donate, please either [show up in our IRC channel or ask on our
+mailing list](../community/).
