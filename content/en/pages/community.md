@@ -28,8 +28,6 @@ Mailinglists
 There are two mailinglists on which the public discussion of the
 project happens:
 
-* [tsc-users](https://lists.secretchronicles.org/postorius/lists/tsc-users.lists.secretchronicles.org/)
-  is where users talk about TSC, e.g. to share their levels.
 * [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
   focuses on the development of TSC.
 
@@ -39,7 +37,6 @@ Forums
 The mailinglists mentioned above can also be accessed via web forums
 if you prefer to not use email:
 
-* [User Forum](https://lists.secretchronicles.org/hyperkitty/list/tsc-users@lists.secretchronicles.org/)
 * [Developer Forum](https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/)
 
 Anything you post to that forums is mirrored to the respective
