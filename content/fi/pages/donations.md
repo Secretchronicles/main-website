@@ -33,12 +33,6 @@ tämä tarkoittaa paikallisen verotuksesi mukaan ennen lahjoittamista.
 Maksutiedot
 -----------
 
-### Bitcoin
-
-Voimme vastaanottaa lahjoituksia
-[Bitcoin](https://fi.wikipedia.org/wiki/Bitcoin) valuutassa tähän
-osoitteeseen:
-
-~~~~~~~
-18ogkvMxye2m3BJtp5rafsSmV15jg4WJTN
-~~~~~~~
+Tällä hetkellä, meillä ei ole lahjoitus infraa asennettuna. Jos
+haluat lahjoittaa, ole hyvä ja vaihtoehtoisesti [tule IRC kanavallemme
+tai kysy postituslistalla](../community/).

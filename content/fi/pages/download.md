@@ -27,21 +27,21 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
+[Julkaisu: 64Bit Ubuntu 18.04 Alpha paketti saatavilla](/fi/news/2019/03/10/Ubuntu-18/)
+
+Saadaksesi tietoja Ubuntu 18.04 paketin asentamisesta, ole hyvä ja katso ylläoleva uutinen.
+
+[tsc_2.1.0+git20190323-alpha3_amd64.deb](https://ftp.secretchronicles.org/alpha/tsc_2.1.0+git20190323-alpha3_amd64.deb)
+
+: MD5 sum:<br>5d6f2dd4732345461439d0028f9e8b6c<br>
+  SHA256 hash:<br>cd2f532b5f8a161087543cc5d8ab709b58b679c944cc997bc79733df45e99175<br>
+<br>
+
 [Julkaisu ja lataa: USB tikulta käynnistyvä versio saatavilla](/fi/news/2018/06/16/bootable-usb-image-available)
-
-[Julkaisu: VirtualBox versio saatavilla](/fi/news/2017/12/10/virtualbox-appliance-available)
-
-Lataa ja asenna [VirtualBox](https://virtualbox.org) ja sitten VirtualBox valikosta
-File / Import Appliance avaa tämä .ova tiedosto jonka koko on 4,2 GB, ja tuodun kovalevytiedoston
-koko on 9,9 GB joten tarvitset minimissään 15 GB vapaata levytilaa.
-Lataus apuohjelma isoille tiedostoille, keskeytä/jatka tuki: [http://ugetdm.com](http://ugetdm.com).
-
-[tsc_2.1.0_git20171210.ova](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20171210.ova)
-
-: MD5 sum:<br>da5a559bdf18ff0f179ebddeafdecf92<br>
-  SHA256 hash:<br>a98f9c985980a84d35780b282c0a3e153cd2fada0c4297b200b5307dbe8cb2f8 tsc_2.1.0_git20171210.ova
-
+<br><br>
 [Julkaisu: Alpha versio nyt saatavilla Debian Unstable käyttäjille](/fi/news/2016/08/17/alpha-builds-available/)
+
+HUOM: Näitä paketteja ei enää ylläpidetä ja ne eivät ehkä asennu tai toimi kunnolla.
 
 Ensimmäiset kaksi pakettia tarvitaan molemmat jotta peli toimii oikein,
 ja kolmas paketti on upeaa musiikkiamme, joten suosittelemme myös sen
