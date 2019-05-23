@@ -25,8 +25,6 @@ Postituslista
 
 Julkinen keskustelu projektista käydään kahdella postituslistalla:
 
-* [tsc-users](https://lists.secretchronicles.org/postorius/lists/tsc-users.lists.secretchronicles.org/)
-  jolla käyttäjät keskustelevat TSC:stä, kuten jakavat pelitasojaan.
 * [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
   keskittyy TSC:n kehittämiseen.
 
@@ -36,7 +34,6 @@ Foorumit
 Yllä mainitut postituslistat ovat saatavilla myös web foorumeina
 jos käytät niitä mieluummin kuin sähköpostia:
 
-* [Käyttäjäfoorumi tsc-users](https://lists.secretchronicles.org/hyperkitty/list/tsc-users@lists.secretchronicles.org/)
 * [Kehittäjäfoorumi tsc-devel](https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/)
 
 Mikä tahansa foorumille kirjoittamasi peilataan myös vastaavalle
