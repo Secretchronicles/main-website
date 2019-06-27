@@ -22,22 +22,17 @@ The channel is logged with the [channel
 logs](https://chatlogs.secretchronicles.org) being publically
 available on our website.
 
-Mailinglists
-------------
-
-There are two mailinglists on which the public discussion of the
-project happens:
+Mailinglist
+-----------
 
 * [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
-  focuses on the development of TSC.
 
 Forums
 ------
 
-The mailinglists mentioned above can also be accessed via web forums
+The mailinglist mentioned above can also be accessed via a web forum
 if you prefer to not use email:
 
-* [Developer Forum](https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/)
+* [Forum](https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/)
 
-Anything you post to that forums is mirrored to the respective
-mailinglist and vice-versa.
+Anything you post to that forum is mirrored to the mailinglist and vice-versa.
