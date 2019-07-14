@@ -2,14 +2,17 @@
 title: Yhteisö
 ---
 
-TSC on avoimen lähdekoodin projekti, joka etenee sen yhteisön jäsenten vetämänä.
-Heidän keskustelunsa tapahtuvat seuraavissa paikoissa, jonne olet kutsuttu osallistumaan milloin tahansa, jos sinulla on kysymys TSC:stä
-tai haluat osallistua.
+TSC on avoimen lähdekoodin projekti, joka etenee sen yhteisön
+jäsenten vetämänä. Heidän keskustelunsa tapahtuvat seuraavissa
+paikoissa, jonne olet kutsuttu osallistumaan milloin tahansa,
+jos sinulla on kysymys TSC:stä tai haluat osallistua.
 
 Postituslista
 -------------
 
-Postituslista on paras paikka osallistua jos et malta pysyä IRC kanavalla (tietoa alempana tällä sivula). Jos mietityttää, niin parasta kirjoittaa tänne.
+Postituslista on paras paikka osallistua jos et malta pysyä
+IRC kanavalla (tietoa alempana tällä sivula). Jos mietityttää,
+niin parasta kirjoittaa tänne.
 
 * [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
 
@@ -28,12 +31,12 @@ IRC Kanava
 -----------
 
 IRC kanava [#secretchronicles freenode.net](irc://irc.freenode.net/secretchronicles)
-on pääasiallinen projektin keskustelupaikka.
- Yleensä joku on linjoilla, mutta koska olemme pieni vapaa-ajan projekti, emme voi taata että
-joku on linjoilla. Jos kirjoitat tänne, ota huomioon että voi mennä useita tunteja kunnes joku
-vastaa.
-Jos joku on linjoilla, saattaa vastaus tulla minuuteissa.
-Olet tervetullut kanavalle, joten älä epäröi mainita läsnäolostasi kanavalla olijoille.
+on pääasiallinen projektin keskustelupaikka. Yleensä joku on linjoilla
+ mutta koskaolemme pieni vapaa-ajan projekti, emme voi taata että
+joku on linjoilla. Jos kirjoitat tänne, ota huomioon että voi mennä
+useita tunteja kunnes joku vastaa. Jos joku on linjoilla, saattaa
+vastaus tulla minuuteissa. Olet tervetullut kanavalle, joten
+älä epäröi mainita läsnäolostasi kanavalla olijoille.
 
 Voit liittyä kanavalle [Freenoden
 webchatissa](https://webchat.freenode.net/?channels=secretchronicles), mutta
