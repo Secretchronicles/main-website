@@ -136,20 +136,12 @@ compile '/stylesheets/*/' do
   # don’t filter or layout
 end
 
-compile "/avatar/*/" do
-  # don’t filter or layout
-end
-
 compile "/assets/*/" do
   # don’t filter binary assets
 end
 
 route '/stylesheets/*/' do
   item.identifier.chop + ".css"
-end
-
-route "/avatar/*/" do
-  item.identifier.chop + ".jpg"
 end
 
 route "/assets/*/" do
