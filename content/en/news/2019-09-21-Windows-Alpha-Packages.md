@@ -1,9 +1,9 @@
 ---
-title: Windows Alpha packages Available
+title: Windows Alpha Packages Available
 date: 2019-09-21
 author: xet7
 translator:
-summary: Windows Alpha packages Available
+summary: Windows Alpha Packages Available
 ---
 
 Originally there was Windows version of TSC, but because of many code changes,

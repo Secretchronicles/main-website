@@ -27,7 +27,7 @@ between 2015-08-17 and 2015-10-13.
 Development version
 -------------------
 
-[Announcement: Windows Alpha packages Available](/en/news/2019/09/21/Windows-Alpha-Packages/)
+[Announcement: Windows Alpha Packages Available](/en/news/2019/09/21/Windows-Alpha-Packages/)
 
 For info on how to install the Windows packages, please see the above news post.
 
