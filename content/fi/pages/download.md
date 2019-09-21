@@ -27,6 +27,10 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
+[Julkaisu: Windows Alpha paketit saatavilla](/fi/news/2019/09/21/Windows-Alpha-Packages/)
+
+Saadaksesi tietoja Windows pakettien asentamisesta, ole hyvä ja katso ylläoleva uutinen.
+
 [Julkaisu: 64Bit Ubuntu 18.04 Alpha paketti saatavilla](/fi/news/2019/03/10/Ubuntu-18/)
 
 Saadaksesi tietoja Ubuntu 18.04 paketin asentamisesta, ole hyvä ja katso ylläoleva uutinen.
