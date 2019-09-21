@@ -10,7 +10,7 @@ Originally there was Windows version of TSC, but because of many code changes,
 building Windows version did not work for many years, until now.
 
 Thanks to hgdagon and quintus for code changes required, and xet7 for building
-on Windows, we now have a prebuilt Alpha installer packages for Windows. 
+on Windows, we now have a prebuilt Alpha installer packages for Windows.<br>
 
 **64bit Win7 and newer:**
 
