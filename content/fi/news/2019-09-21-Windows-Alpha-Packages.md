@@ -11,7 +11,9 @@ Windows version kääntäminen lähdekoodista ei toiminut moneen vuoteen,
 kunnes nyt.
 
 Kiitos hgdagon ja quintus tarvittavista koodimuutoksista, ja xet7 lähdekoodista
-kääntämisestä Windowsissa, meillä on nyt Alpha asennuspaketit Windowsille.<br>
+kääntämisestä Windowsissa, meillä on nyt Alpha asennuspaketit Windowsille.
+
+<br>
 
 **64bit Win7 ja uudemmat:**
 
