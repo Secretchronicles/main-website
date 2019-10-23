@@ -35,10 +35,10 @@ For info on how to install the Windows packages, please see the above news post.
 
 For info on how to install the Ubuntu 18.04 package, please see the above news post.
 
-[tsc_2.1.0+git20190323-alpha3_amd64.deb](https://ftp.secretchronicles.org/alpha/tsc_2.1.0+git20190323-alpha3_amd64.deb)
+[tsc_2.1.0+git20191015-alpha4_amd64.deb](https://ftp.secretchronicles.org/alpha/tsc_2.1.0+git20191015-alpha4_amd64.deb)
 
-: MD5 sum:<br>5d6f2dd4732345461439d0028f9e8b6c<br>
-  SHA256 hash:<br>cd2f532b5f8a161087543cc5d8ab709b58b679c944cc997bc79733df45e99175<br>
+: MD5 sum:<br>3057351969b8260d9ed44750c5fc1694<br>
+  SHA256 hash:<br>a177c5aa43bfabf37c106eda4473c7000040a111f02ff5ef26da6c9198b6a7e4<br>
 <br>
 
 [Announcement and Download: Bootable USB image available](/en/news/2018/06/16/bootable-usb-image-available)
