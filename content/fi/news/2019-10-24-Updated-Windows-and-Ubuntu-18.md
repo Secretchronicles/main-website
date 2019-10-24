@@ -6,10 +6,6 @@ translator: xet7
 summary: Päivitetyt Windows ja Ubuntu 18.04 Windows Alpha paketit saatavilla
 ---
 
-**Lataukset**
-
-Windows ja Ubuntu versio saatavilla meidän [Lataukset sivulta][1]
-
 **Windows**
 
 Alunperin oli Windows versio TSC:stä, mutta koska oli monia koodimuutoksia,
