@@ -27,11 +27,27 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
-[Julkaisu: Windows Alpha paketit saatavilla](/fi/news/2019/09/21/Windows-Alpha-Packages/)
+[Julkaisu: Päivitetut Windows ja Ubuntu 18.04 Alpha paketit saatavilla](/fi/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
 
-Saadaksesi tietoja Windows pakettien asentamisesta, ole hyvä ja katso ylläoleva uutinen.
+Seuraa Windows asennusohjelman asennusvaiheita.
 
-[Julkaisu: 64Bit Ubuntu 18.04 Alpha paketti saatavilla](/fi/news/2019/03/10/Ubuntu-18/)
+**64bit Win7 ja uudemmat:**
+
+[tsc_2.1.0_git20191024_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_amd64.>
+
+: MD5 sum:<br>672dc286d81188df4d4f17e4da4d6d7c<br>
+  SHA256 hash:<br>78c2b5d193ed172fc9182fe18d6b74ffb89b9731a714fc2ad98a69607b967af6<br>
+<br>
+
+**32bit Win7 ja uudemmat:**
+
+[tsc_2.1.0_git20191024_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_win32.>
+
+: MD5 sum:<br>0c0e9463fd56a65c0df1bfcc68b0438c<br>
+  SHA256 hash:<br>3fce83a862036c41adc5666acc24654be29361ac79989fcab42444c9ac0bd510<br>
+<br>
+
+[Julkaisu: Päivitetut Windows ja Ubuntu 18.04 Alpha paketit saatavilla](/fi/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
 
 Saadaksesi tietoja Ubuntu 18.04 paketin asentamisesta, ole hyvä ja katso ylläoleva uutinen.
 

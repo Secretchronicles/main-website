@@ -27,11 +27,29 @@ between 2015-08-17 and 2015-10-13.
 Development version
 -------------------
 
-[Announcement: Windows Alpha Packages Available](/en/news/2019/09/21/Windows-Alpha-Packages/)
+[Announcement: Updated Windows and Ubuntu 18.04 Alpha Packages Available](/en/news/2019/10/24/Windows-and-Ubuntu-18/)
 
-For info on how to install the Windows packages, please see the above news post.
+Follow Windows installer setup steps.
 
-[Announcement: 64Bit Ubuntu 18.04 Alpha package available](/en/news/2019/03/10/Ubuntu-18/)
+<br>
+
+**64bit Win7 and newer:**
+
+[tsc_2.1.0_git20191024_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_amd64.>
+
+: MD5 sum:<br>672dc286d81188df4d4f17e4da4d6d7c<br>
+  SHA256 hash:<br>78c2b5d193ed172fc9182fe18d6b74ffb89b9731a714fc2ad98a69607b967af6<br>
+<br>
+
+**32bit Win7 and newer:**
+
+[tsc_2.1.0_git20191024_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_win32.>
+
+: MD5 sum:<br>0c0e9463fd56a65c0df1bfcc68b0438c<br>
+  SHA256 hash:<br>3fce83a862036c41adc5666acc24654be29361ac79989fcab42444c9ac0bd510<br>
+<br>
+
+[Announcement: Updated Windows and Ubuntu 18.04 Alpha Packages Available](/en/news/2019/10/24/Windows-and-Ubuntu-18/)
 
 For info on how to install the Ubuntu 18.04 package, please see the above news post.
 
