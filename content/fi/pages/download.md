@@ -27,13 +27,15 @@ aikavälillä 2015-08-17 - 2015-10-13.
 Kehitys versio
 --------------
 
+**Windows**
+
 [Julkaisu: Päivitetut Windows ja Ubuntu 18.04 Alpha paketit saatavilla](/fi/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
 
 Seuraa Windows asennusohjelman asennusvaiheita.
 
 **64bit Win7 ja uudemmat:**
 
-[tsc_2.1.0_git20191024_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_amd64.>
+[tsc_2.1.0_git20191024_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_amd64.exe)
 
 : MD5 sum:<br>672dc286d81188df4d4f17e4da4d6d7c<br>
   SHA256 hash:<br>78c2b5d193ed172fc9182fe18d6b74ffb89b9731a714fc2ad98a69607b967af6<br>
@@ -41,11 +43,13 @@ Seuraa Windows asennusohjelman asennusvaiheita.
 
 **32bit Win7 ja uudemmat:**
 
-[tsc_2.1.0_git20191024_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_win32.>
+[tsc_2.1.0_git20191024_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_win32.exe)
 
 : MD5 sum:<br>0c0e9463fd56a65c0df1bfcc68b0438c<br>
   SHA256 hash:<br>3fce83a862036c41adc5666acc24654be29361ac79989fcab42444c9ac0bd510<br>
 <br>
+
+**Ubuntu 18.04**
 
 [Julkaisu: Päivitetut Windows ja Ubuntu 18.04 Alpha paketit saatavilla](/fi/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
 
@@ -57,8 +61,13 @@ Saadaksesi tietoja Ubuntu 18.04 paketin asentamisesta, ole hyvä ja katso ylläo
   SHA256 hash:<br>a177c5aa43bfabf37c106eda4473c7000040a111f02ff5ef26da6c9198b6a7e4<br>
 <br>
 
+**USB tikulta käynnistyvä versio**
+
 [Julkaisu ja lataa: USB tikulta käynnistyvä versio saatavilla](/fi/news/2018/06/16/bootable-usb-image-available)
 <br><br>
+
+**Debian unstable**
+
 [Julkaisu: Alpha versio nyt saatavilla Debian Unstable käyttäjille](/fi/news/2016/08/17/alpha-builds-available/)
 
 HUOM: Näitä paketteja ei enää ylläpidetä ja ne eivät ehkä asennu tai toimi kunnolla.
