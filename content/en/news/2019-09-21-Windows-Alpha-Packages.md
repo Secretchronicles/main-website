@@ -16,18 +16,18 @@ on Windows, we now have a prebuilt Alpha installer packages for Windows.
 
 **64bit Win7 and newer:**
 
-[tsc_2.1.0_git20190803_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20190803_amd64.exe)
+[tsc_2.1.0_git20191024_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_amd64.exe)
 
-: MD5 sum:<br>ae4dfeda06d7241060e0010c20a59175<br>
-  SHA256 hash:<br>1c8aa7f79eb7bf7219f35ab83c21c1c33c08ec03c3036075fbadcc5307284f35<br>
+: MD5 sum:<br>672dc286d81188df4d4f17e4da4d6d7c<br>
+  SHA256 hash:<br>78c2b5d193ed172fc9182fe18d6b74ffb89b9731a714fc2ad98a69607b967af6<br>
 <br>
 
 **32bit Win7 and newer:**
 
-[tsc_2.1.0_git20190803_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20190803_win32.exe)
+[tsc_2.1.0_git20191024_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_win32.exe)
 
-: MD5 sum:<br>c2d9bdd88bf65700c182cc72dde8d757<br>
-  SHA256 hash:<br>bdbbe6530d3d47c171e1d2474961960aa46bd5d7aaf58130e85571eb8476802a<br>
+: MD5 sum:<br>0c0e9463fd56a65c0df1bfcc68b0438c<br>
+  SHA256 hash:<br>3fce83a862036c41adc5666acc24654be29361ac79989fcab42444c9ac0bd510<br>
 <br>
 
 xet7<br />
