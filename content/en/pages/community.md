@@ -44,7 +44,4 @@ uncomfortable to use. Therefore, it’s recommended you use a native IRC
 client like [HexChat](https://hexchat.github.io/) instead, which also
 integrates much better with your operating system.
 
-The channel is logged with the [channel
-logs](https://chatlogs.secretchronicles.org) being publically
-available on our website.
-
+Public logging of said IRC channel is prohibited.
