@@ -17,7 +17,7 @@ kääntämisestä Windowsissa, meillä on nyt Alpha asennuspaketit Windowsille.
 
 Saatavilla meidän [Lataukset sivulta][1]
 
-[1]: /fi/download/#development-version
+[1]: /fi/download/#kehitys-versio
 
 xet7<br />
 TSC tiimin puolesta

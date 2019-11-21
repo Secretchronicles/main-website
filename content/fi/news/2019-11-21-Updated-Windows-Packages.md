@@ -21,7 +21,7 @@ Toivotamme tervetulleeksi [enemmän käännöksiä TSC:hen][3]. Voit kysyä mit�
 liittyviä kysymyksiä [foorumilla][4]. Kiitos!
 
 [1]: https://github.com/Secretchronicles/TSC/commit/838c72398e4e3e69cfd94d9fa9d7fd6e127f5bc1
-[2]: /fi/download/#development-version
+[2]: /fi/download/#kehitys-versio
 [3]: https://github.com/Secretchronicles/TSC/blob/devel/tsc/docs/pages/translating.md
 [4]: https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/
 
