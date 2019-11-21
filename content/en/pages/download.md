@@ -29,7 +29,7 @@ Development version
 
 **Windows**
 
-[Announcement: Updated Windows and Ubuntu 18.04 Alpha Packages Available](/en/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
+[Announcement: Updated Windows Alpha Packages Available](/en/news/2019/11/21/Updated-Windows-Packages/)
 
 Follow Windows installer setup steps.
 

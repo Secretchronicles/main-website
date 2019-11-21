@@ -29,7 +29,7 @@ Kehitys versio
 
 **Windows**
 
-[Julkaisu: Päivitetut Windows ja Ubuntu 18.04 Alpha paketit saatavilla](/fi/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
+[Julkaisu: Päivitetyt Windows paketit saatavilla](/fi/news/2019/11/21/Updated-Windows-Packages/)
 
 Seuraa Windows asennusohjelman asennusvaiheita.
 
