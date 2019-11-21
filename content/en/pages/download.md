@@ -35,18 +35,18 @@ Follow Windows installer setup steps.
 
 **64bit Win7 and newer:**
 
-[tsc_2.1.0_git20191024_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_amd64.exe)
+[tsc_2.1.0_git20191120_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191120_amd64.exe)
 
-: MD5 sum:<br>672dc286d81188df4d4f17e4da4d6d7c<br>
-  SHA256 hash:<br>78c2b5d193ed172fc9182fe18d6b74ffb89b9731a714fc2ad98a69607b967af6<br>
+: MD5 sum:<br>4845e6e598169e4aaacd549faae57551<br>
+  SHA256 hash:<br>588a6909ad535c0e7d6f06718f34ec6b14fa46ad7b1a9cdb6fb84993f0d22e98<br>
 <br>
 
 **32bit Win7 and newer:**
 
-[tsc_2.1.0_git20191024_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191024_win32.exe)
+[tsc_2.1.0_git20191120_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191120_win32.exe)
 
-: MD5 sum:<br>0c0e9463fd56a65c0df1bfcc68b0438c<br>
-  SHA256 hash:<br>3fce83a862036c41adc5666acc24654be29361ac79989fcab42444c9ac0bd510<br>
+: MD5 sum:<br>5be778c32c05c186417c9998d92e258a<br>
+  SHA256 hash:<br>e54e103852e064f1312f556a89c83569a72e4dbd20b5eee12b8174a77a411954<br>
 <br>
 
 **Ubuntu 18.04**
