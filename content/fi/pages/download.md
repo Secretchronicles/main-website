@@ -35,18 +35,18 @@ Seuraa Windows asennusohjelman asennusvaiheita.
 
 **64bit Win7 ja uudemmat:**
 
-[tsc_2.1.0_git20191120_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191120_amd64.exe)
+[tsc_2.1.0_git20191130_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191130_amd64.exe)
 
-: MD5 sum:<br>4845e6e598169e4aaacd549faae57551<br>
-  SHA256 hash:<br>588a6909ad535c0e7d6f06718f34ec6b14fa46ad7b1a9cdb6fb84993f0d22e98<br>
+: MD5 sum:<br>287a3aaf17b822f94271c9aec59c8a50<br>
+  SHA256 hash:<br>fbca7bdcf4b1fa2c2dcf9a199143890fa3fdda49972e8b3a2ff93cd3078059ad<br>
 <br>
 
 **32bit Win7 ja uudemmat:**
 
-[tsc_2.1.0_git20191120_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191120_win32.exe)
+[tsc_2.1.0_git20191130_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191130_win32.exe)
 
-: MD5 sum:<br>5be778c32c05c186417c9998d92e258a<br>
-  SHA256 hash:<br>e54e103852e064f1312f556a89c83569a72e4dbd20b5eee12b8174a77a411954<br>
+: MD5 sum:<br>57804a5b6454d047bb74d8ba839463fd<br>
+  SHA256 hash:<br>9e1c0066a803b41bd784c4c685adfbd746c88a20e2f4c17ba082a7488f560616<br>
 <br>
 
 **Ubuntu 18.04**
