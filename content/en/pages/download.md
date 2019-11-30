@@ -29,7 +29,7 @@ Development version
 
 **Windows**
 
-[Announcement: Updated Windows Alpha Packages Available](/en/news/2019/11/21/Updated-Windows-Packages/)
+[Announcement: Updated Windows Alpha Packages Available](/en/news/2019/11/30/Updated-Windows-Packages/)
 
 Follow Windows installer setup steps.
 

@@ -29,7 +29,7 @@ Kehitys versio
 
 **Windows**
 
-[Julkaisu: Päivitetyt Windows paketit saatavilla](/fi/news/2019/11/21/Updated-Windows-Packages/)
+[Julkaisu: Päivitetyt Windows paketit saatavilla](/fi/news/2019/11/30/Updated-Windows-Packages/)
 
 Seuraa Windows asennusohjelman asennusvaiheita.
 
