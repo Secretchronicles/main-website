@@ -15,6 +15,11 @@ enough for IRC (see below). If in doubt, post here.
 
 * [tsc-devel](https://lists.secretchronicles.org/postorius/lists/tsc-devel.lists.secretchronicles.org/)
 
+**Note**: If you subscribed to the mailing list and appearently do not
+receive the confirmation message or mailing list messages, check your
+spam folder. Please mark any mail from TSC as "not spam", so that the
+providers learn that the TSC project is not sending spam.
+
 Forum
 -----
 
