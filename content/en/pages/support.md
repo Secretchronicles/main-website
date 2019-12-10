@@ -38,7 +38,7 @@ Required info to send to Email [support@secretchronicles.org](mailto:support@sec
 1. [GitHub issue numbers](https://github.com/Secretchronicles/TSC/issues) of what payment is for
 1. Company name
 1. Company VAT number
-1. Company full address: Street Name, Street Number, Zip Code, City, Country
+1. Company full address: Street Name, Street Number, Zip Code, City, State, Country
 1. First name and Last name of person who pays
 1. Email address of person who pays
 1. OVT address where to send E-invoice

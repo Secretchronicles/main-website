@@ -39,7 +39,7 @@ Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen [support@secretchr
 1. [GitHub issue numerot](https://github.com/Secretchronicles/TSC/issues) mihin tarkoitukseen maksu on
 1. Yrityksen nimi
 1. Yrityksen ALV numero (VAT)
-1. Yrityksen koko osoite: Kadun nimi, Kadun numero, Postinumero, Kaupunki, Maa
+1. Yrityksen koko osoite: Kadun nimi, Kadun numero, Postinumero, Kaupunki, Lääni, Maa
 1. Maksavan henkilön etunimi ja sukunimi
 1. Maksavan henkilön sähköpostiosoite
 1. Verkkolasku OVT-tunnus
