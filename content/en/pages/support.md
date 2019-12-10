@@ -5,8 +5,6 @@ title: Commercial Support
 Worldwide: TSC Team
 -------------------
 
-Commercial Support Options:
-
 * Support for installing the TSC game
 * Feature and Fix development for the TSC game
 * Creating packages for some Linux distros on some CPUs
@@ -23,7 +21,7 @@ Send with [TransferWise](https://transferwise.com) to
 2) Pre-payment: Official invoice PDF with IBAN Bank number
 ----------------------------------------------------------
 
-Required info to send to Email support@secretchronicles.org so that invoice PDF can be made:
+Required info to send to Email [support@secretchronicles.org](mailto:support@secretchronicles.org) so that invoice PDF can be made:
 
 1. [GitHub issue numbers](https://github.com/Secretchronicles/TSC/issues) of what payment is for
 1. Company name
@@ -35,7 +33,7 @@ Required info to send to Email support@secretchronicles.org so that invoice PDF 
 3) Pre-payment: E-invoicing to OVT address, only at Finland
 -----------------------------------------------------------
 
-Required info to send to Email support@secretchronicles.org so that E-invoice can be made:
+Required info to send to Email [support@secretchronicles.org](mailto:support@secretchronicles.org) so that E-invoice can be made:
 
 1. [GitHub issue numbers](https://github.com/Secretchronicles/TSC/issues) of what payment is for
 1. Company name

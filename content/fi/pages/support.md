@@ -5,8 +5,6 @@ title: Kaupallinen tuki
 Maailmanlaajuinen: TSC Tiimi
 ----------------------------
 
-Kaupallisen tuen vaihtoehdot:
-
 * Tuki TSC pelin asentamiseen
 * Uusien ominaisuuksien ja korjausten ohjelmointi TSC peliin
 * Uusien asennuspakettien teko joillekin Linux distoroille joillakin prosessoreilla
@@ -23,7 +21,7 @@ Lähetä [TransferWise](https://transferwise.com):lla osoitteeseen
 2) Etukäteismaksu: Virallinen invoice PDF jossa IBAN pankkitilin numero
 -----------------------------------------------------------------------
 
-Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen support@secretchronicles.org jotta invoice PDF voidaaan tehdä:
+Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen [support@secretchronicles.org](mailto:support@secretchronicles.org) jotta invoice PDF voidaaan tehdä:
 
 1. [GitHub issue numerot](https://github.com/Secretchronicles/TSC/issues) mihin tarkoitukseen maksu on
 1. Yrityksen nimi
@@ -36,7 +34,7 @@ Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen support@secretchro
 3) Etukäteismaksu: Verkkolasku OVT-tunnuksella, vain Suomessa
 -------------------------------------------------------------
 
-Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen support@secretchronicles.org jotta verkkolasku voidaan tehdä
+Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen [support@secretchronicles.org](mailto:support@secretchronicles.org) jotta verkkolasku voidaan tehdä:
 
 1. [GitHub issue numerot](https://github.com/Secretchronicles/TSC/issues) mihin tarkoitukseen maksu on
 1. Yrityksen nimi
