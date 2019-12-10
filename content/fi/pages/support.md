@@ -18,17 +18,17 @@ Sähköposti: [support@secretchronicles.org](mailto:support@secretchronicles.org
 Lähetä [TransferWise](https://transferwise.com):lla osoitteeseen
 [support@secretchronicles.org](mailto:support@secretchronicles.org)
 
-2) Etukäteismaksu: Virallinen invoice PDF jossa IBAN pankkitilin numero
+2) Etukäteismaksu: Virallinen PDF lasku jossa IBAN pankkitilin numero
 -----------------------------------------------------------------------
 
-Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen [support@secretchronicles.org](mailto:support@secretchronicles.org) jotta invoice PDF voidaaan tehdä:
+Tarvittavat tiedot lähetettäväksi sähköpostiosoitteeseen [support@secretchronicles.org](mailto:support@secretchronicles.org) jotta PDF lasku voidaaan tehdä:
 
 1. [GitHub issue numerot](https://github.com/Secretchronicles/TSC/issues) mihin tarkoitukseen maksu on
 1. Yrityksen nimi
 1. Yrityksen ALV numero (VAT)
 1. Yrityksen koko osoite: Kadun nimi, Kadun numero, Postinumero, Kaupunki, Maa
 1. Maksavan henkilön etunimi ja sukunimi
-1. Sähköpostiosoite jonne lähettää virallinen PDF invoice. Invoice will come from laskutus@eezy.fi invoicing company email address.
+1. Sähköpostiosoite jonne lähettää virallinen PDF lasku. Lasku tulee laskutusyrityksen laskutus@eezy.fi sähköposti osoitteesta.
 
 
 3) Etukäteismaksu: Verkkolasku OVT-tunnuksella, vain Suomessa
