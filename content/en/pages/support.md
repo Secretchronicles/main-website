@@ -1,19 +1,38 @@
 ---
-title: Commercial Support
+title: Support TSC
 ---
 
-Worldwide: TSC Team
--------------------
+TSC is a freetime project of several artists, programmers, and many
+more people. If you want to support TSC by participating, please go to
+the [community](/en/community) page. If you want to spend money on the
+project, please read on.
 
-* Support for installing the TSC game
+TSC as such is not sustainable. Some team members however are
+professional freelance coders outside of TSC, and if payed, they can
+devote some of their work time to TSC. The below options allow for
+such arrangements; think of them as a bounty system.
+
+Received payments without specific directions will be used to:
+
+* Implement features, fixes etc
+* Do contests for great art and music in the game
+* Organise physical meetings of the developers (travel expenses)
+* Buy hardware for testing the game, for backups, or anything else
+  TSC game related
+* Saving for unexpected costs
+
+You can include specific directions with your payment:
+
 * Feature and Fix development for the TSC game
 * Creating packages for some Linux distros on some CPUs
   where packages do not exist yet
 
-Email: [support@secretchronicles.org](mailto:support@secretchronicles.org)
+Money received with such directions will only be used according to
+them. Please write to [support@secretchronicles.org](mailto:support@secretchronicles.org)
+if you want to include such directions.
 
 1) Pre-payment: Fastest to send with smallest fees
------------------------------------------------
+--------------------------------------------------
 
 Send with [TransferWise](https://transferwise.com) to
 [support@secretchronicles.org](mailto:support@secretchronicles.org)
@@ -73,20 +92,10 @@ Required info to send to Email [support@secretchronicles.org](mailto:support@sec
 Transparency
 ------------
 
-TSC is a freetime project of several artists, programmers, and many
-more people. Commercial Support payments will be used to:
-
-* Implement features, fixes etc which have been ordered
-* Do contests for great art and music in the game
-* Organise physical meetings of the developers (travel expenses)
-* Buy hardware for testing the game, for backups, or anything else
-  TSC game related
-* Saving for unexpected costs
-
 The project lead maintains maximum transparency regarding the
-money that is received from Commercial Support with reports at [forum][1],
+money that is received with reports at [forum][1],
 and the team decides as a whole about how any received money is to
-be spent. Be assured we are very grateful to all
-Commercial Support customers to advance the TSC game development.
+be spent. Be assured we are very grateful for everyone who helps
+to advance the TSC game development.
 
 [1]: https://lists.secretchronicles.org/hyperkitty/list/tsc-devel@lists.secretchronicles.org/
