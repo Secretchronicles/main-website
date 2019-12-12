@@ -8,7 +8,7 @@ the [community](/en/community) page. If you want to spend money on the
 project, please read on.
 
 TSC as such is not sustainable. Some team members however are
-professional freelance coders outside of TSC, and if payed, they can
+professional freelance coders outside of TSC, and if paid, they can
 devote some of their work time to TSC. The below options allow for
 such arrangements; think of them as a bounty system.
 
