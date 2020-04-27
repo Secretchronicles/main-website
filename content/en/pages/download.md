@@ -54,13 +54,17 @@ If it does not work, and opens it as archive, close that archive manager,
 right click .deb package, and select open with package installer.
 
 Alternatively, to install the package at terminal, first cd into the folder where you downloaded the package to:
+
 ~~~~~~~~~~~~~~~~~~~~~
 cd Downloads/
 ~~~~~~~~~~~~~~~~~~~~~
+
 Then run:
+
 ~~~~~~~~~~~~~~~~~~~~~
 sudo apt install ./TSC-2.1.0+packagename.deb
 ~~~~~~~~~~~~~~~~~~~~~
+
 Apt will take care of the installation and all required dependencies. After the install is finished you can launch TSC through the
 new The Secret Chronicles of Dr. M. entry in your application menu or by running the tsc command in your terminal.
 

@@ -59,13 +59,17 @@ If it does not work, and opens it as archive, close that archive manager,
 right click .deb package, and select open with package installer.
 
 Vaihtoehtoisesti, asentaaksesi paketin komentorivillä, ensimmäiseksi mene kansioon johon latasit paketin:
+
 ~~~~~~~~~~~~~~~~~~~~~
 cd Lataukset/
 ~~~~~~~~~~~~~~~~~~~~~
+
 Sitten suorita:
+
 ~~~~~~~~~~~~~~~~~~~~~
 sudo apt install ./TSC-2.1.0+pakettinimi.deb
 ~~~~~~~~~~~~~~~~~~~~~
+
 Apt pitää huolen asennuksesta ja riippuvuuksista. Asennuksen jälkeen voit käynnistää TSC pelin
 uudesta The Secret Chronicles of Dr. M. kuvasta Pelit valikossa tai tai suorittamalla tsc komento päätteessäsi.
 
