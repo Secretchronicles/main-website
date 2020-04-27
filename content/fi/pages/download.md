@@ -54,10 +54,6 @@ Jos se ei toimi, ja avautuu .zip jne arkistonhallinnassa,
 sulje arkistonhallinta, klikkaa oikealla hiiren painikkeella .deb pakettia,
 ja valitse avaa paketin asentajalla.
 
-You can try can you install .deb package by double clicking it on file manager.
-If it does not work, and opens it as archive, close that archive manager,
-right click .deb package, and select open with package installer.
-
 Vaihtoehtoisesti, asentaaksesi paketin komentorivillä, ensimmäiseksi mene kansioon johon latasit paketin:
 
 ~~~~~~~~~~~~~~~~~~~~~
