@@ -29,36 +29,78 @@ Kehitys versio
 
 **Windows**
 
-[Julkaisu: Päivitetyt Windows paketit saatavilla](/fi/news/2019/11/30/Updated-Windows-Packages/)
-
 Seuraa Windows asennusohjelman asennusvaiheita.
 
-**64bit Win7 ja uudemmat:**
+**64bit Win7 ja uudempi**
 
-[tsc_2.1.0_git20191130_amd64.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191130_amd64.exe)
+[TSC-2.1.0-rc2-win64.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-win64.exe)
 
-: MD5 sum:<br>287a3aaf17b822f94271c9aec59c8a50<br>
-  SHA256 hash:<br>fbca7bdcf4b1fa2c2dcf9a199143890fa3fdda49972e8b3a2ff93cd3078059ad<br>
+: MD5 sum:<br>5a2ca9d5dafe46fab0f0ddb2f3511b05<br>
+  SHA256 hash:<br>577e60a76b93ef10c82021cd70308d56c8cd605a83a8905b3bbb3fe5d1307ee2<br>
 <br>
 
-**32bit Win7 ja uudemmat:**
+**32bit Win7 ja uudempi**
 
-[tsc_2.1.0_git20191130_win32.exe](https://ftp.secretchronicles.org/alpha/tsc_2.1.0_git20191130_win32.exe)
+[TSC-2.1.0-rc2-win32.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-win32.exe)
 
-: MD5 sum:<br>57804a5b6454d047bb74d8ba839463fd<br>
-  SHA256 hash:<br>9e1c0066a803b41bd784c4c685adfbd746c88a20e2f4c17ba082a7488f560616<br>
+: MD5 sum:<br>1ef3050cd7a914ad9d82151ed69d1c3a<br>
+  SHA256 hash:<br>621a5b54f4ee9be2166f8571969f5818f9cf4a6ce3b926dc6ca1a84a6720dfa7<br>
 <br>
 
-**Ubuntu 18.04**
+**.deb pakettien asentaminen**
 
-[Julkaisu: Päivitetut Windows ja Ubuntu 18.04 Alpha paketit saatavilla](/fi/news/2019/10/24/Updated-Windows-and-Ubuntu-18/)
+Voit kokeilla asentaa .deb paketin kaksoisklikkaamalla sitä tiedostonhallinnassa.
+Jos se ei toimi, ja avautuu .zip jne arkistonhallinnassa,
+sulje arkistonhallinta, klikkaa oikealla hiiren painikkeella .deb pakettia,
+ja valitse avaa paketin asentajalla.
 
-Saadaksesi tietoja Ubuntu 18.04 paketin asentamisesta, ole hyvä ja katso ylläoleva uutinen.
+You can try can you install .deb package by double clicking it on file manager.
+If it does not work, and opens it as archive, close that archive manager,
+right click .deb package, and select open with package installer.
 
-[tsc_2.1.0+git20191015-alpha4_amd64.deb](https://ftp.secretchronicles.org/alpha/tsc_2.1.0+git20191015-alpha4_amd64.deb)
+Vaihtoehtoisesti, asentaaksesi paketin komentorivillä, ensimmäiseksi mene kansioon johon latasit paketin:
+~~~~~~~~~~~~~~~~~~~~~
+cd Lataukset/
+~~~~~~~~~~~~~~~~~~~~~
+Sitten suorita:
+~~~~~~~~~~~~~~~~~~~~~
+sudo apt install ./TSC-2.1.0+pakettinimi.deb
+~~~~~~~~~~~~~~~~~~~~~
+Apt pitää huolen asennuksesta ja riippuvuuksista. Asennuksen jälkeen voit käynnistää TSC pelin
+uudesta The Secret Chronicles of Dr. M. kuvasta Pelit valikossa tai tai suorittamalla tsc komento päätteessäsi.
 
-: MD5 sum:<br>3057351969b8260d9ed44750c5fc1694<br>
-  SHA256 hash:<br>a177c5aa43bfabf37c106eda4473c7000040a111f02ff5ef26da6c9198b6a7e4<br>
+HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, koska vanhempi apt-get ei pysty asentamaan .deb-pakettia ja kaikkia sen riippuvuuksia käyttäjän kotikansioista. Voit myös käyttää dpkg -i asentaaksesi paketin, ja sitten suorittaa apt-get install -f korjataksesi riippuvuudet.
+
+**64bit Ubuntu 20.04**
+
+[TSC-2.1.0-rc2-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-focal-amd64.deb)
+
+: MD5 sum:<br>869d6895a1003f76de6671eabb7838a3<br>
+  SHA256 hash:<br>99b6d50d11ee24f77558858f7ec694f47b81bc04e754cef0df8fbd8367340d0f<br>
+<br>
+
+**64bit Ubuntu 18.04 ja Linux Mint 19.x**
+
+[TSC-2.1.0-rc2-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-amd64.deb)
+
+: MD5 sum:<br>5168c1e07a91df963effc5d80db67086<br>
+  SHA256 hash:<br>bd0d1d2c85574a220fdd5564a09790feed54904cd3086c27fa5072de161b8877<br>
+<br>
+
+**32bit Ubuntu 18.04 ja Linux Mint 19.x**
+
+[TSC-2.1.0-rc2-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-i386.deb)
+
+: MD5 sum:<br>be1d5edc448b99f2ffaf2808a7fb122e<br>
+  SHA256 hash:<br>053bc4e92e049e798cfc37d3c90bc26aa39ac1a52f108e0c68f2733ccbf230b2<br>
+<br>
+
+**RasPi3/4 Raspbian**
+
+[TSC-2.1.0-rc2-armhf.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-armhf.deb)
+
+: MD5 sum:<br>68054b95fa42074db9b9101484f009d9<br>
+  SHA256 hash:<br>c41c388eef77caaa340f662cec13a488a2a307335935026aa6b8e289c38a4a88<br>
 <br>
 
 **USB tikulta käynnistyvä versio**
