@@ -75,32 +75,32 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
 
 [TSC-2.1.0-rc2-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-focal-amd64.deb)
 
-: MD5 sum:<br>869d6895a1003f76de6671eabb7838a3<br>
-  SHA256 hash:<br>99b6d50d11ee24f77558858f7ec694f47b81bc04e754cef0df8fbd8367340d0f<br>
+: MD5 sum:<br>543fff3247162201f98a14e370a8bf85<br>
+  SHA256 hash:<br>925abde0410934c00d73e9ca739b9b6e67f6ed4402944d5902b7112e69e8a671<br>
 <br>
 
 **64bit Ubuntu 18.04 ja Linux Mint 19.x**
 
 [TSC-2.1.0-rc2-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-amd64.deb)
 
-: MD5 sum:<br>5168c1e07a91df963effc5d80db67086<br>
-  SHA256 hash:<br>bd0d1d2c85574a220fdd5564a09790feed54904cd3086c27fa5072de161b8877<br>
+: MD5 sum:<br>a54a2db8b6cc3a72b7094eed7d7c13d6<br>
+  SHA256 hash:<br>4b9be8641833cb9307a9cb3bdd65e9022c89de08029812a552c270ce0ed5148f<br>
 <br>
 
 **32bit Ubuntu 18.04 ja Linux Mint 19.x**
 
 [TSC-2.1.0-rc2-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-i386.deb)
 
-: MD5 sum:<br>be1d5edc448b99f2ffaf2808a7fb122e<br>
-  SHA256 hash:<br>053bc4e92e049e798cfc37d3c90bc26aa39ac1a52f108e0c68f2733ccbf230b2<br>
+: MD5 sum:<br>159359ae233937f3f92eecaa0a7cb026<br>
+  SHA256 hash:<br>620c49f22e55aa25332be070a3f1f7159b480d31180297b8c575d67964675587<br>
 <br>
 
 **RasPi3/4 Raspbian**
 
 [TSC-2.1.0-rc2-armhf.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-armhf.deb)
 
-: MD5 sum:<br>68054b95fa42074db9b9101484f009d9<br>
-  SHA256 hash:<br>c41c388eef77caaa340f662cec13a488a2a307335935026aa6b8e289c38a4a88<br>
+: MD5 sum:<br>9e77ccd196539bb49c28e9fadffb2f43<br>
+  SHA256 hash:<br>4920d25016ba9d48e0c264c26bbada0c9786647182c422b9a162b45e3942be23<br>
 <br>
 
 **USB tikulta käynnistyvä versio**
