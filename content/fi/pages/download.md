@@ -10,19 +10,12 @@ versioita, mutta ole hyvä ja huomioi ettemme tue vanhentuneita versioita.
 Vakaa versio
 ------------
 
-Vakaa versio on 2.0.0, julkaistu 2015-08-17. Huomioi että
-[korruptoitunut Windows asennusohjelma oli FTP:llä](/fi/news/2015/10/13/corrupt-win32-installer-on-ftp/)
-aikavälillä 2015-08-17 - 2015-10-13.
+Vakaa versio on 2.1.0, julkaistu 2020-05-17.
 
-[TSC-2.0.0.tar.xz](https://ftp.secretchronicles.org/releases/TSC-2.0.0.tar.xz) (Lähdekoodi) [ [GPG allekirjoitus](https://ftp.secretchronicles.org/releases/TSC-2.0.0.tar.xz.sig) ]
+[TSC-2.1.0.tar.gz](https://ftp.secretchronicles.org/releases/TSC-2.1.0.tar.gz) (Lähdekoodi) [ [PGP allekirjoitus](https://ftp.secretchronicles.org/releases/TSC-2.1.0.tar.gz.sig) ]
 
-: MD5 sum:<br/>54688db473103299d867b0e52c39f51e<br/>
-  SHA256 hash:<br/>c8a9ca3975f9de16aa59fab2a7864c3c541963b46c2c40533632c4fc621b407a
-
-[TSC-2.0.0-win32.exe](https://ftp.secretchronicles.org/releases/TSC-2.0.0-win32.exe) (Windows asennusohjelma) [ [GPG allekirjoitus](https://ftp.secretchronicles.org/releases/TSC-2.0.0-win32.exe.sig) ]
-
-: MD5 sum:<br/>6bc19c1bd835f7b25304f6f431af7de4<br/>
-  SHA256 hash:<br/>184a07479b49aeddc65e97b85a98d087c1a49e48ccc7ca47f2ba498a6fbc5e70
+: MD5 sum:<br/>1f598a39667ff979d1b9075e173eac9b<br/>
+  SHA256 hash:<br/>6a16765b4951e3d5d1ea2b84e6da8f67b0271460f0c570b53ccdab80d7396261<br>
 
 Kehitys versio
 --------------
@@ -33,18 +26,18 @@ Seuraa Windows asennusohjelman asennusvaiheita.
 
 **64bit Win7 ja uudempi**
 
-[TSC-2.1.0-rc2-win64.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-win64.exe)
+[TSC-2.1.0-win64.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-win64.exe)
 
-: MD5 sum:<br>5a2ca9d5dafe46fab0f0ddb2f3511b05<br>
-  SHA256 hash:<br>577e60a76b93ef10c82021cd70308d56c8cd605a83a8905b3bbb3fe5d1307ee2<br>
+: MD5 sum:<br>88dffbc684d6897498b123922098069a<br>
+  SHA256 hash:<br>f5a64dd4f4a789792754f9ef86162ac78a01b13f69a2cb11265bb3954ad0670d<br>
 <br>
 
 **32bit Win7 ja uudempi**
 
-[TSC-2.1.0-rc2-win32.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-win32.exe)
+[TSC-2.1.0-win32.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-win32.exe)
 
-: MD5 sum:<br>1ef3050cd7a914ad9d82151ed69d1c3a<br>
-  SHA256 hash:<br>621a5b54f4ee9be2166f8571969f5818f9cf4a6ce3b926dc6ca1a84a6720dfa7<br>
+: MD5 sum:<br>19c2fd83778a81d7e9a1abb6a6996a34<br>
+  SHA256 hash:<br>5def6edeb8f1d293b49b16ef88a1d41ab3c593cc53c1f5299d7b321723b3b524<br>
 <br>
 
 **.deb pakettien asentaminen**
@@ -73,34 +66,34 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
 
 **64bit Ubuntu 20.04**
 
-[TSC-2.1.0-rc2-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-focal-amd64.deb)
+[[TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
 
-: MD5 sum:<br>543fff3247162201f98a14e370a8bf85<br>
-  SHA256 hash:<br>925abde0410934c00d73e9ca739b9b6e67f6ed4402944d5902b7112e69e8a671<br>
+: MD5 sum:<br>21bb6f040eb97278c863e8f2fa7255a5<br>
+  SHA256 hash:<br>497d9d857fe00fdad42ef8b50152589e7866fde40722e95413c835b98b04cb26<br>
 <br>
 
 **64bit Ubuntu 18.04 ja Linux Mint 19.x**
 
-[TSC-2.1.0-rc2-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-amd64.deb)
+[TSC-2.1.0-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-amd64.deb)
 
-: MD5 sum:<br>a54a2db8b6cc3a72b7094eed7d7c13d6<br>
-  SHA256 hash:<br>4b9be8641833cb9307a9cb3bdd65e9022c89de08029812a552c270ce0ed5148f<br>
+: MD5 sum:<br>b0708e28d892a2d10f0c580b674451b9<br>
+  SHA256 hash:<br>25af5cf8174de48c2c1a16b2c5e181c4bf8a8e50baa008a23fdc97625b8d85cf<br>
 <br>
 
 **32bit Ubuntu 18.04 ja Linux Mint 19.x**
 
-[TSC-2.1.0-rc2-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-i386.deb)
+[TSC-2.1.0-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-i386.deb)
 
-: MD5 sum:<br>159359ae233937f3f92eecaa0a7cb026<br>
-  SHA256 hash:<br>620c49f22e55aa25332be070a3f1f7159b480d31180297b8c575d67964675587<br>
+: MD5 sum:<br>27e41b2ae5d881bcf29e22c77e654660<br>
+  SHA256 hash:<br>b1f679b442dadb847f518c37295923429482f2bb498e923f233b18584dcab438<br>
 <br>
 
 **RasPi3/4 Raspbian**
 
-[TSC-2.1.0-rc2-armhf.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-rc2-armhf.deb)
+[TSC-2.1.0-armhf.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-armhf.deb)
 
-: MD5 sum:<br>9e77ccd196539bb49c28e9fadffb2f43<br>
-  SHA256 hash:<br>4920d25016ba9d48e0c264c26bbada0c9786647182c422b9a162b45e3942be23<br>
+: MD5 sum:<br>81e1f94fe87c8ff5a2c6989980fd58cd<br>
+  SHA256 hash:<br>5dac49ae91180478cbc4ef12211025e9b460722a57274d0633b2d2ec02fa4ec2<br>
 <br>
 
 **USB tikulta käynnistyvä versio**
