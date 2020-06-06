@@ -25,18 +25,38 @@ Follow Windows installer setup steps.
 
 #### 64bit Win7 and newer
 
+Release version:
+
 [TSC-2.1.0-win64.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-win64.exe)
 
 : MD5 sum:<br>88dffbc684d6897498b123922098069a<br>
   SHA256 hash:<br>f5a64dd4f4a789792754f9ef86162ac78a01b13f69a2cb11265bb3954ad0670d<br>
 <br>
 
+Debug version:
+
+[TSC-2.1.0-win64-debug.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-win64-debug.exe)
+
+: MD5 sum:<br>8fcb0c25ff59d72bb507c028cf6d7d72<br>
+  SHA256 hash:<br>33b227a5f1693bfc950ef029f2a11fef9665d7351f10cbec2f0efc43c203986b<br>
+<br>
+
 #### 32bit Win7 and newer
+
+Release version:
 
 [TSC-2.1.0-win32.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-win32.exe)
 
 : MD5 sum:<br>19c2fd83778a81d7e9a1abb6a6996a34<br>
   SHA256 hash:<br>5def6edeb8f1d293b49b16ef88a1d41ab3c593cc53c1f5299d7b321723b3b524<br>
+<br>
+
+Debug version:
+
+[TSC-2.1.0-win32-debug.exe](https://ftp.secretchronicles.org/releases/TSC-2.1.0-win32-debug.exe)
+
+: MD5 sum:<br>908aca8421448e322e596bd5658fc610<br>
+  SHA256 hash:<br>a4bd65ededd6bbc4bc48685ee91ec51dfda06da6bcda77185509edfbd9f21823<br>
 <br>
 
 ### .deb packages
