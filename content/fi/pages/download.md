@@ -86,7 +86,7 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
 
 **64bit Ubuntu 20.04**
 
-[[TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
+[TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
 
 : MD5 sum:<br>21bb6f040eb97278c863e8f2fa7255a5<br>
   SHA256 hash:<br>497d9d857fe00fdad42ef8b50152589e7866fde40722e95413c835b98b04cb26<br>
