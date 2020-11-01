@@ -82,7 +82,7 @@ new The Secret Chronicles of Dr. M. entry in your application menu or by running
 
 NOTE: You must use apt, not apt-get to install the package, as the older apt-get cannot deal with installing .deb packages and resolving dependencies from a users home directory. You could also use dpkg -i to install the package, then run apt-get install -f to repair the broken dependencies.
 
-#### Debian Bullseye Sid Unstable
+#### 64bit Debian Bullseye Sid Unstable
 
 [TSC-2.1.0-sid-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-sid-amd64.deb)
 

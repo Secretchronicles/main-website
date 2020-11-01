@@ -84,7 +84,7 @@ uudesta The Secret Chronicles of Dr. M. kuvasta Pelit valikossa tai tai suoritta
 
 HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, koska vanhempi apt-get ei pysty asentamaan .deb-pakettia ja kaikkia sen riippuvuuksia käyttäjän kotikansioista. Voit myös käyttää dpkg -i asentaaksesi paketin, ja sitten suorittaa apt-get install -f korjataksesi riippuvuudet.
 
-**Debian Bullseye Sid Unstable**
+**64bit Debian Bullseye Sid Unstable**
 
 [TSC-2.1.0-sid-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-sid-amd64.deb)
 
