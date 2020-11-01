@@ -90,6 +90,14 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
   SHA256 hash:<br>dd0a19cb0333295e4d09db1ae980d81527ba8124b281ae71033880a425f6abcb<br>
 <br>
 
+#### 64bit Ubuntu 20.10
+
+[TSC-2.1.0-groovy-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-groovy-amd64.deb)
+
+: MD5 sum:<br>1b6ccfb19eda3a8800029b0200f4a3f2<br>
+  SHA256 hash:<br>0172ea705ab037582c415734b094dd4917803acf97226df585683db35b1b2678<br>
+<br>
+
 #### 64bit Ubuntu 20.04
 
 [TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
