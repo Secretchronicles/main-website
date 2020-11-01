@@ -84,6 +84,14 @@ uudesta The Secret Chronicles of Dr. M. kuvasta Pelit valikossa tai tai suoritta
 
 HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, koska vanhempi apt-get ei pysty asentamaan .deb-pakettia ja kaikkia sen riippuvuuksia käyttäjän kotikansioista. Voit myös käyttää dpkg -i asentaaksesi paketin, ja sitten suorittaa apt-get install -f korjataksesi riippuvuudet.
 
+**Debian Bullseye Sid Unstable**
+
+[TSC-2.1.0-sid-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-sid-amd64.deb)
+
+: MD5 sum:<br>79e9fc4b1de562e89e06a121ae8fabcb<br>
+  SHA256 hash:<br>dd0a19cb0333295e4d09db1ae980d81527ba8124b281ae71033880a425f6abcb<br>
+<br>
+
 **64bit Ubuntu 20.04**
 
 [TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
