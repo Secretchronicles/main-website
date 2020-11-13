@@ -9,7 +9,7 @@ summary: USB tikulta käynnistyvä versio saatavilla
 
 xet7 julkaisi tänään USB tikulta suoraan käynnistyvän version TSC:stä.
 Siinä on [Puppy Linux Bionic][1] 32bit Linux ja TSC 2.1.0 julkaisu versio
-asennettuna .deb paketista (riippuvuuden paketti hallinnasta, ja purettu
+asennettuna .deb paketista (riippuvuudet paketti hallinnasta, ja purettu
 .deb paketti kohde hakemistoihin) tänään 13.11.2020. Linux käynnistyy suoraan
 USB tikulta, joten se toimii nopeasti ja on hyvin pelattava.
 Se toimii x86 ja x64 tietokoneissa.
