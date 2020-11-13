@@ -96,8 +96,8 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
 
 [TSC-2.1.0-groovy-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-groovy-amd64.deb)
 
-: MD5 sum:<br>1b6ccfb19eda3a8800029b0200f4a3f2<br>
-  SHA256 hash:<br>0172ea705ab037582c415734b094dd4917803acf97226df585683db35b1b2678<br>
+: MD5 sum:<br>55bf65a993a7b53440f8841248e4f618<br>
+  SHA256 hash:<br>9cff6d7cd10a715416f02e682d1d330c09fe7fdc4b0e6a0a568fb8fc8a09fbce<br>
 <br>
 
 **64bit Ubuntu 20.04**
