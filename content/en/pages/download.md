@@ -59,6 +59,10 @@ Debug version:
   SHA256 hash:<br>a4bd65ededd6bbc4bc48685ee91ec51dfda06da6bcda77185509edfbd9f21823<br>
 <br>
 
+### Bootable USB image for x86 and x64
+
+[More details](https://secretchronicles.org/en/news/2020/11/13/bootable-usb-image-available/)
+
 ### .deb packages
 
 You can try can you install .deb package by double clicking it on file manager.

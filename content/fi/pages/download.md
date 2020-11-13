@@ -60,6 +60,10 @@ Debug versio:
   SHA256 hash:<br>a4bd65ededd6bbc4bc48685ee91ec51dfda06da6bcda77185509edfbd9f21823<br>
 <br>
 
+### USB tikulta käynnistyvä versio x86 ja x64 tietokoneille
+
+[Lisätietoja](https://secretchronicles.org/fi/news/2020/11/13/bootable-usb-image-available/)
+
 **.deb pakettien asentaminen**
 
 Voit kokeilla asentaa .deb paketin kaksoisklikkaamalla sitä tiedostonhallinnassa.
