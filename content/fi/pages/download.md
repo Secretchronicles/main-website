@@ -92,8 +92,8 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
 
 [TSC-2.1.0-sid-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-sid-amd64.deb)
 
-: MD5 sum:<br>79e9fc4b1de562e89e06a121ae8fabcb<br>
-  SHA256 hash:<br>dd0a19cb0333295e4d09db1ae980d81527ba8124b281ae71033880a425f6abcb<br>
+: MD5 sum:<br>c3a105d2f62a941d4b37c4b5c905e963<br>
+  SHA256 hash:<br>ecf5dd359b1b3711b2de82d96b46503eff154cd6c2d4e7caf432b38f50d1e578<br>
 <br>
 
 **64bit Ubuntu 20.10**
