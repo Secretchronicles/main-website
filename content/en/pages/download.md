@@ -102,6 +102,8 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
   SHA256 hash:<br>9cff6d7cd10a715416f02e682d1d330c09fe7fdc4b0e6a0a568fb8fc8a09fbce<br>
 <br>
 
+<a name="s390x"></a>
+
 ### s390x Ubuntu 20.10
 
 For IBM zSeries mainframes.
