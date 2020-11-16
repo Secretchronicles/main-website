@@ -3,7 +3,7 @@ title: TSC s390x mainframeille saatavilla
 date: 2020-11-16
 author: xet7
 translator: xet7
-summary: TSC for s390x available
+summary: TSC s390x mainframeille saataville
 ---
 
 xet7:llä oli jo pääsy IBM LinuxOne Community Cloud
