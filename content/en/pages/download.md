@@ -102,6 +102,16 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
   SHA256 hash:<br>9cff6d7cd10a715416f02e682d1d330c09fe7fdc4b0e6a0a568fb8fc8a09fbce<br>
 <br>
 
+### s390x Ubuntu 20.10
+
+For IBM zSeries mainframes.
+
+[TSC-2.1.0-groovy-s390x.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-groovy-s390x.deb)
+
+: MD5 sum:<br>b8a0895eaa07101fa61d889c1ff8e011<br>
+  SHA256 hash:<br>485e942862ab68bb77ddc7e3b82f443a01444b11f390e35ed2dd50f438ceba2d<br>
+<br>
+
 #### 64bit Ubuntu 20.04
 
 [TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
