@@ -34,7 +34,7 @@ IRC Channel
 -----------
 
 The IRC channel [#secretchronicles on
-freenode.net](irc://irc.freenode.net/secretchronicles) is the main
+libera.chat](irc://irc.libera.chat/secretchronicles) is the main
 discussion hub of the project. Usually someone is online, but as a
 small free-time project, this cannot be guaranteed. If you post here,
 please be aware that in the worst case it can take hours until
@@ -42,11 +42,9 @@ somebody responds. If on the other hand somebody is online, you might
 get an answer within minutes. Don't hesitate to mention one of the
 channel operators to make them aware of your presence.
 
-You can join the channel via [Freenode’s
-webchat](https://webchat.freenode.net/?channels=secretchronicles), but
-that one is known to sometimes fail or be unavailable and is
-uncomfortable to use. Therefore, it’s recommended you use a native IRC
-client like [HexChat](https://hexchat.github.io/) instead, which also
-integrates much better with your operating system.
+Libera.chat currently does not have a web chat connection
+functionality. Therefore, it is recommended that you use a native IRC
+client like [HexChat](https://hexchat.github.io/) instead, which also integrates much better
+with your operating system.
 
 Public logging of said IRC channel is prohibited.
