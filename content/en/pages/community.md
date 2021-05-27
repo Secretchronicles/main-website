@@ -42,9 +42,9 @@ somebody responds. If on the other hand somebody is online, you might
 get an answer within minutes. Don't hesitate to mention one of the
 channel operators to make them aware of your presence.
 
-Libera.chat currently does not have a web chat connection
-functionality. Therefore, it is recommended that you use a native IRC
-client like [HexChat](https://hexchat.github.io/) instead, which also integrates much better
-with your operating system.
+Libera.chat allows to connect by [web chat](https://web.libera.chat/), but web chats are
+known to be unreliable. Therefore, it is recommended that you use a
+native IRC client like [HexChat](https://hexchat.github.io/) instead, which also integrates
+much better with your operating system.
 
 Public logging of said IRC channel is prohibited.
