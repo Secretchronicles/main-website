@@ -96,6 +96,14 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
   SHA256 hash:<br>ecf5dd359b1b3711b2de82d96b46503eff154cd6c2d4e7caf432b38f50d1e578<br>
 <br>
 
+**64bit Ubuntu 21.04**
+
+[TSC-2.1.0-hirsute-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-hirsute-amd64.deb)
+
+: MD5 sum:<br>3c00848d52df71a140b3a61b62d65844<br>
+  SHA256 hash:<br>bc565c0da20fb4043890fd6a3d6ac856c2b0bbc975889278ea358676dcecdd6f<br>
+<br>
+
 **64bit Ubuntu 20.10**
 
 [TSC-2.1.0-groovy-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-groovy-amd64.deb)
