@@ -20,11 +20,11 @@ Vakaa versio on 2.1.0, julkaistu 2020-05-17.
 Kehitys versio
 --------------
 
-**Windows**
+### Windows
 
 Seuraa Windows asennusohjelman asennusvaiheita.
 
-**64bit Win7 ja uudempi**
+### 64bit Win7 ja uudempi
 
 Julkaisu versio:
 
@@ -42,7 +42,7 @@ Debug versio:
   SHA256 hash:<br>33b227a5f1693bfc950ef029f2a11fef9665d7351f10cbec2f0efc43c203986b<br>
 <br>
 
-**32bit Win7 ja uudempi**
+### 32bit Win7 ja uudempi
 
 Julkaisu versio:
 
@@ -88,7 +88,7 @@ uudesta The Secret Chronicles of Dr. M. kuvasta Pelit valikossa tai tai suoritta
 
 HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, koska vanhempi apt-get ei pysty asentamaan .deb-pakettia ja kaikkia sen riippuvuuksia käyttäjän kotikansioista. Voit myös käyttää dpkg -i asentaaksesi paketin, ja sitten suorittaa apt-get install -f korjataksesi riippuvuudet.
 
-**64bit Debian Bullseye Sid Unstable**
+### 64bit Debian Bullseye Sid Unstable
 
 [TSC-2.1.0-sid-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-sid-amd64.deb)
 
@@ -96,7 +96,7 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
   SHA256 hash:<br>ecf5dd359b1b3711b2de82d96b46503eff154cd6c2d4e7caf432b38f50d1e578<br>
 <br>
 
-**64bit Ubuntu 21.04**
+### 64bit Ubuntu 21.04
 
 [TSC-2.1.0-hirsute-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-hirsute-amd64.deb)
 
@@ -104,7 +104,7 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
   SHA256 hash:<br>bc565c0da20fb4043890fd6a3d6ac856c2b0bbc975889278ea358676dcecdd6f<br>
 <br>
 
-**64bit Ubuntu 20.10**
+### 64bit Ubuntu 20.10
 
 [TSC-2.1.0-groovy-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-groovy-amd64.deb)
 
@@ -114,7 +114,7 @@ HUOM: Sinun täytyy käyttää apt, ei apt-get komentoa asentaaksesi paketin, ko
 
 <a name="s390x"></a>
 
-**s390x Ubuntu 20.10**
+### s390x Ubuntu 20.10
 
 IBM zSeries mainframeille.
 
@@ -124,7 +124,7 @@ IBM zSeries mainframeille.
   SHA256 hash:<br>485e942862ab68bb77ddc7e3b82f443a01444b11f390e35ed2dd50f438ceba2d<br>
 <br>
 
-**64bit Ubuntu 20.04**
+### 64bit Ubuntu 20.04
 
 [TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
 
@@ -132,7 +132,7 @@ IBM zSeries mainframeille.
   SHA256 hash:<br>497d9d857fe00fdad42ef8b50152589e7866fde40722e95413c835b98b04cb26<br>
 <br>
 
-**64bit Ubuntu 18.04 ja Linux Mint 19.x**
+### 64bit Ubuntu 18.04 ja Linux Mint 19.x
 
 [TSC-2.1.0-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-amd64.deb)
 
@@ -140,7 +140,7 @@ IBM zSeries mainframeille.
   SHA256 hash:<br>25af5cf8174de48c2c1a16b2c5e181c4bf8a8e50baa008a23fdc97625b8d85cf<br>
 <br>
 
-**32bit Ubuntu 18.04 ja Linux Mint 19.x**
+### 32bit Ubuntu 18.04 ja Linux Mint 19.x
 
 [TSC-2.1.0-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-i386.deb)
 
@@ -148,7 +148,7 @@ IBM zSeries mainframeille.
   SHA256 hash:<br>b1f679b442dadb847f518c37295923429482f2bb498e923f233b18584dcab438<br>
 <br>
 
-**RasPi3/4 Raspbian**
+### RasPi3/4 Raspbian
 
 [TSC-2.1.0-armhf.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-armhf.deb)
 
@@ -156,12 +156,12 @@ IBM zSeries mainframeille.
   SHA256 hash:<br>5dac49ae91180478cbc4ef12211025e9b460722a57274d0633b2d2ec02fa4ec2<br>
 <br>
 
-**USB tikulta käynnistyvä versio**
+### USB tikulta käynnistyvä versio
 
 [Julkaisu ja lataa: USB tikulta käynnistyvä versio saatavilla](/fi/news/2018/06/16/bootable-usb-image-available)
 <br><br>
 
-**Debian unstable**
+### Debian unstable
 
 [Julkaisu: Alpha versio nyt saatavilla Debian Unstable käyttäjille](/fi/news/2016/08/17/alpha-builds-available/)
 
