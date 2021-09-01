@@ -86,6 +86,38 @@ new The Secret Chronicles of Dr. M. entry in your application menu or by running
 
 NOTE: You must use apt, not apt-get to install the package, as the older apt-get cannot deal with installing .deb packages and resolving dependencies from a users home directory. You could also use dpkg -i to install the package, then run apt-get install -f to repair the broken dependencies.
 
+### amd64/i386/arm64/ppc64el/s390x Debian 11 Bullseye Stable
+
+[TSC-2.1.0-bullseye-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-amd64.deb)
+
+: MD5 sum:<br>0eba5e3d6e96b9253317a1d10f9d82c0<br>
+  SHA256 hash:<br>142dbea3abee8f494e98d21d3fd84bf86ce24ea022521853a27e2057aadaffa3<br>
+<br>
+
+[TSC-2.1.0-bullseye-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-i386.deb)
+
+: MD5 sum:<br>7d489eeb6c7168ee152edbc47865667c<br>
+  SHA256 hash:<br>bb5dab05aad43532f4af53591e4cfeae0b13c6c766c1e3a8baefbe138531ca52<br>
+<br>
+
+[TSC-2.1.0-bullseye-arm64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-arm64.deb)
+
+: MD5 sum:<br>e380b3fb541fb25237ab03d181c8ebc8<br>
+  SHA256 hash:<br>145e58217d3daa74c46f5acf0676cb3ef011f5aa8911858cd6ded2cd41e1d71c<br>
+<br>
+
+[TSC-2.1.0-bullseye-ppc64el.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-ppc64el.deb)
+
+: MD5 sum:<br>d0ecc79e2f7417bfb341b00966f96120<br>
+  SHA256 hash:<br>a9164c88e97dbf09d5fb397c4b772a2817442129d4995d9aafbbd0343a46b8c6<br>
+<br>
+
+[TSC-2.1.0-bullseye-s390x.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-s390x.deb)
+
+: MD5 sum:<br>e778528b637ab3d45488fe34b833afd3<br>
+  SHA256 hash:<br>a292a727e60582539feebddd5b754719f2a489eab1b6eaca740f40fdca0c4178<br>
+<br>
+
 #### 64bit Debian Bullseye Sid Unstable
 
 [TSC-2.1.0-sid-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-sid-amd64.deb)
@@ -94,7 +126,7 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
   SHA256 hash:<br>ecf5dd359b1b3711b2de82d96b46503eff154cd6c2d4e7caf432b38f50d1e578<br>
 <br>
 
-#### 64bit Ubuntu 21.04
+#### amd64/arm64/ppc64el/s390x Ubuntu 21.04 Hirsute Hippo
 
 [TSC-2.1.0-hirsute-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-hirsute-amd64.deb)
 
@@ -102,7 +134,25 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
   SHA256 hash:<br>bc565c0da20fb4043890fd6a3d6ac856c2b0bbc975889278ea358676dcecdd6f<br>
 <br>
 
-#### 64bit Ubuntu 20.10
+[TSC-2.1.0-hirsute-arm64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-hirsute-arm64.deb)
+
+: MD5 sum:<br>7edff4b901fac1e0d927ebee42eb0847<br>
+  SHA256 hash:<br>cb92e9da670c21dbc9727f008ff3405e1d9ab899aa86837b0d760deb97ec1613<br>
+<br> 
+
+[TSC-2.1.0-hirsute-ppc64el.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-hirsute-ppc64el.deb)
+
+: MD5 sum:<br>1b085e9459f5ad1272a6162b5a2d0d86<br>
+  SHA256 hash:<br>e1cfb67023375e9ce10860f20d4f0b1628b82e291b9f586c0825188c9a7d41a3<br>
+<br>
+
+[TSC-2.1.0-hirsute-s390x.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-hirsute-s390x.deb)
+
+: MD5 sum:<br>b611a6179c3bad9eefba9b7daceaf223<br>
+  SHA256 hash:<br>7868dc3b0c0556576040332a8c9b62997fd700c3a445b17ee83344058eb41800<br>
+<br>
+
+#### 64bit Ubuntu 20.10 Groovy Gorilla
 
 [TSC-2.1.0-groovy-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-groovy-amd64.deb)
 
@@ -112,7 +162,7 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
 
 <a name="s390x"></a>
 
-### s390x Ubuntu 20.10
+### s390x Ubuntu 20.10 Groovy Gorilla
 
 For IBM zSeries mainframes.
 
@@ -122,7 +172,7 @@ For IBM zSeries mainframes.
   SHA256 hash:<br>485e942862ab68bb77ddc7e3b82f443a01444b11f390e35ed2dd50f438ceba2d<br>
 <br>
 
-#### 64bit Ubuntu 20.04
+#### 64bit Ubuntu 20.04 Focal Fossa
 
 [TSC-2.1.0-focal-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-focal-amd64.deb)
 
@@ -131,6 +181,8 @@ For IBM zSeries mainframes.
 <br>
 
 #### 64bit Ubuntu 18.04 and Linux Mint 19.x
+
+For newer Linux Mint, look at corresponding Ubuntu or Debian version at this page above.
 
 [TSC-2.1.0-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-amd64.deb)
 
@@ -146,7 +198,13 @@ For IBM zSeries mainframes.
   SHA256 hash:<br>b1f679b442dadb847f518c37295923429482f2bb498e923f233b18584dcab438<br>
 <br>
 
-#### RasPi3/4 Raspbian
+#### RasPi3/4
+
+Ubuntu 21.04 Hirsute Hippo and Debian 11 Bullseye:
+
+- Look at this page above for arm64 versions.
+
+Raspbian or Raspberry Pi OS:
 
 [TSC-2.1.0-armhf.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-armhf.deb)
 
