@@ -90,32 +90,32 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
 
 [TSC-2.1.0-bullseye-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-amd64.deb)
 
-: MD5 sum:<br>0eba5e3d6e96b9253317a1d10f9d82c0<br>
-  SHA256 hash:<br>142dbea3abee8f494e98d21d3fd84bf86ce24ea022521853a27e2057aadaffa3<br>
+: MD5 sum:<br>32a6aec9bf6ee62b7f86e10ae9e691eb<br>
+  SHA256 hash:<br>30701ef6fb4fcf9afe36286ff00734af9ae474483db302de201f2c04ca07981a<br>
 <br>
 
 [TSC-2.1.0-bullseye-i386.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-i386.deb)
 
-: MD5 sum:<br>7d489eeb6c7168ee152edbc47865667c<br>
-  SHA256 hash:<br>bb5dab05aad43532f4af53591e4cfeae0b13c6c766c1e3a8baefbe138531ca52<br>
+: MD5 sum:<br>1a3c2c4fa8031923c8e97d0c7a2df483<br>
+  SHA256 hash:<br>a668162275587cc69fb026adf2a286879beaf434e4376f823f6b7fe7ad33971a<br>
 <br>
 
 [TSC-2.1.0-bullseye-arm64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-arm64.deb)
 
-: MD5 sum:<br>e380b3fb541fb25237ab03d181c8ebc8<br>
-  SHA256 hash:<br>145e58217d3daa74c46f5acf0676cb3ef011f5aa8911858cd6ded2cd41e1d71c<br>
+: MD5 sum:<br>63d4c2d4866e570e0e5666d388d45511<br>
+  SHA256 hash:<br>5aa473f3c731ee21e8dbce2dd62420afc0e907d2f0c010c687807c054b8227b2<br>
 <br>
 
 [TSC-2.1.0-bullseye-ppc64el.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-ppc64el.deb)
 
-: MD5 sum:<br>d0ecc79e2f7417bfb341b00966f96120<br>
-  SHA256 hash:<br>a9164c88e97dbf09d5fb397c4b772a2817442129d4995d9aafbbd0343a46b8c6<br>
+: MD5 sum:<br>dff18ae08c86cdb6d73418c036793ebc<br>
+  SHA256 hash:<br>75868d9b28d737f6b9234a8a0305542c8fbf797c02089693b41ecbd283f60906<br>
 <br>
 
 [TSC-2.1.0-bullseye-s390x.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-bullseye-s390x.deb)
 
-: MD5 sum:<br>e778528b637ab3d45488fe34b833afd3<br>
-  SHA256 hash:<br>a292a727e60582539feebddd5b754719f2a489eab1b6eaca740f40fdca0c4178<br>
+: MD5 sum:<br>f1ee08000cf40970318828994504422b<br>
+  SHA256 hash:<br>29297afda03d5fbe4d0a79305bd65c7f67a01a9b0a484df0417abb39bc731b23<br>
 <br>
 
 #### 64bit Debian Bullseye Sid Unstable
@@ -124,6 +124,26 @@ NOTE: You must use apt, not apt-get to install the package, as the older apt-get
 
 : MD5 sum:<br>c3a105d2f62a941d4b37c4b5c905e963<br>
   SHA256 hash:<br>ecf5dd359b1b3711b2de82d96b46503eff154cd6c2d4e7caf432b38f50d1e578<br>
+<br>
+
+#### amd64/arm64/s390x Ubuntu 22.04 Jammy Jellyfish
+
+[TSC-2.1.0-jammy-amd64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-jammy-amd64.deb)
+
+: MD5 sum:<br>b5fc9d13652394f48edd118b3b69c8e0<br>
+  SHA256 hash:<br>6d329a7a75fabb7500ae552309c286f51f5537ed9c831f407686ee0a6046b7b5<br>
+<br>
+
+[TSC-2.1.0-jammy-arm64.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-jammy-arm64.deb)
+
+: MD5 sum:<br>253f97d4b3a31015fc1d4d847f5f3a7c<br>
+  SHA256 hash:<br>e48437ac767d4fa09dbe900b8bbdcdf5b112d3cee71a550c1cc22cec84b2de39<br>
+<br>
+
+[TSC-2.1.0-jammy-s390x.deb](https://ftp.secretchronicles.org/releases/TSC-2.1.0-jammy-s390x.deb)
+
+: MD5 sum:<br>ccb3f179c72ba0c15aa823d60e0823a5<br>
+  SHA256 hash:<br>4067cc2f007d73cb5c23d4157225c418537644252f11cb6b062b1c8fa31177aa<br>
 <br>
 
 #### amd64/arm64/ppc64el/s390x Ubuntu 21.04 Hirsute Hippo
