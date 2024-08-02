@@ -10,8 +10,8 @@ GEM
     nanoc (3.8.0)
       cri (~> 2.3)
     rack (2.2.8.1)
-    rexml (3.2.8)
-      strscan (>= 3.0.9)
+    rexml (3.3.3)
+      strscan
     strscan (3.1.0)
 
 PLATFORMS
