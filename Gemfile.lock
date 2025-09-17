@@ -10,7 +10,7 @@ GEM
     nanoc (3.8.0)
       cri (~> 2.3)
     rack (2.2.14)
-    rexml (3.3.9)
+    rexml (3.4.2)
 
 PLATFORMS
   ruby
