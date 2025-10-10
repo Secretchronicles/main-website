@@ -10,7 +10,7 @@ GEM
       rexml (>= 3.3.9)
     nanoc (3.8.0)
       cri (~> 2.3)
-    rack (3.2.2)
+    rack (3.2.3)
     rackup (2.2.1)
       rack (>= 3)
     rexml (3.4.4)
