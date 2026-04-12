@@ -1,3 +1,5 @@
+**ARCHIVED Repository!** Website repository is now at: https://github.com/Secretchronicles/secretchronicles.github.io
+
 Main Secretchronicles website
 =============================
 
